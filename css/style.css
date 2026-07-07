@@ -633,6 +633,96 @@ p { margin: 0 0 1.1em; }
 .field.invalid .err { display: block; }
 .field.invalid input, .field.invalid textarea { border-color: var(--red-accent); }
 
+/* ---------- Village nostalgia layer ---------- */
+.hand { font-family: "Kalam", "Comic Sans MS", cursive; }
+
+/* handmade-paper grain on warm sections */
+.texture { position: relative; }
+.texture::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none; z-index: 0;
+  opacity: .05; mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+.texture > .container { position: relative; z-index: 1; }
+
+/* jharokha arch photo frame */
+.arch-frame {
+  margin: 0; background: var(--cream-25);
+  padding: 12px 12px 0;
+  border: 1px solid color-mix(in srgb, var(--gold-500) 60%, transparent);
+  border-radius: 999px 999px 8px 8px;
+  box-shadow: 0 30px 55px -32px rgba(67, 5, 2, .5);
+  position: relative; text-align: center;
+}
+.arch-frame::before {
+  content: ""; position: absolute; left: 50%; top: -9px; transform: translateX(-50%) rotate(45deg);
+  width: 14px; height: 14px; background: linear-gradient(135deg, var(--gold-400), var(--gold-600));
+  border: 1px solid var(--gold-600);
+}
+.arch-frame img {
+  width: 100%; height: auto; object-fit: cover; aspect-ratio: 5 / 6;
+  border-radius: 999px 999px 4px 4px;
+  border: 1px solid color-mix(in srgb, var(--gold-500) 40%, transparent);
+}
+.arch-frame figcaption {
+  font-family: "Kalam", cursive; font-size: 1.1rem; color: var(--maroon-700);
+  padding: .8rem .4rem .9rem;
+}
+
+.village-grid {
+  display: grid; grid-template-columns: minmax(300px, 440px) 1fr;
+  gap: clamp(2.5rem, 5vw, 4.5rem); align-items: center;
+}
+@media (max-width: 900px) { .village-grid { grid-template-columns: 1fr; } .arch-frame { max-width: 420px; margin-inline: auto; } }
+.village-grid .jingle { max-width: 460px; margin-top: 1.6rem; }
+.village-note { font-family: "Kalam", cursive; font-size: 1.05rem; color: var(--ink-600); margin-top: 1rem; }
+.village-note a { font-family: var(--font-ui); font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; font-weight: 600; }
+
+/* warli folk-art divider band */
+.warli-divider {
+  height: 74px;
+  background:
+    url("../assets/img/warli-band.svg") repeat-x center / auto 46px,
+    linear-gradient(90deg, var(--maroon-950), var(--maroon-800) 50%, var(--maroon-950));
+  border-top: 1px solid color-mix(in srgb, var(--gold-500) 55%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--gold-500) 55%, transparent);
+}
+
+/* village process medallions */
+.process-row {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 210px), 1fr));
+  gap: clamp(1.4rem, 3vw, 2.4rem);
+  margin-top: clamp(3rem, 6vw, 4.5rem);
+  padding-top: clamp(2.2rem, 4vw, 3rem);
+  border-top: 1px dashed color-mix(in srgb, var(--gold-600) 45%, transparent);
+}
+.process-step { text-align: center; }
+.process-step .w-icon {
+  width: 86px; height: 86px; margin: 0 auto 1rem; border-radius: 50%;
+  background: radial-gradient(circle at 32% 28%, var(--maroon-500), var(--maroon-900));
+  border: 2px solid var(--gold-500);
+  box-shadow: 0 0 0 5px color-mix(in srgb, var(--gold-500) 22%, transparent), 0 14px 26px -14px rgba(67, 5, 2, .7);
+  display: grid; place-items: center; color: var(--gold-300);
+}
+.process-step .w-icon svg { width: 52px; height: 52px; }
+.process-step h3 { font-family: var(--font-ui); font-size: .82rem; font-weight: 700; letter-spacing: .2em; text-transform: uppercase; color: var(--maroon-800); margin-bottom: .35rem; }
+.process-step p { font-size: .95rem; color: var(--ink-700); margin: 0; max-width: 26ch; margin-inline: auto; }
+.process-step .step-no { display: block; font-family: "Kalam", cursive; color: var(--gold-600); font-size: 1rem; margin-bottom: .3rem; }
+
+/* full-bleed farm banner (about) */
+.farm-band { position: relative; overflow: hidden; margin: 0; }
+.farm-band img { width: 100%; height: clamp(280px, 44vw, 460px); object-fit: cover; object-position: center 30%; display: block; }
+.farm-band::after {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(185deg, rgba(67, 5, 2, .18) 0%, transparent 35%, transparent 55%, rgba(48, 3, 1, .78) 100%);
+}
+.farm-band figcaption {
+  position: absolute; left: 0; right: 0; bottom: clamp(1.2rem, 4vw, 2.6rem); z-index: 1; text-align: center;
+  font-family: "Kalam", cursive; font-size: clamp(1.25rem, 2.6vw, 1.9rem); color: var(--cream-50);
+  text-shadow: 0 2px 14px rgba(0, 0, 0, .55);
+}
+.farm-band figcaption span { display: block; font-family: var(--font-ui); font-size: .72rem; letter-spacing: .34em; text-transform: uppercase; color: var(--gold-300); margin-top: .4rem; }
+
 /* ---------- Timeline (about) ---------- */
 .timeline { position: relative; max-width: 760px; margin-inline: auto; padding-left: 2.2rem; }
 .timeline::before {
