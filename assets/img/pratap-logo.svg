@@ -1,0 +1,2424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:20.83;stroke-miterlimit:10}
+    .fil236 {fill:none;fill-rule:nonzero}
+    .fil347 {fill:#FEFEFE}
+    .fil346 {fill:#373435}
+    .fil349 {fill:#ED3237}
+    .fil350 {fill:#3E4095}
+    .fil348 {fill:#373435;fill-rule:nonzero}
+    .fil341 {fill:#F58634;fill-rule:nonzero}
+    .fil340 {fill:#572220;fill-rule:nonzero}
+    .fil30 {fill:black;fill-rule:nonzero}
+    .fil338 {fill:url(#id7)}
+    .fil345 {fill:url(#id8)}
+    .fil83 {fill:url(#id9)}
+    .fil41 {fill:url(#id10)}
+    .fil336 {fill:url(#id11)}
+    .fil15 {fill:url(#id12)}
+    .fil99 {fill:url(#id13)}
+    .fil289 {fill:url(#id14)}
+    .fil285 {fill:url(#id15)}
+    .fil192 {fill:url(#id16)}
+    .fil250 {fill:url(#id17)}
+    .fil194 {fill:url(#id18)}
+    .fil22 {fill:url(#id19)}
+    .fil187 {fill:url(#id20)}
+    .fil156 {fill:url(#id21)}
+    .fil126 {fill:url(#id22)}
+    .fil232 {fill:url(#id23)}
+    .fil62 {fill:url(#id24)}
+    .fil11 {fill:url(#id25)}
+    .fil26 {fill:url(#id26)}
+    .fil100 {fill:url(#id27)}
+    .fil91 {fill:url(#id28)}
+    .fil33 {fill:url(#id29)}
+    .fil296 {fill:url(#id30)}
+    .fil146 {fill:url(#id31)}
+    .fil45 {fill:url(#id32)}
+    .fil195 {fill:url(#id33)}
+    .fil35 {fill:url(#id34)}
+    .fil31 {fill:url(#id35)}
+    .fil176 {fill:url(#id36)}
+    .fil73 {fill:url(#id37)}
+    .fil317 {fill:url(#id38)}
+    .fil222 {fill:url(#id39)}
+    .fil137 {fill:url(#id40)}
+    .fil259 {fill:url(#id41)}
+    .fil89 {fill:url(#id42)}
+    .fil227 {fill:url(#id43)}
+    .fil5 {fill:url(#id44)}
+    .fil155 {fill:url(#id45)}
+    .fil181 {fill:url(#id46)}
+    .fil215 {fill:url(#id47)}
+    .fil53 {fill:url(#id48)}
+    .fil9 {fill:url(#id49)}
+    .fil267 {fill:url(#id50)}
+    .fil168 {fill:url(#id51)}
+    .fil135 {fill:url(#id52)}
+    .fil46 {fill:url(#id53)}
+    .fil24 {fill:url(#id54)}
+    .fil299 {fill:url(#id55)}
+    .fil208 {fill:url(#id56)}
+    .fil48 {fill:url(#id57)}
+    .fil39 {fill:url(#id58)}
+    .fil70 {fill:url(#id59)}
+    .fil288 {fill:url(#id60)}
+    .fil159 {fill:url(#id61)}
+    .fil319 {fill:url(#id62)}
+    .fil304 {fill:url(#id63)}
+    .fil278 {fill:url(#id64)}
+    .fil335 {fill:url(#id65)}
+    .fil85 {fill:url(#id66)}
+    .fil188 {fill:url(#id67)}
+    .fil276 {fill:url(#id68)}
+    .fil123 {fill:url(#id69)}
+    .fil173 {fill:url(#id70)}
+    .fil57 {fill:url(#id71)}
+    .fil136 {fill:url(#id72)}
+    .fil51 {fill:url(#id73)}
+    .fil313 {fill:url(#id74)}
+    .fil105 {fill:url(#id75)}
+    .fil333 {fill:url(#id76)}
+    .fil337 {fill:url(#id77)}
+    .fil96 {fill:url(#id78)}
+    .fil166 {fill:url(#id79)}
+    .fil172 {fill:url(#id80)}
+    .fil274 {fill:url(#id81)}
+    .fil255 {fill:url(#id82)}
+    .fil312 {fill:url(#id83)}
+    .fil330 {fill:url(#id84)}
+    .fil153 {fill:url(#id85)}
+    .fil264 {fill:url(#id86)}
+    .fil7 {fill:url(#id87)}
+    .fil316 {fill:url(#id88)}
+    .fil106 {fill:url(#id89)}
+    .fil290 {fill:url(#id90)}
+    .fil298 {fill:url(#id91)}
+    .fil114 {fill:url(#id92)}
+    .fil178 {fill:url(#id93)}
+    .fil224 {fill:url(#id94)}
+    .fil200 {fill:url(#id95)}
+    .fil52 {fill:url(#id96)}
+    .fil27 {fill:url(#id97)}
+    .fil219 {fill:url(#id98)}
+    .fil75 {fill:url(#id99)}
+    .fil309 {fill:url(#id100)}
+    .fil97 {fill:url(#id101)}
+    .fil191 {fill:url(#id102)}
+    .fil248 {fill:url(#id103)}
+    .fil90 {fill:url(#id104)}
+    .fil115 {fill:url(#id105)}
+    .fil124 {fill:url(#id106)}
+    .fil293 {fill:url(#id107)}
+    .fil270 {fill:url(#id108)}
+    .fil229 {fill:url(#id109)}
+    .fil186 {fill:url(#id110)}
+    .fil331 {fill:url(#id111)}
+    .fil247 {fill:url(#id112)}
+    .fil59 {fill:url(#id113)}
+    .fil129 {fill:url(#id114)}
+    .fil244 {fill:url(#id115)}
+    .fil235 {fill:url(#id116)}
+    .fil111 {fill:url(#id117)}
+    .fil243 {fill:url(#id118)}
+    .fil3 {fill:url(#id119)}
+    .fil118 {fill:url(#id120)}
+    .fil2 {fill:url(#id121)}
+    .fil326 {fill:url(#id122)}
+    .fil280 {fill:url(#id123)}
+    .fil240 {fill:url(#id124)}
+    .fil28 {fill:url(#id125)}
+    .fil268 {fill:url(#id126)}
+    .fil13 {fill:url(#id127)}
+    .fil107 {fill:url(#id128)}
+    .fil88 {fill:url(#id129)}
+    .fil174 {fill:url(#id130)}
+    .fil311 {fill:url(#id131)}
+    .fil34 {fill:url(#id132)}
+    .fil116 {fill:url(#id133)}
+    .fil43 {fill:url(#id134)}
+    .fil242 {fill:url(#id135)}
+    .fil266 {fill:url(#id136)}
+    .fil291 {fill:url(#id137)}
+    .fil329 {fill:url(#id138)}
+    .fil252 {fill:url(#id139)}
+    .fil78 {fill:url(#id140)}
+    .fil283 {fill:url(#id141)}
+    .fil196 {fill:url(#id142)}
+    .fil1 {fill:url(#id143)}
+    .fil108 {fill:url(#id144)}
+    .fil305 {fill:url(#id145)}
+    .fil332 {fill:url(#id146)}
+    .fil284 {fill:url(#id147)}
+    .fil149 {fill:url(#id148)}
+    .fil292 {fill:url(#id149)}
+    .fil66 {fill:url(#id150)}
+    .fil148 {fill:url(#id151)}
+    .fil56 {fill:url(#id152)}
+    .fil161 {fill:url(#id153)}
+    .fil286 {fill:url(#id154)}
+    .fil121 {fill:url(#id155)}
+    .fil154 {fill:url(#id156)}
+    .fil167 {fill:url(#id157)}
+    .fil237 {fill:url(#id158)}
+    .fil279 {fill:url(#id159)}
+    .fil251 {fill:url(#id160)}
+    .fil202 {fill:url(#id161)}
+    .fil47 {fill:url(#id162)}
+    .fil150 {fill:url(#id163)}
+    .fil320 {fill:url(#id164)}
+    .fil86 {fill:url(#id165)}
+    .fil179 {fill:url(#id166)}
+    .fil72 {fill:url(#id167)}
+    .fil87 {fill:url(#id168)}
+    .fil29 {fill:url(#id169)}
+    .fil14 {fill:url(#id170)}
+    .fil103 {fill:url(#id171)}
+    .fil162 {fill:url(#id172)}
+    .fil61 {fill:url(#id173)}
+    .fil69 {fill:url(#id174)}
+    .fil10 {fill:url(#id175)}
+    .fil19 {fill:url(#id176)}
+    .fil269 {fill:url(#id177)}
+    .fil328 {fill:url(#id178)}
+    .fil209 {fill:url(#id179)}
+    .fil44 {fill:url(#id180)}
+    .fil272 {fill:url(#id181)}
+    .fil139 {fill:url(#id182)}
+    .fil81 {fill:url(#id183)}
+    .fil300 {fill:url(#id184)}
+    .fil263 {fill:url(#id185)}
+    .fil8 {fill:url(#id186)}
+    .fil231 {fill:url(#id187)}
+    .fil306 {fill:url(#id188)}
+    .fil171 {fill:url(#id189)}
+    .fil170 {fill:url(#id190)}
+    .fil275 {fill:url(#id191)}
+    .fil281 {fill:url(#id192)}
+    .fil271 {fill:url(#id193)}
+    .fil277 {fill:url(#id194)}
+    .fil12 {fill:url(#id195)}
+    .fil314 {fill:url(#id196)}
+    .fil327 {fill:url(#id197)}
+    .fil245 {fill:url(#id198)}
+    .fil177 {fill:url(#id199)}
+    .fil18 {fill:url(#id200)}
+    .fil334 {fill:url(#id201)}
+    .fil36 {fill:url(#id202)}
+    .fil77 {fill:url(#id203)}
+    .fil205 {fill:url(#id204)}
+    .fil211 {fill:url(#id205)}
+    .fil94 {fill:url(#id206)}
+    .fil287 {fill:url(#id207)}
+    .fil16 {fill:url(#id208)}
+    .fil65 {fill:url(#id209)}
+    .fil144 {fill:url(#id210)}
+    .fil230 {fill:url(#id211)}
+    .fil6 {fill:url(#id212)}
+    .fil95 {fill:url(#id213)}
+    .fil55 {fill:url(#id214)}
+    .fil241 {fill:url(#id215)}
+    .fil225 {fill:url(#id216)}
+    .fil120 {fill:url(#id217)}
+    .fil0 {fill:url(#id218)}
+    .fil233 {fill:url(#id219)}
+    .fil117 {fill:url(#id220)}
+    .fil127 {fill:url(#id221)}
+    .fil138 {fill:url(#id222)}
+    .fil152 {fill:url(#id223)}
+    .fil217 {fill:url(#id224)}
+    .fil183 {fill:url(#id225)}
+    .fil220 {fill:url(#id226)}
+    .fil101 {fill:url(#id227)}
+    .fil218 {fill:url(#id228)}
+    .fil50 {fill:url(#id229)}
+    .fil212 {fill:url(#id230)}
+    .fil102 {fill:url(#id231)}
+    .fil58 {fill:url(#id232)}
+    .fil214 {fill:url(#id233)}
+    .fil32 {fill:url(#id234)}
+    .fil180 {fill:url(#id235)}
+    .fil54 {fill:url(#id236)}
+    .fil239 {fill:url(#id237)}
+    .fil122 {fill:url(#id238)}
+    .fil282 {fill:url(#id239)}
+    .fil262 {fill:url(#id240)}
+    .fil253 {fill:url(#id241)}
+    .fil182 {fill:url(#id242)}
+    .fil163 {fill:url(#id243)}
+    .fil297 {fill:url(#id244)}
+    .fil261 {fill:url(#id245)}
+    .fil315 {fill:url(#id246)}
+    .fil210 {fill:url(#id247)}
+    .fil151 {fill:url(#id248)}
+    .fil294 {fill:url(#id249)}
+    .fil93 {fill:url(#id250)}
+    .fil25 {fill:url(#id251)}
+    .fil71 {fill:url(#id252)}
+    .fil303 {fill:url(#id253)}
+    .fil17 {fill:url(#id254)}
+    .fil38 {fill:url(#id255)}
+    .fil216 {fill:url(#id256)}
+    .fil21 {fill:url(#id257)}
+    .fil198 {fill:url(#id258)}
+    .fil169 {fill:url(#id259)}
+    .fil104 {fill:url(#id260)}
+    .fil98 {fill:url(#id261)}
+    .fil199 {fill:url(#id262)}
+    .fil238 {fill:url(#id263)}
+    .fil302 {fill:url(#id264)}
+    .fil310 {fill:url(#id265)}
+    .fil23 {fill:url(#id266)}
+    .fil158 {fill:url(#id267)}
+    .fil234 {fill:url(#id268)}
+    .fil125 {fill:url(#id269)}
+    .fil185 {fill:url(#id270)}
+    .fil301 {fill:url(#id271)}
+    .fil147 {fill:url(#id272)}
+    .fil265 {fill:url(#id273)}
+    .fil254 {fill:url(#id274)}
+    .fil128 {fill:url(#id275)}
+    .fil60 {fill:url(#id276)}
+    .fil119 {fill:url(#id277)}
+    .fil140 {fill:url(#id278)}
+    .fil141 {fill:url(#id279)}
+    .fil203 {fill:url(#id280)}
+    .fil20 {fill:url(#id281)}
+    .fil110 {fill:url(#id282)}
+    .fil323 {fill:url(#id283)}
+    .fil206 {fill:url(#id284)}
+    .fil207 {fill:url(#id285)}
+    .fil80 {fill:url(#id286)}
+    .fil40 {fill:url(#id287)}
+    .fil164 {fill:url(#id288)}
+    .fil197 {fill:url(#id289)}
+    .fil246 {fill:url(#id290)}
+    .fil76 {fill:url(#id291)}
+    .fil68 {fill:url(#id292)}
+    .fil318 {fill:url(#id293)}
+    .fil321 {fill:url(#id294)}
+    .fil175 {fill:url(#id295)}
+    .fil221 {fill:url(#id296)}
+    .fil92 {fill:url(#id297)}
+    .fil325 {fill:url(#id298)}
+    .fil324 {fill:url(#id299)}
+    .fil84 {fill:url(#id300)}
+    .fil228 {fill:url(#id301)}
+    .fil145 {fill:url(#id302)}
+    .fil201 {fill:url(#id303)}
+    .fil74 {fill:url(#id304)}
+    .fil295 {fill:url(#id305)}
+    .fil226 {fill:url(#id306)}
+    .fil256 {fill:url(#id307)}
+    .fil79 {fill:url(#id308)}
+    .fil49 {fill:url(#id309)}
+    .fil273 {fill:url(#id310)}
+    .fil160 {fill:url(#id311)}
+    .fil204 {fill:url(#id312)}
+    .fil37 {fill:url(#id313)}
+    .fil112 {fill:url(#id314)}
+    .fil109 {fill:url(#id315)}
+    .fil193 {fill:url(#id316)}
+    .fil113 {fill:url(#id317)}
+    .fil67 {fill:url(#id318)}
+    .fil213 {fill:url(#id319)}
+    .fil307 {fill:url(#id320)}
+    .fil63 {fill:url(#id321)}
+    .fil64 {fill:url(#id322)}
+    .fil257 {fill:url(#id323)}
+    .fil42 {fill:url(#id324)}
+    .fil4 {fill:url(#id325)}
+    .fil189 {fill:url(#id326)}
+    .fil157 {fill:url(#id327)}
+    .fil260 {fill:url(#id328)}
+    .fil184 {fill:url(#id329)}
+    .fil308 {fill:url(#id330)}
+    .fil165 {fill:url(#id331)}
+    .fil322 {fill:url(#id332)}
+    .fil249 {fill:url(#id333)}
+    .fil190 {fill:url(#id334)}
+    .fil143 {fill:url(#id335)}
+    .fil223 {fill:url(#id336)}
+    .fil133 {fill:url(#id337)}
+    .fil132 {fill:url(#id338)}
+    .fil131 {fill:url(#id339)}
+    .fil130 {fill:url(#id340)}
+    .fil142 {fill:url(#id341)}
+    .fil134 {fill:url(#id342)}
+    .fil82 {fill:url(#id343)}
+    .fil258 {fill:url(#id344)}
+    .fil342 {fill:url(#id345);fill-rule:nonzero}
+    .fil344 {fill:url(#id346);fill-rule:nonzero}
+    .fil343 {fill:url(#id347);fill-rule:nonzero}
+    .fil339 {fill:url(#id348);fill-rule:nonzero}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="-1280.58" y="548.18" width="151.59" height="41.58"/>
+   </clipPath>
+   <clipPath id="id1">
+    <path d="M-1280.58 589.76l151.59 0 0 -41.58 -151.59 0 0 41.58z"/>
+   </clipPath>
+   <clipPath id="id2">
+    <rect x="-1280.58" y="548.18" width="151.59" height="41.58"/>
+   </clipPath>
+   <mask id="id3">
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="-1207.05" y1="590.42" x2="-1207.97" y2="554.25">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+    <rect style="fill:url(#id4)" x="-1267.77" y="511.78" width="127.1" height="57.4"/>
+   </mask>
+   <mask id="id5">
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="-1207.35" y1="496.53" x2="-1207.35" y2="528.78">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+    <rect style="fill:url(#id6)" x="-1267.77" y="511.78" width="127.1" height="58.52"/>
+   </mask>
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" x1="-1259.96" y1="586.91" x2="-1129.3" y2="561.19">
+   <stop offset="0" style="stop-opacity:1; stop-color:#A54D40"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:#D4803E"/>
+   <stop offset="0.168627" style="stop-opacity:1; stop-color:#FBD948"/>
+   <stop offset="0.231373" style="stop-opacity:1; stop-color:#CF7D3E"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#F0A643"/>
+   <stop offset="0.380392" style="stop-opacity:1; stop-color:#F9DC50"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#EC9C40"/>
+   <stop offset="0.521569" style="stop-opacity:1; stop-color:#EDA340"/>
+   <stop offset="0.588235" style="stop-opacity:1; stop-color:#C67D3F"/>
+   <stop offset="0.701961" style="stop-opacity:1; stop-color:#DA9740"/>
+   <stop offset="0.811765" style="stop-opacity:1; stop-color:#F5B743"/>
+   <stop offset="0.901961" style="stop-opacity:1; stop-color:#D78F46"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A54D40"/>
+  </linearGradient>
+  <linearGradient id="id8" gradientUnits="userSpaceOnUse" xlink:href="#id7" x1="-1260.28" y1="585" x2="-1129.96" y2="559.17">
+  </linearGradient>
+  <linearGradient id="id9" gradientUnits="userSpaceOnUse" x1="6398.99" y1="-4263.61" x2="1949.88" y2="61.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D8C0A6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+  <radialGradient id="id10" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00065 -0 -0 -1.00065 -1 127)" cx="2127.93" cy="63.39" r="3.4" fx="2127.93" fy="63.39">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0627451" style="stop-opacity:1; stop-color:#FFE3C0"/>
+   <stop offset="0.141176" style="stop-opacity:1; stop-color:#FFC782"/>
+   <stop offset="0.286275" style="stop-opacity:1; stop-color:#7F6341"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </radialGradient>
+  <radialGradient id="id11" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999425 -0 -0 -0.999283 1 206)" xlink:href="#id10" cx="1896.07" cy="103.12" r="4.16" fx="1896.07" fy="103.12">
+  </radialGradient>
+  <radialGradient id="id12" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999728 -0 -0 -0.999728 1 -24)" xlink:href="#id10" cx="2168.23" cy="-12.14" r="2.16" fx="2168.23" fy="-12.14">
+  </radialGradient>
+  <radialGradient id="id13" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999949 -0 -0 -1.00003 0 310)" xlink:href="#id10" cx="1880.17" cy="155.18" r="7.25" fx="1880.17" fy="155.18">
+  </radialGradient>
+  <radialGradient id="id14" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999935 -0 -0 -0.999854 0 268)" xlink:href="#id10" cx="1967.28" cy="133.77" r="7.28" fx="1967.28" fy="133.77">
+  </radialGradient>
+  <radialGradient id="id15" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00017 -0 -0 -0.999998 0 -190)" xlink:href="#id10" cx="1997.57" cy="-94.82" r="3.47" fx="1997.57" fy="-94.82">
+  </radialGradient>
+  <radialGradient id="id16" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00008 -0 -0 -1 0 256)" xlink:href="#id10" cx="2188.11" cy="128.17" r="8.05" fx="2188.11" fy="128.17">
+  </radialGradient>
+  <radialGradient id="id17" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0001 -0 -0 -1.0001 0 -142)" xlink:href="#id10" cx="2079.94" cy="-71.23" r="3.93" fx="2079.94" fy="-71.23">
+  </radialGradient>
+  <radialGradient id="id18" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999898 -0 -0 -0.999898 0 172)" xlink:href="#id10" cx="2012.02" cy="86" r="5.99" fx="2012.02" fy="86">
+  </radialGradient>
+  <radialGradient id="id19" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00004 -0 -0 -0.999967 0 244)" xlink:href="#id10" cx="2068.29" cy="122.15" r="8.21" fx="2068.29" fy="122.15">
+  </radialGradient>
+  <radialGradient id="id20" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999871 -0 -0 -0.99995 0 20)" xlink:href="#id10" cx="2056.34" cy="9.82" r="7.47" fx="2056.34" fy="9.82">
+  </radialGradient>
+  <radialGradient id="id21" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999843 -0 -0 -0.999939 0 -156)" xlink:href="#id10" cx="1873.18" cy="-77.85" r="6.12" fx="1873.18" fy="-77.85">
+  </radialGradient>
+  <radialGradient id="id22" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999563 -0 -0 -0.999642 1 -89)" xlink:href="#id10" cx="2138.69" cy="-44.31" r="7.43" fx="2138.69" fy="-44.31">
+  </radialGradient>
+  <radialGradient id="id23" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999708 -0 -0 -0.999928 1 241)" xlink:href="#id10" cx="1909" cy="120.45" r="2.69" fx="1909" fy="120.45">
+  </radialGradient>
+  <radialGradient id="id24" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00018 -0 -0 -1.00018 0 422)" xlink:href="#id10" cx="2039.51" cy="211" r="4.18" fx="2039.51" fy="211">
+  </radialGradient>
+  <radialGradient id="id25" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999993 -0 -0 -0.999912 0 259)" xlink:href="#id10" cx="2107.42" cy="129.32" r="7.28" fx="2107.42" fy="129.32">
+  </radialGradient>
+  <radialGradient id="id26" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999844 -0 -0 -0.999844 0 93)" xlink:href="#id10" cx="2098.48" cy="46.74" r="8.25" fx="2098.48" fy="46.74">
+  </radialGradient>
+  <radialGradient id="id27" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999843 -0 -0 -0.999929 0 305)" xlink:href="#id10" cx="2098.08" cy="152.41" r="6.94" fx="2098.08" fy="152.41">
+  </radialGradient>
+  <radialGradient id="id28" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.876439 -0.289351 -0.361217 -1.15598 178 -1328)" cx="5340.95" cy="-1332.84" r="303.09" fx="5340.95" fy="-1332.84">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2A24"/>
+   <stop offset="0.0117647" style="stop-opacity:1; stop-color:#2B2A24"/>
+   <stop offset="0.180392" style="stop-opacity:1; stop-color:#959592"/>
+   <stop offset="0.901961" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </radialGradient>
+  <radialGradient id="id29" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999911 -0 -0 -0.999911 0 -57)" xlink:href="#id10" cx="2097.2" cy="-28.67" r="5.41" fx="2097.2" fy="-28.67">
+  </radialGradient>
+  <radialGradient id="id30" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999679 -0 -0 -0.999679 1 140)" xlink:href="#id10" cx="2196.89" cy="69.92" r="5.69" fx="2196.89" fy="69.92">
+  </radialGradient>
+  <radialGradient id="id31" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999704 -0 -0 -0.999704 1 137)" xlink:href="#id10" cx="2049.84" cy="68.4" r="2.53" fx="2049.84" fy="68.4">
+  </radialGradient>
+  <radialGradient id="id32" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.998998 -0 -0 -0.999218 2 -73)" xlink:href="#id10" cx="2154.92" cy="-36.45" r="2.68" fx="2154.92" fy="-36.45">
+  </radialGradient>
+  <radialGradient id="id33" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999691 -0 -0 -0.99982 1 -214)" xlink:href="#id10" cx="2011.8" cy="-107.13" r="4.61" fx="2011.8" fy="-107.13">
+  </radialGradient>
+  <radialGradient id="id34" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999792 -0 -0 -0.999792 0 370)" xlink:href="#id10" cx="2112.46" cy="184.82" r="7.11" fx="2112.46" fy="184.82">
+  </radialGradient>
+  <radialGradient id="id35" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999758 -0 -0 -0.999758 0 -119)" xlink:href="#id10" cx="1902.7" cy="-59.26" r="6.04" fx="1902.7" fy="-59.26">
+  </radialGradient>
+  <radialGradient id="id36" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999997 -0 -0 -0.999997 0 -5626)" xlink:href="#id28" cx="5368.17" cy="-2813.1" r="493.09" fx="5368.17" fy="-2813.1">
+  </radialGradient>
+  <radialGradient id="id37" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999965 -0 -0 -0.999965 0 91)" xlink:href="#id10" cx="2193.97" cy="45.45" r="8.35" fx="2193.97" fy="45.45">
+  </radialGradient>
+  <radialGradient id="id38" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999295 -0 -0 -0.999295 1 -34)" xlink:href="#id10" cx="1939.77" cy="-17" r="2.95" fx="1939.77" fy="-17">
+  </radialGradient>
+  <radialGradient id="id39" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999671 -0 -0 -0.999397 1 188)" xlink:href="#id10" cx="2096.07" cy="94.24" r="2.16" fx="2096.07" fy="94.24">
+  </radialGradient>
+  <radialGradient id="id40" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999995 -0 -0 -0.999995 0 -5045)" xlink:href="#id10" cx="4680.64" cy="-2522.58" r="309.91" fx="4680.64" fy="-2522.58">
+  </radialGradient>
+  <radialGradient id="id41" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00014 -0 -0 -1.00014 0 228)" xlink:href="#id10" cx="2085.32" cy="114.14" r="5.21" fx="2085.32" fy="114.14">
+  </radialGradient>
+  <radialGradient id="id42" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999485 -0 -0 -0.999685 1 -31)" xlink:href="#id10" cx="1896.28" cy="-15.43" r="2.95" fx="1896.28" fy="-15.43">
+  </radialGradient>
+  <radialGradient id="id43" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999849 -0 -0 -0.999849 0 46)" xlink:href="#id10" cx="1856.57" cy="23.02" r="7.77" fx="1856.57" fy="23.02">
+  </radialGradient>
+  <radialGradient id="id44" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999078 -0 -0 -0.999316 2 -178)" xlink:href="#id10" cx="2168.59" cy="-89.01" r="2.48" fx="2168.59" fy="-89.01">
+  </radialGradient>
+  <radialGradient id="id45" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999769 -0 -0 -0.999859 0 -338)" xlink:href="#id10" cx="1978.88" cy="-169.11" r="6.58" fx="1978.88" fy="-169.11">
+  </radialGradient>
+  <radialGradient id="id46" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 -0 -0 -1 0 -5831)" xlink:href="#id28" cx="4632.78" cy="-2915.66" r="493.09" fx="4632.78" fy="-2915.66">
+  </radialGradient>
+  <radialGradient id="id47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999872 -0 -0 -0.999872 0 281)" xlink:href="#id10" cx="1983.5" cy="140.34" r="5.19" fx="1983.5" fy="140.34">
+  </radialGradient>
+  <radialGradient id="id48" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999646 -0 -0 -0.999646 1 407)" xlink:href="#id10" cx="1973.61" cy="203.51" r="6.32" fx="1973.61" fy="203.51">
+  </radialGradient>
+  <radialGradient id="id49" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00009 -0 -0 -1.00009 0 -229)" xlink:href="#id10" cx="2040.07" cy="-114.59" r="7.16" fx="2040.07" fy="-114.59">
+  </radialGradient>
+  <radialGradient id="id50" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00002 -0 -0 -1.00002 0 355)" xlink:href="#id10" cx="2115.97" cy="177.26" r="7.91" fx="2115.97" fy="177.26">
+  </radialGradient>
+  <radialGradient id="id51" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999825 -0 -0 -0.999664 0 -110)" xlink:href="#id10" cx="1946.78" cy="-55.2" r="3.66" fx="1946.78" fy="-55.2">
+  </radialGradient>
+  <radialGradient id="id52" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999999 -0 -0 -0.999999 0 -5045)" xlink:href="#id10" cx="4680.64" cy="-2522.58" r="294.89" fx="4680.64" fy="-2522.58">
+  </radialGradient>
+  <radialGradient id="id53" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999585 -0 -0 -0.999835 1 -156)" xlink:href="#id10" cx="2107.2" cy="-78.21" r="2.36" fx="2107.2" fy="-78.21">
+  </radialGradient>
+  <radialGradient id="id54" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999634 -0 -0 -0.999634 1 -304)" xlink:href="#id10" cx="2056.94" cy="-152.06" r="2.44" fx="2056.94" fy="-152.06">
+  </radialGradient>
+  <radialGradient id="id55" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999687 -0 -0 -0.999687 1 192)" xlink:href="#id10" cx="1917.06" cy="95.79" r="3.09" fx="1917.06" fy="95.79">
+  </radialGradient>
+  <radialGradient id="id56" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999774 -0 -0 -0.999702 0 61)" xlink:href="#id10" cx="2162.37" cy="30.4" r="8.24" fx="2162.37" fy="30.4">
+  </radialGradient>
+  <radialGradient id="id57" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999883 -0 -0 -0.999883 0 58)" xlink:href="#id10" cx="2166.85" cy="28.79" r="6.96" fx="2166.85" fy="28.79">
+  </radialGradient>
+  <radialGradient id="id58" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999593 -0 -0 -0.999593 1 440)" xlink:href="#id10" cx="2045.38" cy="220.18" r="2.31" fx="2045.38" fy="220.18">
+  </radialGradient>
+  <radialGradient id="id59" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999903 -0 -0 -0.999903 0 267)" xlink:href="#id10" cx="1910.2" cy="133.29" r="7.59" fx="1910.2" fy="133.29">
+  </radialGradient>
+  <radialGradient id="id60" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999721 -0 -0 -0.999721 1 99)" xlink:href="#id10" cx="1884.23" cy="49.66" r="2.35" fx="1884.23" fy="49.66">
+  </radialGradient>
+  <radialGradient id="id61" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999945 -0 -0 -0.999945 0 74)" xlink:href="#id10" cx="2028.27" cy="37.09" r="8.11" fx="2028.27" fy="37.09">
+  </radialGradient>
+  <radialGradient id="id62" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999501 -0 -0 -0.999501 1 -67)" xlink:href="#id10" cx="1909.36" cy="-33.66" r="2.28" fx="1909.36" fy="-33.66">
+  </radialGradient>
+  <radialGradient id="id63" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0002 -0 -0 -1.0002 0 160)" xlink:href="#id10" cx="1932.66" cy="80.02" r="3.46" fx="1932.66" fy="80.02">
+  </radialGradient>
+  <radialGradient id="id64" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99976 -0 -0 -0.999628 0 -288)" xlink:href="#id10" cx="1973.43" cy="-144.03" r="4.48" fx="1973.43" fy="-144.03">
+  </radialGradient>
+  <radialGradient id="id65" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999299 -0 -0 -0.999071 1 206)" xlink:href="#id10" cx="1967.2" cy="102.88" r="2.59" fx="1967.2" fy="102.88">
+  </radialGradient>
+  <radialGradient id="id66" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999834 -0 -0 -0.999834 0 -268)" xlink:href="#id10" cx="1988.56" cy="-134" r="2.65" fx="1988.56" fy="-134">
+  </radialGradient>
+  <radialGradient id="id67" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00002 -0 -0 -1.0001 0 59)" xlink:href="#id10" cx="2075.4" cy="29.59" r="7.34" fx="2075.4" fy="29.59">
+  </radialGradient>
+  <radialGradient id="id68" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999807 -0 -0 -0.99969 0 222)" xlink:href="#id10" cx="2167.59" cy="110.93" r="5.05" fx="2167.59" fy="110.93">
+  </radialGradient>
+  <radialGradient id="id69" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999737 -0 -0 -0.999737 1 -148)" xlink:href="#id10" cx="1959.12" cy="-74.12" r="2.29" fx="1959.12" fy="-74.12">
+  </radialGradient>
+  <radialGradient id="id70" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00011 -0 -0 -1 0 -392)" xlink:href="#id10" cx="2043.43" cy="-196.12" r="5.45" fx="2043.43" fy="-196.12">
+  </radialGradient>
+  <radialGradient id="id71" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999317 -0 -0 -0.999477 1 -275)" xlink:href="#id10" cx="2089.33" cy="-137.68" r="3.69" fx="2089.33" fy="-137.68">
+  </radialGradient>
+  <radialGradient id="id72" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00026 -0 -0 -1.00026 -1 -289)" xlink:href="#id10" cx="2163.02" cy="-144.64" r="2.27" fx="2163.02" fy="-144.64">
+  </radialGradient>
+  <radialGradient id="id73" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00002 -0 -0 -1.00002 0 -90)" xlink:href="#id10" cx="2177.44" cy="-44.84" r="7.62" fx="2177.44" fy="-44.84">
+  </radialGradient>
+  <radialGradient id="id74" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999754 -0 -0 -0.999835 0 -155)" xlink:href="#id10" cx="1849.25" cy="-77.38" r="7.29" fx="1849.25" fy="-77.38">
+  </radialGradient>
+  <radialGradient id="id75" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999632 -0 -0 -0.999632 1 -354)" xlink:href="#id10" cx="2139.69" cy="-177.08" r="7.02" fx="2139.69" fy="-177.08">
+  </radialGradient>
+  <radialGradient id="id76" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99947 -0 -0 -0.999222 1 264)" xlink:href="#id10" cx="1864.58" cy="131.89" r="2.38" fx="1864.58" fy="131.89">
+  </radialGradient>
+  <radialGradient id="id77" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00004 -0 -0 -0.049651 0 5)" xlink:href="#id10" cx="2029.72" cy="5.09" r="404.22" fx="2029.72" fy="5.09">
+  </radialGradient>
+  <radialGradient id="id78" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999897 -0 -0 -0.999981 0 -307)" xlink:href="#id10" cx="2039.84" cy="-153.73" r="7.03" fx="2039.84" fy="-153.73">
+  </radialGradient>
+  <radialGradient id="id79" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999811 -0 -0 -0.999562 0 196)" xlink:href="#id10" cx="2181.19" cy="97.92" r="2.37" fx="2181.19" fy="97.92">
+  </radialGradient>
+  <radialGradient id="id80" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999771 -0 -0 -0.999686 0 -198)" xlink:href="#id10" cx="2147.74" cy="-99.22" r="6.89" fx="2147.74" fy="-99.22">
+  </radialGradient>
+  <radialGradient id="id81" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999759 -0 -0 -0.999959 0 301)" xlink:href="#id10" cx="2008.39" cy="150.28" r="2.95" fx="2008.39" fy="150.28">
+  </radialGradient>
+  <radialGradient id="id82" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999736 -0 -0 -0.999658 1 64)" xlink:href="#id10" cx="2148.63" cy="32.15" r="7.52" fx="2148.63" fy="32.15">
+  </radialGradient>
+  <radialGradient id="id83" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999977 -0 -0 -1.00012 0 -96)" xlink:href="#id10" cx="1891.25" cy="-48.03" r="4.14" fx="1891.25" fy="-48.03">
+  </radialGradient>
+  <radialGradient id="id84" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999987 -0 -0 -0.999903 0 37)" xlink:href="#id10" cx="2131.22" cy="18.74" r="7.02" fx="2131.22" fy="18.74">
+  </radialGradient>
+  <radialGradient id="id85" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99997 -0 -0 -1.00005 0 19)" xlink:href="#id10" cx="2149.06" cy="9.55" r="7.04" fx="2149.06" fy="9.55">
+  </radialGradient>
+  <radialGradient id="id86" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999014 -0 -0 -0.999014 2 -293)" xlink:href="#id10" cx="1916.27" cy="-146.59" r="2.21" fx="1916.27" fy="-146.59">
+  </radialGradient>
+  <radialGradient id="id87" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999871 -0 -0 -0.999668 0 40)" xlink:href="#id10" cx="1944.79" cy="19.78" r="2.91" fx="1944.79" fy="19.78">
+  </radialGradient>
+  <radialGradient id="id88" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00049 -0 -0 -1.00049 -1 -9)" xlink:href="#id10" cx="1848.55" cy="-4.45" r="2.39" fx="1848.55" fy="-4.45">
+  </radialGradient>
+  <radialGradient id="id89" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00015 -0 -0 -1.00032 0 -358)" xlink:href="#id10" cx="2092.69" cy="-178.92" r="3.48" fx="2092.69" fy="-178.92">
+  </radialGradient>
+  <radialGradient id="id90" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00004 -0 -0 -1.00004 0 -387)" xlink:href="#id10" cx="2008.2" cy="-193.6" r="3.1" fx="2008.2" fy="-193.6">
+  </radialGradient>
+  <radialGradient id="id91" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999844 -0 -0 -0.999844 0 -49)" xlink:href="#id10" cx="1994.69" cy="-24.48" r="5.13" fx="1994.69" fy="-24.48">
+  </radialGradient>
+  <radialGradient id="id92" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00002 -0 -0 -0.999931 0 -145)" xlink:href="#id10" cx="1979" cy="-72.26" r="6.47" fx="1979" fy="-72.26">
+  </radialGradient>
+  <radialGradient id="id93" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.876439 -0.289352 -0.361217 -1.15599 -107 -2847)" xlink:href="#id28" cx="4933.5" cy="-1982.54" r="413.25" fx="4933.5" fy="-1982.54">
+  </radialGradient>
+  <radialGradient id="id94" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999981 -0 -0 -0.999981 0 351)" xlink:href="#id10" cx="2037.37" cy="175.26" r="6.58" fx="2037.37" fy="175.26">
+  </radialGradient>
+  <radialGradient id="id95" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999995 -0 -0 -0.999894 0 238)" xlink:href="#id10" cx="2119.32" cy="119.01" r="5.86" fx="2119.32" fy="119.01">
+  </radialGradient>
+  <radialGradient id="id96" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999776 -0 -0 -0.999871 0 -3)" xlink:href="#id10" cx="1977.52" cy="-1.54" r="6.22" fx="1977.52" fy="-1.54">
+  </radialGradient>
+  <radialGradient id="id97" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999616 -0 -0 -0.999763 1 -341)" xlink:href="#id10" cx="1932.43" cy="-170.28" r="4" fx="1932.43" fy="-170.28">
+  </radialGradient>
+  <radialGradient id="id98" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00001 -0 -0 -1.00001 0 126)" xlink:href="#id10" cx="1990.45" cy="62.89" r="8.08" fx="1990.45" fy="62.89">
+  </radialGradient>
+  <radialGradient id="id99" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999603 -0 -0 -0.999603 1 -87)" xlink:href="#id10" cx="2008.46" cy="-43.53" r="4.56" fx="2008.46" fy="-43.53">
+  </radialGradient>
+  <radialGradient id="id100" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.784323 0.998649 0.0490358 0.0393812 3621 -2022)" xlink:href="#id10" cx="2029.72" cy="5.09" r="310.45" fx="2029.72" fy="5.09">
+  </radialGradient>
+  <radialGradient id="id101" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999845 -0 -0 -0.999845 0 -222)" xlink:href="#id10" cx="1964.23" cy="-111.08" r="8.18" fx="1964.23" fy="-111.08">
+  </radialGradient>
+  <radialGradient id="id102" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999406 -0 -0 -0.99968 1 164)" xlink:href="#id10" cx="2125.21" cy="81.81" r="2.15" fx="2125.21" fy="81.81">
+  </radialGradient>
+  <radialGradient id="id103" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999581 -0 -0 -0.999581 1 250)" xlink:href="#id10" cx="2095.19" cy="124.89" r="3.5" fx="2095.19" fy="124.89">
+  </radialGradient>
+  <radialGradient id="id104" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999852 -0 -0 -0.999934 0 -215)" xlink:href="#id10" cx="1984.66" cy="-107.71" r="7.24" fx="1984.66" fy="-107.71">
+  </radialGradient>
+  <radialGradient id="id105" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999837 -0 -0 -0.999837 0 -256)" xlink:href="#id10" cx="2126.9" cy="-128.06" r="6.68" fx="2126.9" fy="-128.06">
+  </radialGradient>
+  <radialGradient id="id106" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00021 -0 -0 -1.00021 0 327)" xlink:href="#id10" cx="2154" cy="163.34" r="2.41" fx="2154" fy="163.34">
+  </radialGradient>
+  <radialGradient id="id107" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00003 -0 -0 -1.00003 0 -313)" xlink:href="#id10" cx="2172.57" cy="-156.56" r="2.38" fx="2172.57" fy="-156.56">
+  </radialGradient>
+  <radialGradient id="id108" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00011 -0 -0 -1.00023 0 1)" xlink:href="#id10" cx="2021.77" cy="0.27" r="5.06" fx="2021.77" fy="0.27">
+  </radialGradient>
+  <radialGradient id="id109" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999271 -0 -0 -0.999485 2 15)" xlink:href="#id10" cx="2095.75" cy="7.54" r="2.76" fx="2095.75" fy="7.54">
+  </radialGradient>
+  <radialGradient id="id110" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999728 -0 -0 -0.999923 1 -132)" xlink:href="#id10" cx="1913.29" cy="-66.1" r="3.04" fx="1913.29" fy="-66.1">
+  </radialGradient>
+  <radialGradient id="id111" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999784 -0 -0 -0.999784 0 158)" xlink:href="#id10" cx="2027.08" cy="79.22" r="4.91" fx="2027.08" fy="79.22">
+  </radialGradient>
+  <radialGradient id="id112" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999623 -0 -0 -0.999623 1 -280)" xlink:href="#id10" cx="1943.38" cy="-140.26" r="2.45" fx="1943.38" fy="-140.26">
+  </radialGradient>
+  <radialGradient id="id113" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999887 -0 -0 -0.999887 0 102)" xlink:href="#id10" cx="2119.92" cy="50.95" r="7.89" fx="2119.92" fy="50.95">
+  </radialGradient>
+  <radialGradient id="id114" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999618 -0 -0 -0.999618 1 -54)" xlink:href="#id10" cx="2138.86" cy="-27.03" r="4.05" fx="2138.86" fy="-27.03">
+  </radialGradient>
+  <radialGradient id="id115" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999987 -0 -0 -0.999987 0 129)" xlink:href="#id10" cx="2138.95" cy="64.39" r="7.61" fx="2138.95" fy="64.39">
+  </radialGradient>
+  <radialGradient id="id116" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99963 -0 -0 -0.99963 1 -180)" xlink:href="#id10" cx="2162.95" cy="-89.82" r="5.01" fx="2162.95" fy="-89.82">
+  </radialGradient>
+  <radialGradient id="id117" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00003 -0 -0 -1.00003 0 -53)" xlink:href="#id10" cx="2088.29" cy="-26.68" r="6.22" fx="2088.29" fy="-26.68">
+  </radialGradient>
+  <radialGradient id="id118" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999881 -0 -0 -0.999763 0 -334)" xlink:href="#id10" cx="2034.68" cy="-166.78" r="4.99" fx="2034.68" fy="-166.78">
+  </radialGradient>
+  <radialGradient id="id119" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 -0 -0 -1 0 -1286)" xlink:href="#id28" cx="1402.56" cy="-642.77" r="532.63" fx="1402.56" fy="-642.77">
+  </radialGradient>
+  <radialGradient id="id120" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00013 -0 -0 -1.00013 0 -17)" xlink:href="#id10" cx="1885.75" cy="-8.58" r="3.38" fx="1885.75" fy="-8.58">
+  </radialGradient>
+  <radialGradient id="id121" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999266 -0 -0 -0.999507 1 -236)" xlink:href="#id10" cx="1978.54" cy="-117.83" r="2.45" fx="1978.54" fy="-117.83">
+  </radialGradient>
+  <radialGradient id="id122" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999711 -0 -0 -0.999711 1 211)" xlink:href="#id10" cx="2096.62" cy="105.75" r="6.79" fx="2096.62" fy="105.75">
+  </radialGradient>
+  <radialGradient id="id123" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999671 -0 -0 -0.999671 1 -244)" xlink:href="#id10" cx="2156.62" cy="-122" r="6.26" fx="2156.62" fy="-122">
+  </radialGradient>
+  <radialGradient id="id124" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99994 -0 -0 -1.00007 0 -285)" xlink:href="#id10" cx="2014.22" cy="-142.49" r="4.52" fx="2014.22" fy="-142.49">
+  </radialGradient>
+  <radialGradient id="id125" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999774 -0 -0 -0.999774 0 199)" xlink:href="#id10" cx="2016.55" cy="99.31" r="7.37" fx="2016.55" fy="99.31">
+  </radialGradient>
+  <radialGradient id="id126" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999698 -0 -0 -0.999767 1 348)" xlink:href="#id10" cx="1970.38" cy="173.87" r="8.49" fx="1970.38" fy="173.87">
+  </radialGradient>
+  <radialGradient id="id127" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999896 -0 -0 -0.999896 0 -82)" xlink:href="#id10" cx="1962.2" cy="-40.83" r="2.78" fx="1962.2" fy="-40.83">
+  </radialGradient>
+  <radialGradient id="id128" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00002 -0 -0 -0.999867 0 270)" xlink:href="#id10" cx="1922.68" cy="135.2" r="3.86" fx="1922.68" fy="135.2">
+  </radialGradient>
+  <radialGradient id="id129" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999421 -0 -0 -0.999609 1 -68)" xlink:href="#id10" cx="1940.82" cy="-34.19" r="3.14" fx="1940.82" fy="-34.19">
+  </radialGradient>
+  <radialGradient id="id130" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.87644 -0.289352 -0.361217 -1.15599 159 -1485)" xlink:href="#id28" cx="5427.09" cy="-1417.16" r="413.25" fx="5427.09" fy="-1417.16">
+  </radialGradient>
+  <radialGradient id="id131" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00039 -0 -0 -1.00062 -1 -204)" xlink:href="#id10" cx="2127.33" cy="-102.05" r="2.55" fx="2127.33" fy="-102.05">
+  </radialGradient>
+  <radialGradient id="id132" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00001 -0 -0 -1.00013 0 -104)" xlink:href="#id10" cx="2187.41" cy="-52.21" r="4.92" fx="2187.41" fy="-52.21">
+  </radialGradient>
+  <radialGradient id="id133" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00002 -0 -0 -1.00015 0 -70)" xlink:href="#id10" cx="2043.68" cy="-34.92" r="4.75" fx="2043.68" fy="-34.92">
+  </radialGradient>
+  <radialGradient id="id134" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999717 -0 -0 -0.999717 1 -104)" xlink:href="#id10" cx="1940.28" cy="-51.94" r="4.55" fx="1940.28" fy="-51.94">
+  </radialGradient>
+  <radialGradient id="id135" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00004 -0 -0 -0.999868 0 -169)" xlink:href="#id10" cx="1862.98" cy="-84.49" r="3.37" fx="1862.98" fy="-84.49">
+  </radialGradient>
+  <radialGradient id="id136" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999915 -0 -0 -0.999915 0 167)" xlink:href="#id10" cx="1845.32" cy="83.65" r="2.42" fx="1845.32" fy="83.65">
+  </radialGradient>
+  <radialGradient id="id137" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999879 -0 -0 -0.999619 0 184)" xlink:href="#id10" cx="2047.09" cy="91.88" r="2.27" fx="2047.09" fy="91.88">
+  </radialGradient>
+  <radialGradient id="id138" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999953 -0 -0 -1.0002 0 -85)" xlink:href="#id10" cx="2162.96" cy="-42.65" r="2.43" fx="2162.96" fy="-42.65">
+  </radialGradient>
+  <radialGradient id="id139" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99989 -0 -0 -0.99989 0 -293)" xlink:href="#id10" cx="2064.42" cy="-146.26" r="7.31" fx="2064.42" fy="-146.26">
+  </radialGradient>
+  <radialGradient id="id140" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 -0 -0 -0.999912 0 100)" xlink:href="#id10" cx="2232.87" cy="50.08" r="6.55" fx="2232.87" fy="50.08">
+  </radialGradient>
+  <radialGradient id="id141" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999926 -0 -0 -0.999926 0 114)" xlink:href="#id10" cx="2155.72" cy="57.09" r="4.34" fx="2155.72" fy="57.09">
+  </radialGradient>
+  <radialGradient id="id142" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999559 -0 -0 -0.99978 1 -35)" xlink:href="#id10" cx="1961.79" cy="-17.39" r="2.67" fx="1961.79" fy="-17.39">
+  </radialGradient>
+  <radialGradient id="id143" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00014 -0 -0 -1.00041 0 168)" xlink:href="#id10" cx="1869.16" cy="84.05" r="2.19" fx="1869.16" fy="84.05">
+  </radialGradient>
+  <radialGradient id="id144" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999996 -0 -0 -0.999996 0 -1067)" xlink:href="#id28" cx="1296.93" cy="-533.62" r="532.63" fx="1296.93" fy="-533.62">
+  </radialGradient>
+  <radialGradient id="id145" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999733 -0 -0 -0.999733 1 -196)" xlink:href="#id10" cx="2105.9" cy="-97.92" r="4.31" fx="2105.9" fy="-97.92">
+  </radialGradient>
+  <radialGradient id="id146" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.832531 0.163147 0.203218 -1.10039 358 -458)" xlink:href="#id28" cx="2065.99" cy="-57.68" r="499.19" fx="2065.99" fy="-57.68">
+  </radialGradient>
+  <radialGradient id="id147" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999931 -0 -0 -0.999931 0 -368)" xlink:href="#id10" cx="2061.16" cy="-184.15" r="2.77" fx="2061.16" fy="-184.15">
+  </radialGradient>
+  <radialGradient id="id148" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99965 -0 -0 -0.99965 1 278)" xlink:href="#id10" cx="1933.26" cy="138.99" r="8.11" fx="1933.26" fy="138.99">
+  </radialGradient>
+  <radialGradient id="id149" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999789 -0 -0 -0.999789 0 -184)" xlink:href="#id10" cx="1963.94" cy="-92.15" r="6.25" fx="1963.94" fy="-92.15">
+  </radialGradient>
+  <radialGradient id="id150" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00005 -0 -0 -1.00014 0 -14)" xlink:href="#id10" cx="1960.36" cy="-6.94" r="7.22" fx="1960.36" fy="-6.94">
+  </radialGradient>
+  <radialGradient id="id151" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99992 -0 -0 -0.999656 0 -30)" xlink:href="#id10" cx="2100.77" cy="-14.93" r="2.23" fx="2100.77" fy="-14.93">
+  </radialGradient>
+  <radialGradient id="id152" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0003 -0 -0 -1.0003 -1 -71)" xlink:href="#id10" cx="1846.98" cy="-35.53" r="4.34" fx="1846.98" fy="-35.53">
+  </radialGradient>
+  <radialGradient id="id153" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999475 -0 -0 -0.999475 1 -166)" xlink:href="#id10" cx="2189.84" cy="-83.18" r="2.72" fx="2189.84" fy="-83.18">
+  </radialGradient>
+  <radialGradient id="id154" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999769 -0 -0 -0.999636 0 170)" xlink:href="#id10" cx="1965.76" cy="84.93" r="4.43" fx="1965.76" fy="84.93">
+  </radialGradient>
+  <radialGradient id="id155" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00028 -0 -0 -1.00028 -1 368)" xlink:href="#id10" cx="2007.41" cy="183.91" r="5.26" fx="2007.41" fy="183.91">
+  </radialGradient>
+  <radialGradient id="id156" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00017 -0 -0 -1.00017 0 -267)" xlink:href="#id10" cx="1958.07" cy="-133.24" r="3.83" fx="1958.07" fy="-133.24">
+  </radialGradient>
+  <radialGradient id="id157" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999616 -0 -0 -0.999616 1 -325)" xlink:href="#id10" cx="2027.21" cy="-162.56" r="2.37" fx="2027.21" fy="-162.56">
+  </radialGradient>
+  <radialGradient id="id158" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999831 -0 -0 -1.00004 0 -164)" xlink:href="#id10" cx="2157.65" cy="-82.03" r="2.81" fx="2157.65" fy="-82.03">
+  </radialGradient>
+  <radialGradient id="id159" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00031 -0 -0 -1.00009 -1 433)" xlink:href="#id10" cx="2078.69" cy="216.25" r="2.62" fx="2078.69" fy="216.25">
+  </radialGradient>
+  <radialGradient id="id160" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999226 -0 -0 -0.999226 2 26)" xlink:href="#id10" cx="2190.78" cy="13.19" r="2.77" fx="2190.78" fy="13.19">
+  </radialGradient>
+  <radialGradient id="id161" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00031 -0 -0 -1.00031 -1 -191)" xlink:href="#id10" cx="1995.69" cy="-95.33" r="2.31" fx="1995.69" fy="-95.33">
+  </radialGradient>
+  <radialGradient id="id162" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999785 -0 -0 -0.999785 0 -325)" xlink:href="#id10" cx="2103.13" cy="-162.44" r="3.19" fx="2103.13" fy="-162.44">
+  </radialGradient>
+  <radialGradient id="id163" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00001 -0 -0 -1.00001 0 47)" xlink:href="#id10" cx="2121.81" cy="23.52" r="8.21" fx="2121.81" fy="23.52">
+  </radialGradient>
+  <radialGradient id="id164" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00024 -0 -0 -1.00024 -1 161)" xlink:href="#id10" cx="2172.34" cy="80.66" r="4.07" fx="2172.34" fy="80.66">
+  </radialGradient>
+  <radialGradient id="id165" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.719526 0.239118 0.341592 -1.11792 333 371)" xlink:href="#id28" cx="1623.13" cy="358.58" r="421.4" fx="1623.13" fy="358.58">
+  </radialGradient>
+  <radialGradient id="id166" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99968 -0 -0 -0.999508 1 19)" xlink:href="#id10" cx="2117.01" cy="9.72" r="3.44" fx="2117.01" fy="9.72">
+  </radialGradient>
+  <radialGradient id="id167" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00009 -0 -0 -1.00009 0 135)" xlink:href="#id10" cx="2232.62" cy="67.46" r="7.88" fx="2232.62" fy="67.46">
+  </radialGradient>
+  <radialGradient id="id168" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999543 -0 -0 -0.999728 1 243)" xlink:href="#id10" cx="1952.43" cy="121.34" r="3.19" fx="1952.43" fy="121.34">
+  </radialGradient>
+  <radialGradient id="id169" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00016 -0 -0 -1.00016 0 -21)" xlink:href="#id10" cx="2193.37" cy="-10.73" r="3.84" fx="2193.37" fy="-10.73">
+  </radialGradient>
+  <radialGradient id="id170" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999889 -0 -0 -0.999975 0 210)" xlink:href="#id10" cx="2116.75" cy="105.16" r="6.85" fx="2116.75" fy="105.16">
+  </radialGradient>
+  <radialGradient id="id171" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999998 -0 -0 -0.999999 0 834)" xlink:href="#id28" cx="1351.91" cy="417.23" r="532.63" fx="1351.91" fy="417.23">
+  </radialGradient>
+  <radialGradient id="id172" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999319 -0 -0 -0.999318 1 -322)" xlink:href="#id10" cx="2070.09" cy="-161" r="2.56" fx="2070.09" fy="-161">
+  </radialGradient>
+  <radialGradient id="id173" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999737 -0 -0 -0.999737 1 -269)" xlink:href="#id10" cx="2110.34" cy="-134.27" r="5.47" fx="2110.34" fy="-134.27">
+  </radialGradient>
+  <radialGradient id="id174" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999837 -0 -0 -0.999837 0 3)" xlink:href="#id10" cx="1874.77" cy="1.69" r="6.63" fx="1874.77" fy="1.69">
+  </radialGradient>
+  <radialGradient id="id175" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999954 -0 -0 -0.999846 0 30)" xlink:href="#id10" cx="2072.52" cy="14.91" r="5.5" fx="2072.52" fy="14.91">
+  </radialGradient>
+  <radialGradient id="id176" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99982 -0 -0 -0.999902 0 290)" xlink:href="#id10" cx="1994.1" cy="144.93" r="7.21" fx="1994.1" fy="144.93">
+  </radialGradient>
+  <radialGradient id="id177" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999777 -0 -0 -0.999777 0 60)" xlink:href="#id10" cx="2173.26" cy="30.08" r="6.35" fx="2173.26" fy="30.08">
+  </radialGradient>
+  <radialGradient id="id178" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00017 -0 -0 -1.00017 0 163)" xlink:href="#id10" cx="2083.74" cy="81.31" r="5.3" fx="2083.74" fy="81.31">
+  </radialGradient>
+  <radialGradient id="id179" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999967 -0 -0 -1.00014 0 -237)" xlink:href="#id10" cx="2114.67" cy="-118.55" r="3.41" fx="2114.67" fy="-118.55">
+  </radialGradient>
+  <radialGradient id="id180" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00008 -0 -0 -1.00008 0 150)" xlink:href="#id10" cx="1843.77" cy="74.93" r="4.42" fx="1843.77" fy="74.93">
+  </radialGradient>
+  <radialGradient id="id181" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00012 -0 -0 -1.00012 0 -272)" xlink:href="#id10" cx="2037" cy="-135.77" r="3.63" fx="2037" fy="-135.77">
+  </radialGradient>
+  <radialGradient id="id182" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.10062E-18 0.0343057 1.00013 -6.12405E-17 7204 -2683)" xlink:href="#id10" cx="4680.64" cy="-2522.58" r="456.25" fx="4680.64" fy="-2522.58">
+  </radialGradient>
+  <radialGradient id="id183" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999978 -0 -0 -0.999978 0 240)" xlink:href="#id10" cx="1971.21" cy="119.94" r="7.65" fx="1971.21" fy="119.94">
+  </radialGradient>
+  <radialGradient id="id184" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00018 -0 -0 -1.00018 0 98)" xlink:href="#id10" cx="2251.61" cy="48.85" r="2.5" fx="2251.61" fy="48.85">
+  </radialGradient>
+  <radialGradient id="id185" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00052 -0 -0 -1.00052 -1 -13)" xlink:href="#id10" cx="1908.16" cy="-6.66" r="4.19" fx="1908.16" fy="-6.66">
+  </radialGradient>
+  <radialGradient id="id186" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999726 -0 -0 -0.999559 1 270)" xlink:href="#id10" cx="1989.81" cy="135.26" r="3.54" fx="1989.81" fy="135.26">
+  </radialGradient>
+  <radialGradient id="id187" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00053 -0 -0 -1.00053 -1 -165)" xlink:href="#id10" cx="1946.83" cy="-82.45" r="2.23" fx="1946.83" fy="-82.45">
+  </radialGradient>
+  <radialGradient id="id188" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999959 -0 -0 -0.999959 0 -103)" xlink:href="#id10" cx="2162.21" cy="-51.34" r="7.15" fx="2162.21" fy="-51.34">
+  </radialGradient>
+  <radialGradient id="id189" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999756 -0 -0 -0.999623 1 -354)" xlink:href="#id10" cx="2065.3" cy="-176.85" r="4.46" fx="2065.3" fy="-176.85">
+  </radialGradient>
+  <radialGradient id="id190" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99982 -0 -0 -0.99982 0 80)" xlink:href="#id10" cx="2151.1" cy="40.01" r="6.98" fx="2151.1" fy="40.01">
+  </radialGradient>
+  <radialGradient id="id191" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999682 -0 -0 -0.999682 1 364)" xlink:href="#id10" cx="1951.85" cy="182.27" r="3.55" fx="1951.85" fy="182.27">
+  </radialGradient>
+  <radialGradient id="id192" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 -0 -0 -1.00011 0 -244)" xlink:href="#id10" cx="1913.53" cy="-121.81" r="5.29" fx="1913.53" fy="-121.81">
+  </radialGradient>
+  <radialGradient id="id193" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999762 -0 -0 -0.999762 0 43)" xlink:href="#id10" cx="1907.65" cy="21.41" r="2.29" fx="1907.65" fy="21.41">
+  </radialGradient>
+  <radialGradient id="id194" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999702 -0 -0 -0.999702 1 -198)" xlink:href="#id10" cx="1957.73" cy="-98.86" r="5.21" fx="1957.73" fy="-98.86">
+  </radialGradient>
+  <radialGradient id="id195" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999761 -0 -0 -0.999761 0 -312)" xlink:href="#id10" cx="1924.39" cy="-156.24" r="7.52" fx="1924.39" fy="-156.24">
+  </radialGradient>
+  <radialGradient id="id196" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999881 -0 -0 -0.999881 0 14)" xlink:href="#id10" cx="1910.57" cy="6.88" r="6.57" fx="1910.57" fy="6.88">
+  </radialGradient>
+  <radialGradient id="id197" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00001 -0 -0 -1.00001 0 77)" xlink:href="#id10" cx="1960.25" cy="38.55" r="4.14" fx="1960.25" fy="38.55">
+  </radialGradient>
+  <radialGradient id="id198" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999695 -0 -0 -0.999481 1 352)" xlink:href="#id10" cx="1931.96" cy="176.19" r="2.76" fx="1931.96" fy="176.19">
+  </radialGradient>
+  <radialGradient id="id199" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999997 -0 -0 -0.999996 0 -5598)" xlink:href="#id28" cx="5466.33" cy="-2798.76" r="493.09" fx="5466.33" fy="-2798.76">
+  </radialGradient>
+  <radialGradient id="id200" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0003 -0 -0 -1.00053 -1 105)" xlink:href="#id10" cx="1904.34" cy="52.3" r="2.54" fx="1904.34" fy="52.3">
+  </radialGradient>
+  <radialGradient id="id201" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999895 -0 -0 -0.999895 0 295)" xlink:href="#id10" cx="1939.54" cy="147.47" r="2.64" fx="1939.54" fy="147.47">
+  </radialGradient>
+  <radialGradient id="id202" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0005 -0 -0 -1.00027 -1 -236)" xlink:href="#id10" cx="2066.2" cy="-117.76" r="2.6" fx="2066.2" fy="-117.76">
+  </radialGradient>
+  <radialGradient id="id203" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999966 -0 -0 -0.999966 0 410)" xlink:href="#id10" cx="2127.64" cy="205.06" r="7.13" fx="2127.64" fy="205.06">
+  </radialGradient>
+  <radialGradient id="id204" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00072 -0 -0 -1.00072 -2 130)" xlink:href="#id10" cx="2209.41" cy="64.97" r="2.4" fx="2209.41" fy="64.97">
+  </radialGradient>
+  <radialGradient id="id205" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00013 -0 -0 -1.00013 0 -205)" xlink:href="#id10" cx="1925.23" cy="-102.49" r="4.68" fx="1925.23" fy="-102.49">
+  </radialGradient>
+  <radialGradient id="id206" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999734 -0 -0 -0.999734 1 212)" xlink:href="#id10" cx="1928.49" cy="106.18" r="3.19" fx="1928.49" fy="106.18">
+  </radialGradient>
+  <radialGradient id="id207" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999686 -0 -0 -0.999913 1 -192)" xlink:href="#id10" cx="2201.44" cy="-95.76" r="2.6" fx="2201.44" fy="-95.76">
+  </radialGradient>
+  <radialGradient id="id208" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00032 -0 -0 -1.00032 -1 16)" xlink:href="#id10" cx="1929.71" cy="7.83" r="3.43" fx="1929.71" fy="7.83">
+  </radialGradient>
+  <radialGradient id="id209" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00034 -0 -0 -1.0001 -1 -205)" xlink:href="#id10" cx="2040.15" cy="-102.39" r="2.47" fx="2040.15" fy="-102.39">
+  </radialGradient>
+  <radialGradient id="id210" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999808 -0 -0 -0.999808 0 -39)" xlink:href="#id10" cx="2075.13" cy="-19.57" r="7.65" fx="2075.13" fy="-19.57">
+  </radialGradient>
+  <radialGradient id="id211" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999816 -0 -0 -0.999816 0 234)" xlink:href="#id10" cx="1896.11" cy="117.04" r="2.76" fx="1896.11" fy="117.04">
+  </radialGradient>
+  <radialGradient id="id212" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00015 -0 -0 -1.00015 0 216)" xlink:href="#id10" cx="1907.49" cy="107.95" r="3.35" fx="1907.49" fy="107.95">
+  </radialGradient>
+  <radialGradient id="id213" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00019 -0 -0 -1.00019 0 -166)" xlink:href="#id10" cx="1911.23" cy="-82.76" r="6.16" fx="1911.23" fy="-82.76">
+  </radialGradient>
+  <radialGradient id="id214" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999633 -0 -0 -0.999633 1 23)" xlink:href="#id10" cx="2115.43" cy="11.72" r="2.27" fx="2115.43" fy="11.72">
+  </radialGradient>
+  <radialGradient id="id215" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00042 -0 -0 -1.00042 -1 31)" xlink:href="#id10" cx="2103.77" cy="15.45" r="2.4" fx="2103.77" fy="15.45">
+  </radialGradient>
+  <radialGradient id="id216" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999715 -0 -0 -0.999938 1 95)" xlink:href="#id10" cx="1898.96" cy="47.35" r="2.65" fx="1898.96" fy="47.35">
+  </radialGradient>
+  <radialGradient id="id217" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999986 -0 -0 -0.999714 0 377)" xlink:href="#id10" cx="2078.81" cy="188.76" r="2.16" fx="2078.81" fy="188.76">
+  </radialGradient>
+  <radialGradient id="id218" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999915 -0 -0 -0.999823 0 83)" xlink:href="#id10" cx="1840.81" cy="41.47" r="6.44" fx="1840.81" fy="41.47">
+  </radialGradient>
+  <radialGradient id="id219" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999744 -0 -0 -0.999997 0 -44)" xlink:href="#id10" cx="1840.69" cy="-22.18" r="2.34" fx="1840.69" fy="-22.18">
+  </radialGradient>
+  <radialGradient id="id220" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00045 -0 -0 -1.00045 -1 -23)" xlink:href="#id10" cx="1921.73" cy="-11.26" r="2.69" fx="1921.73" fy="-11.26">
+  </radialGradient>
+  <radialGradient id="id221" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999953 -0 -0 -0.999953 0 1)" xlink:href="#id10" cx="1934.79" cy="0.71" r="6.6" fx="1934.79" fy="0.71">
+  </radialGradient>
+  <radialGradient id="id222" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0343057 -0 -0 -1.0001 4520 -5045)" xlink:href="#id10" cx="4680.64" cy="-2522.58" r="456.25" fx="4680.64" fy="-2522.58">
+  </radialGradient>
+  <radialGradient id="id223" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999948 -0 -0 -0.999948 0 -257)" xlink:href="#id10" cx="2089.48" cy="-128.47" r="4.94" fx="2089.48" fy="-128.47">
+  </radialGradient>
+  <radialGradient id="id224" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999551 -0 -0 -0.999551 1 -318)" xlink:href="#id10" cx="2120.9" cy="-158.82" r="4.75" fx="2120.9" fy="-158.82">
+  </radialGradient>
+  <radialGradient id="id225" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99981 -0 -0 -0.99981 0 144)" xlink:href="#id10" cx="1888.39" cy="71.81" r="7.4" fx="1888.39" fy="71.81">
+  </radialGradient>
+  <radialGradient id="id226" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999982 -0 -0 -0.999982 0 222)" xlink:href="#id10" cx="2031.67" cy="111.12" r="3.21" fx="2031.67" fy="111.12">
+  </radialGradient>
+  <radialGradient id="id227" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 -0 -0 -1 0 222)" xlink:href="#id10" cx="2000.06" cy="111.01" r="4.89" fx="2000.06" fy="111.01">
+  </radialGradient>
+  <radialGradient id="id228" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999852 -0 -0 -0.999852 0 -65)" xlink:href="#id10" cx="2119.77" cy="-32.48" r="6.86" fx="2119.77" fy="-32.48">
+  </radialGradient>
+  <radialGradient id="id229" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00006 -0 -0 -0.999903 0 -102)" xlink:href="#id10" cx="1866.31" cy="-50.91" r="3.87" fx="1866.31" fy="-50.91">
+  </radialGradient>
+  <radialGradient id="id230" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999404 -0 -0 -0.999596 1 -128)" xlink:href="#id10" cx="1855.34" cy="-64.18" r="3.08" fx="1855.34" fy="-64.18">
+  </radialGradient>
+  <radialGradient id="id231" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999476 -0 -0 -0.999299 1 -19)" xlink:href="#id10" cx="2208.08" cy="-9.69" r="3.34" fx="2208.08" fy="-9.69">
+  </radialGradient>
+  <radialGradient id="id232" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00029 -0 -0 -1.00006 -1 -311)" xlink:href="#id10" cx="2098.19" cy="-155.55" r="2.55" fx="2098.19" fy="-155.55">
+  </radialGradient>
+  <radialGradient id="id233" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999789 -0 -0 -0.999789 0 -115)" xlink:href="#id10" cx="2059.79" cy="-57.36" r="2.61" fx="2059.79" fy="-57.36">
+  </radialGradient>
+  <radialGradient id="id234" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00008 -0 -0 -1.00008 0 -244)" xlink:href="#id10" cx="2013.71" cy="-121.9" r="2.85" fx="2013.71" fy="-121.9">
+  </radialGradient>
+  <radialGradient id="id235" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999732 -0 -0 -0.999732 1 173)" xlink:href="#id10" cx="2229.82" cy="86.55" r="8.28" fx="2229.82" fy="86.55">
+  </radialGradient>
+  <radialGradient id="id236" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999941 -0 -0 -1.00002 0 -254)" xlink:href="#id10" cx="2184.35" cy="-127.01" r="7.39" fx="2184.35" fy="-127.01">
+  </radialGradient>
+  <radialGradient id="id237" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00004 -0 -0 -1.00004 0 -242)" xlink:href="#id10" cx="1964.41" cy="-120.98" r="5.88" fx="1964.41" fy="-120.98">
+  </radialGradient>
+  <radialGradient id="id238" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 -0 -0 -1 0 -6002)" xlink:href="#id28" cx="4742.8" cy="-3001.08" r="493.09" fx="4742.8" fy="-3001.08">
+  </radialGradient>
+  <radialGradient id="id239" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999947 -0 -0 -0.999947 0 261)" xlink:href="#id10" cx="2081.67" cy="130.46" r="2.45" fx="2081.67" fy="130.46">
+  </radialGradient>
+  <radialGradient id="id240" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00044 -0 -0 -1.00026 -1 183)" xlink:href="#id10" cx="2041.32" cy="91.53" r="3.23" fx="2041.32" fy="91.53">
+  </radialGradient>
+  <radialGradient id="id241" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99961 -0 -0 -0.99961 1 -131)" xlink:href="#id10" cx="1933.33" cy="-65.5" r="3.67" fx="1933.33" fy="-65.5">
+  </radialGradient>
+  <radialGradient id="id242" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999894 -0 -0 -0.999776 0 287)" xlink:href="#id10" cx="2126.6" cy="143.43" r="4.97" fx="2126.6" fy="143.43">
+  </radialGradient>
+  <radialGradient id="id243" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.998878 -0 -0 -0.999092 2 -38)" xlink:href="#id10" cx="2136.25" cy="-19.01" r="2.76" fx="2136.25" fy="-19.01">
+  </radialGradient>
+  <radialGradient id="id244" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999913 -0 -0 -0.999913 0 227)" xlink:href="#id10" cx="2155.08" cy="113.32" r="6.03" fx="2155.08" fy="113.32">
+  </radialGradient>
+  <radialGradient id="id245" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999882 -0 -0 -0.999882 0 -204)" xlink:href="#id10" cx="2034.1" cy="-102.22" r="6.4" fx="2034.1" fy="-102.22">
+  </radialGradient>
+  <radialGradient id="id246" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.520856 1.02708 0.0489526 -0.0264989 972 -2079)" xlink:href="#id10" cx="2029.72" cy="5.1" r="170.43" fx="2029.72" fy="5.1">
+  </radialGradient>
+  <radialGradient id="id247" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00009 -0 -0 -1.00016 0 -168)" xlink:href="#id10" cx="1962.53" cy="-84.08" r="8.59" fx="1962.53" fy="-84.08">
+  </radialGradient>
+  <radialGradient id="id248" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00036 -0 -0 -1.00015 -1 23)" xlink:href="#id10" cx="1848.24" cy="11.7" r="2.76" fx="1848.24" fy="11.7">
+  </radialGradient>
+  <radialGradient id="id249" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999942 -0 -0 -0.999942 0 150)" xlink:href="#id10" cx="1981.12" cy="75.06" r="8.2" fx="1981.12" fy="75.06">
+  </radialGradient>
+  <radialGradient id="id250" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00027 -0 -0 -1.00053 -1 228)" xlink:href="#id10" cx="1936" cy="113.94" r="2.34" fx="1936" fy="113.94">
+  </radialGradient>
+  <radialGradient id="id251" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00003 -0 -0 -1.00003 0 172)" xlink:href="#id10" cx="2149.74" cy="85.9" r="5.2" fx="2149.74" fy="85.9">
+  </radialGradient>
+  <radialGradient id="id252" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00002 -0 -0 -1.00002 0 375)" xlink:href="#id10" cx="2048.69" cy="187.69" r="8.25" fx="2048.69" fy="187.69">
+  </radialGradient>
+  <radialGradient id="id253" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999763 -0 -0 -0.999763 1 19)" xlink:href="#id10" cx="2219.91" cy="9.36" r="2.23" fx="2219.91" fy="9.36">
+  </radialGradient>
+  <radialGradient id="id254" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999753 -0 -0 -0.99983 0 164)" xlink:href="#id10" cx="1912.71" cy="82.1" r="7.75" fx="1912.71" fy="82.1">
+  </radialGradient>
+  <radialGradient id="id255" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99979 -0 -0 -0.99979 0 111)" xlink:href="#id10" cx="2081.02" cy="55.43" r="3.31" fx="2081.02" fy="55.43">
+  </radialGradient>
+  <radialGradient id="id256" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999949 -0 -0 -0.999853 0 249)" xlink:href="#id10" cx="1997.13" cy="124.65" r="6.12" fx="1997.13" fy="124.65">
+  </radialGradient>
+  <radialGradient id="id257" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99999 -0 -0 -0.99999 0 47)" xlink:href="#id10" cx="1918.86" cy="23.56" r="7.14" fx="1918.86" fy="23.56">
+  </radialGradient>
+  <radialGradient id="id258" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999738 -0 -0 -0.999738 1 -187)" xlink:href="#id10" cx="2034.51" cy="-93.5" r="8.39" fx="2034.51" fy="-93.5">
+  </radialGradient>
+  <radialGradient id="id259" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00006 -0 -0 -1.00006 0 114)" xlink:href="#id10" cx="2065.54" cy="56.78" r="2.21" fx="2065.54" fy="56.78">
+  </radialGradient>
+  <radialGradient id="id260" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999675 -0 -0 -0.999675 1 63)" xlink:href="#id10" cx="2089.32" cy="31.27" r="3.66" fx="2089.32" fy="31.27">
+  </radialGradient>
+  <radialGradient id="id261" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999909 -0 -0 -0.999909 0 148)" xlink:href="#id10" cx="2109.08" cy="73.97" r="2.39" fx="2109.08" fy="73.97">
+  </radialGradient>
+  <radialGradient id="id262" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00053 -0 -0 -1.00034 -1 1)" xlink:href="#id10" cx="2174.52" cy="0.52" r="3.09" fx="2174.52" fy="0.52">
+  </radialGradient>
+  <radialGradient id="id263" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00011 -0 -0 -1.00011 0 360)" xlink:href="#id10" cx="2090.98" cy="180.01" r="4.93" fx="2090.98" fy="180.01">
+  </radialGradient>
+  <radialGradient id="id264" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999849 -0 -0 -0.999994 0 -26)" xlink:href="#id10" cx="1943.69" cy="-13.01" r="4.08" fx="1943.69" fy="-13.01">
+  </radialGradient>
+  <radialGradient id="id265" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99972 -0 -0 -0.99972 1 326)" xlink:href="#id10" cx="2121.64" cy="162.94" r="2.26" fx="2121.64" fy="162.94">
+  </radialGradient>
+  <radialGradient id="id266" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999747 -0 -0 -0.999747 1 -210)" xlink:href="#id10" cx="2109.26" cy="-105.02" r="7.36" fx="2109.26" fy="-105.02">
+  </radialGradient>
+  <radialGradient id="id267" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999908 -0 -0 -0.999908 0 -158)" xlink:href="#id10" cx="2024.37" cy="-79.25" r="6.85" fx="2024.37" fy="-79.25">
+  </radialGradient>
+  <radialGradient id="id268" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00008 -0 -0 -1.00008 0 205)" xlink:href="#id10" cx="2204.9" cy="102.67" r="8.15" fx="2204.9" fy="102.67">
+  </radialGradient>
+  <radialGradient id="id269" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999749 -0 -0 -0.999865 1 22)" xlink:href="#id10" cx="2177.75" cy="11.18" r="5.07" fx="2177.75" fy="11.18">
+  </radialGradient>
+  <radialGradient id="id270" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999128 -0 -0 -0.999336 2 -125)" xlink:href="#id10" cx="2036.47" cy="-62.64" r="2.84" fx="2036.47" fy="-62.64">
+  </radialGradient>
+  <radialGradient id="id271" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999937 -0 -0 -0.999937 0 177)" xlink:href="#id10" cx="1957.21" cy="88.27" r="8.18" fx="1957.21" fy="88.27">
+  </radialGradient>
+  <radialGradient id="id272" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999787 -0 -0 -0.999545 0 -178)" xlink:href="#id10" cx="2060.12" cy="-88.99" r="2.44" fx="2060.12" fy="-88.99">
+  </radialGradient>
+  <radialGradient id="id273" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999535 -0 -0 -0.9998 1 71)" xlink:href="#id10" cx="1890.66" cy="35.42" r="2.23" fx="1890.66" fy="35.42">
+  </radialGradient>
+  <radialGradient id="id274" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999611 -0 -0 -0.999514 1 -54)" xlink:href="#id10" cx="1909.64" cy="-26.91" r="6.15" fx="1909.64" fy="-26.91">
+  </radialGradient>
+  <radialGradient id="id275" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999971 -0 -0 -1.00005 0 129)" xlink:href="#id10" cx="2001.55" cy="64.29" r="7.35" fx="2001.55" fy="64.29">
+  </radialGradient>
+  <radialGradient id="id276" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999429 -0 -0 -0.999506 1 -3)" xlink:href="#id10" cx="1950.63" cy="-1.55" r="7.73" fx="1950.63" fy="-1.55">
+  </radialGradient>
+  <radialGradient id="id277" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999847 -0 -0 -0.999847 0 250)" xlink:href="#id10" cx="2040.18" cy="124.83" r="4.92" fx="2040.18" fy="124.83">
+  </radialGradient>
+  <radialGradient id="id278" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0343502 0.0343506 1.00164 -1.00165 7047 -5210)" xlink:href="#id10" cx="4680.64" cy="-2522.58" r="160.78" fx="4680.64" fy="-2522.58">
+  </radialGradient>
+  <radialGradient id="id279" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.0343502 0.0343506 1.00164 1.00165 7368 -157)" xlink:href="#id10" cx="4680.64" cy="-2522.58" r="160.78" fx="4680.64" fy="-2522.58">
+  </radialGradient>
+  <radialGradient id="id280" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999794 -0 -0 -0.999656 0 139)" xlink:href="#id10" cx="1911.41" cy="69.74" r="4.27" fx="1911.41" fy="69.74">
+  </radialGradient>
+  <radialGradient id="id281" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99999 -0 -0 -0.99999 0 -263)" xlink:href="#id10" cx="1894.09" cy="-131.74" r="8.19" fx="1894.09" fy="-131.74">
+  </radialGradient>
+  <radialGradient id="id282" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999674 -0 -0 -0.999806 1 92)" xlink:href="#id10" cx="1946.44" cy="45.86" r="4.49" fx="1946.44" fy="45.86">
+  </radialGradient>
+  <radialGradient id="id283" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999998 -0 -0 -0.999998 0 10)" xlink:href="#id10" cx="2029.73" cy="5.1" r="194.83" fx="2029.73" fy="5.1">
+  </radialGradient>
+  <radialGradient id="id284" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00006 -0 -0 -1.00006 0 -152)" xlink:href="#id10" cx="2189.41" cy="-75.86" r="2.18" fx="2189.41" fy="-75.86">
+  </radialGradient>
+  <radialGradient id="id285" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00004 -0 -0 -1.00004 0 37)" xlink:href="#id10" cx="1892.87" cy="18.63" r="2.57" fx="1892.87" fy="18.63">
+  </radialGradient>
+  <radialGradient id="id286" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00017 -0 -0 -1.00017 0 -74)" xlink:href="#id10" cx="2183.85" cy="-37.21" r="2.7" fx="2183.85" fy="-37.21">
+  </radialGradient>
+  <radialGradient id="id287" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00014 -0 -0 -1.00014 0 165)" xlink:href="#id10" cx="2146.31" cy="82.36" r="5.38" fx="2146.31" fy="82.36">
+  </radialGradient>
+  <radialGradient id="id288" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00057 -0 -0 -1.00057 -1 223)" xlink:href="#id10" cx="2138.96" cy="111.47" r="2.52" fx="2138.96" fy="111.47">
+  </radialGradient>
+  <radialGradient id="id289" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999772 -0 -0 -0.999906 0 -194)" xlink:href="#id10" cx="2061.58" cy="-97" r="4.42" fx="2061.58" fy="-97">
+  </radialGradient>
+  <radialGradient id="id290" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999655 -0 -0 -0.999655 1 318)" xlink:href="#id10" cx="1986.73" cy="159.13" r="3.21" fx="1986.73" fy="159.13">
+  </radialGradient>
+  <radialGradient id="id291" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999585 -0 -0 -0.999585 1 12)" xlink:href="#id10" cx="2195.79" cy="6.24" r="3.22" fx="2195.79" fy="6.24">
+  </radialGradient>
+  <radialGradient id="id292" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999789 -0 -0 -0.999789 0 66)" xlink:href="#id10" cx="1974.34" cy="32.93" r="7.99" fx="1974.34" fy="32.93">
+  </radialGradient>
+  <radialGradient id="id293" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999567 -0 -0 -0.999438 1 -339)" xlink:href="#id10" cx="2110.63" cy="-169.76" r="4.57" fx="2110.63" fy="-169.76">
+  </radialGradient>
+  <radialGradient id="id294" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00003 -0 -0 -0.999906 0 -102)" xlink:href="#id10" cx="2095.36" cy="-50.84" r="4.94" fx="2095.36" fy="-50.84">
+  </radialGradient>
+  <radialGradient id="id295" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.83253 0.163147 0.203217 -1.10039 1181 -5602)" xlink:href="#id28" cx="4210.88" cy="-2339.99" r="521.39" fx="4210.88" fy="-2339.99">
+  </radialGradient>
+  <radialGradient id="id296" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999635 -0 -0 -0.999889 1 -186)" xlink:href="#id10" cx="2114.45" cy="-92.81" r="2.33" fx="2114.45" fy="-92.81">
+  </radialGradient>
+  <radialGradient id="id297" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999875 -0 -0 -0.999875 0 307)" xlink:href="#id10" cx="1918.04" cy="153.52" r="3.54" fx="1918.04" fy="153.52">
+  </radialGradient>
+  <radialGradient id="id298" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999696 -0 -0 -0.999696 1 243)" xlink:href="#id10" cx="2047.14" cy="121.69" r="2.32" fx="2047.14" fy="121.69">
+  </radialGradient>
+  <radialGradient id="id299" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00006 -0 -0 -1.00006 0 228)" xlink:href="#id10" cx="1950.92" cy="114.01" r="5.72" fx="1950.92" fy="114.01">
+  </radialGradient>
+  <radialGradient id="id300" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0001 -0 -0 -0.999961 0 125)" xlink:href="#id10" cx="1971.41" cy="62.62" r="4.14" fx="1971.41" fy="62.62">
+  </radialGradient>
+  <radialGradient id="id301" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00015 -0 -0 -1.00015 0 -55)" xlink:href="#id10" cx="2242.24" cy="-27.36" r="7.1" fx="2242.24" fy="-27.36">
+  </radialGradient>
+  <radialGradient id="id302" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999779 -0 -0 -0.999779 0 86)" xlink:href="#id10" cx="2222.08" cy="43.24" r="7.01" fx="2222.08" fy="43.24">
+  </radialGradient>
+  <radialGradient id="id303" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999991 -0 -0 -0.999807 0 8)" xlink:href="#id10" cx="1906.3" cy="4.05" r="3.22" fx="1906.3" fy="4.05">
+  </radialGradient>
+  <radialGradient id="id304" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999915 -0 -0 -1.00018 0 295)" xlink:href="#id10" cx="2059.61" cy="147.28" r="2.24" fx="2059.61" fy="147.28">
+  </radialGradient>
+  <radialGradient id="id305" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99985 -0 -0 -0.99985 0 -135)" xlink:href="#id10" cx="2245.4" cy="-67.34" r="6.45" fx="2245.4" fy="-67.34">
+  </radialGradient>
+  <radialGradient id="id306" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9995 -0 -0 -0.9995 1 -191)" xlink:href="#id10" cx="1912.87" cy="-95.73" r="4.3" fx="1912.87" fy="-95.73">
+  </radialGradient>
+  <radialGradient id="id307" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99911 -0 -0 -0.99911 2 -205)" xlink:href="#id10" cx="1932.9" cy="-102.71" r="3.61" fx="1932.9" fy="-102.71">
+  </radialGradient>
+  <radialGradient id="id308" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999754 -0 -0 -0.999598 0 -18)" xlink:href="#id10" cx="1819.39" cy="-9.1" r="3.79" fx="1819.39" fy="-9.1">
+  </radialGradient>
+  <radialGradient id="id309" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999694 -0 -0 -0.999593 1 -321)" xlink:href="#id10" cx="1999.53" cy="-160.38" r="5.84" fx="1999.53" fy="-160.38">
+  </radialGradient>
+  <radialGradient id="id310" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00016 -0 -0 -0.999952 0 -87)" xlink:href="#id10" cx="2021.22" cy="-43.35" r="2.91" fx="2021.22" fy="-43.35">
+  </radialGradient>
+  <radialGradient id="id311" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999735 -0 -0 -0.999735 1 248)" xlink:href="#id10" cx="2088.53" cy="124.26" r="8.09" fx="2088.53" fy="124.26">
+  </radialGradient>
+  <radialGradient id="id312" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99999 -0 -0 -0.99976 0 -163)" xlink:href="#id10" cx="2126.09" cy="-81.34" r="2.56" fx="2126.09" fy="-81.34">
+  </radialGradient>
+  <radialGradient id="id313" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00021 -0 -0 -1.00003 0 -89)" xlink:href="#id10" cx="2097.63" cy="-44.49" r="3.23" fx="2097.63" fy="-44.49">
+  </radialGradient>
+  <radialGradient id="id314" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00013 -0 -0 -1.00024 0 265)" xlink:href="#id10" cx="1983.37" cy="132.48" r="5.14" fx="1983.37" fy="132.48">
+  </radialGradient>
+  <radialGradient id="id315" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999631 -0 -0 -0.999631 1 -160)" xlink:href="#id10" cx="2146.37" cy="-80.04" r="3.35" fx="2146.37" fy="-80.04">
+  </radialGradient>
+  <radialGradient id="id316" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00023 -0 -0 -1.00023 0 329)" xlink:href="#id10" cx="2074.39" cy="164.68" r="2.25" fx="2074.39" fy="164.68">
+  </radialGradient>
+  <radialGradient id="id317" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999795 -0 -0 -0.999795 0 193)" xlink:href="#id10" cx="2116.61" cy="96.42" r="7.61" fx="2116.61" fy="96.42">
+  </radialGradient>
+  <radialGradient id="id318" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00008 -0 -0 -1.00008 0 -237)" xlink:href="#id10" cx="2123.96" cy="-118.26" r="3.69" fx="2123.96" fy="-118.26">
+  </radialGradient>
+  <radialGradient id="id319" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999708 -0 -0 -0.999708 1 -153)" xlink:href="#id10" cx="1931.52" cy="-76.27" r="3.8" fx="1931.52" fy="-76.27">
+  </radialGradient>
+  <radialGradient id="id320" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999892 -0 -0 -0.999892 0 -97)" xlink:href="#id10" cx="2076.74" cy="-48.57" r="2.37" fx="2076.74" fy="-48.57">
+  </radialGradient>
+  <radialGradient id="id321" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99976 -0 -0 -0.999894 1 288)" xlink:href="#id10" cx="2163.37" cy="144.22" r="4.39" fx="2163.37" fy="144.22">
+  </radialGradient>
+  <radialGradient id="id322" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00053 -0 -0 -1.00053 -1 -126)" xlink:href="#id10" cx="2151.44" cy="-62.74" r="2.27" fx="2151.44" fy="-62.74">
+  </radialGradient>
+  <radialGradient id="id323" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00036 -0 -0 -1.00036 -1 -134)" xlink:href="#id10" cx="1961.86" cy="-67.14" r="2.59" fx="1961.86" fy="-67.14">
+  </radialGradient>
+  <radialGradient id="id324" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.832532 0.163147 0.203218 -1.10039 34 1789)" xlink:href="#id28" cx="1364.28" cy="957.68" r="499.19" fx="1364.28" fy="957.68">
+  </radialGradient>
+  <radialGradient id="id325" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00039 -0 -0 -1.00039 -1 381)" xlink:href="#id10" cx="1962.95" cy="190.27" r="3.07" fx="1962.95" fy="190.27">
+  </radialGradient>
+  <radialGradient id="id326" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.876439 -0.28935 -0.361217 -1.15598 266 1067)" xlink:href="#id28" cx="1160.74" cy="339.29" r="327.39" fx="1160.74" fy="339.29">
+  </radialGradient>
+  <radialGradient id="id327" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999835 -0 -0 -0.999835 0 -81)" xlink:href="#id10" cx="1983.69" cy="-40.54" r="7.69" fx="1983.69" fy="-40.54">
+  </radialGradient>
+  <radialGradient id="id328" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999924 -0 -0 -1.00006 0 98)" xlink:href="#id10" cx="1850.8" cy="49.12" r="4.48" fx="1850.8" fy="49.12">
+  </radialGradient>
+  <radialGradient id="id329" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999716 -0 -0 -0.999716 1 -176)" xlink:href="#id10" cx="2102.31" cy="-87.97" r="5.24" fx="2102.31" fy="-87.97">
+  </radialGradient>
+  <radialGradient id="id330" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999793 -0 -0 -0.999869 0 160)" xlink:href="#id10" cx="2181.45" cy="80.16" r="7.76" fx="2181.45" fy="80.16">
+  </radialGradient>
+  <radialGradient id="id331" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00034 -0 -0 -1.00034 -1 -257)" xlink:href="#id10" cx="2143.49" cy="-128.43" r="3.1" fx="2143.49" fy="-128.43">
+  </radialGradient>
+  <radialGradient id="id332" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0001 -0 -0 -1.0001 0 -126)" xlink:href="#id10" cx="1883.8" cy="-63.18" r="3.81" fx="1883.8" fy="-63.18">
+  </radialGradient>
+  <radialGradient id="id333" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999972 -0 -0 -1.00009 0 -350)" xlink:href="#id10" cx="2044.91" cy="-175.23" r="5.03" fx="2044.91" fy="-175.23">
+  </radialGradient>
+  <radialGradient id="id334" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999884 -0 -0 -0.999884 0 85)" xlink:href="#id10" cx="1899.13" cy="42.42" r="2.83" fx="1899.13" fy="42.42">
+  </radialGradient>
+  <radialGradient id="id335" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.805955 0.901353 1.0878 -0.771528 4385 -10457)" cx="5665.2" cy="-3020.23" r="279.02" fx="5665.2" fy="-3020.23">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#7F7F7F"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </radialGradient>
+  <radialGradient id="id336" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.434471 1.26192 1.16529 -0.401204 -127 -500)" cx="1120.16" cy="652.2" r="289.75" fx="1120.16" fy="652.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0156863" style="stop-opacity:1; stop-color:#7F7F7F"/>
+   <stop offset="0.160784" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </radialGradient>
+  <radialGradient id="id337" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.434469 1.2619 1.16529 -0.401202 5036 -9191)" cx="5387.36" cy="-1707.26" r="248.71" fx="5387.36" fy="-1707.26">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.027451" style="stop-opacity:1; stop-color:#7F7F7F"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </radialGradient>
+  <radialGradient id="id338" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.434464 1.2619 1.16528 -0.401201 4450 -8395)" xlink:href="#id337" cx="5232.44" cy="-1279.33" r="188.97" fx="5232.44" fy="-1279.33">
+  </radialGradient>
+  <radialGradient id="id339" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.434467 1.26192 1.16528 -0.401205 5115 -9460)" xlink:href="#id337" cx="5687.91" cy="-1628.65" r="218.9" fx="5687.91" fy="-1628.65">
+  </radialGradient>
+  <radialGradient id="id340" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.434474 1.26191 1.1653 -0.401202 6628 -10765)" xlink:href="#id337" cx="4804.68" cy="-3355.89" r="268.24" fx="4804.68" fy="-3355.89">
+  </radialGradient>
+  <radialGradient id="id341" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.434469 1.26191 1.16529 -0.401204 5617 -9829)" cx="5283.29" cy="-2256.61" r="268.24" fx="5283.29" fy="-2256.61">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0352941" style="stop-opacity:1; stop-color:#7F7F7F"/>
+   <stop offset="0.360784" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </radialGradient>
+  <radialGradient id="id342" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.343722 0.6685 1.08763 -0.217025 6730 -7178)" xlink:href="#id337" cx="5344.07" cy="-2962.79" r="270.34" fx="5344.07" fy="-2962.79">
+  </radialGradient>
+  <radialGradient id="id343" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.434468 1.26191 1.16528 -0.401202 2326 -3767)" xlink:href="#id341" cx="1666.77" cy="-1187.02" r="201.7" fx="1666.77" fy="-1187.02">
+  </radialGradient>
+  <radialGradient id="id344" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.127255 1.2513 1.15549 0.117512 2348 -2270)" xlink:href="#id336" cx="1220.48" cy="-841.36" r="314.93" fx="1220.48" fy="-841.36">
+  </radialGradient>
+  <linearGradient id="id345" gradientUnits="userSpaceOnUse" xlink:href="#id7" x1="-1276.29" y1="543.61" x2="-1132.14" y2="537.85">
+  </linearGradient>
+  <linearGradient id="id346" gradientUnits="userSpaceOnUse" x1="-1270.58" y1="540.73" x2="-1137.85" y2="540.73">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FEFEFE"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id347" gradientUnits="userSpaceOnUse" x1="-1272.26" y1="543.17" x2="-1136.17" y2="538.41">
+   <stop offset="0" style="stop-opacity:1; stop-color:#A54D40"/>
+   <stop offset="0.0705882" style="stop-opacity:1; stop-color:#D4803E"/>
+   <stop offset="0.168627" style="stop-opacity:1; stop-color:#FBD948"/>
+   <stop offset="0.231373" style="stop-opacity:1; stop-color:#CF7D3E"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#F0A643"/>
+   <stop offset="0.380392" style="stop-opacity:1; stop-color:#F9DC50"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#EC9C40"/>
+   <stop offset="0.521569" style="stop-opacity:1; stop-color:#EDA340"/>
+   <stop offset="0.588235" style="stop-opacity:1; stop-color:#C67D3F"/>
+   <stop offset="0.701961" style="stop-opacity:1; stop-color:#DA9740"/>
+   <stop offset="0.811765" style="stop-opacity:1; stop-color:#F5B743"/>
+   <stop offset="0.901961" style="stop-opacity:1; stop-color:#D78F46"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#823A18"/>
+  </linearGradient>
+  <radialGradient id="id348" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.13413 -0 -0 1.50344 162 -272)" cx="-1204.22" cy="540.73" r="589.21" fx="-1204.22" fy="540.73">
+   <stop offset="0" style="stop-opacity:1; stop-color:#EC343A"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#E8343A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E0353B"/>
+  </radialGradient>
+ </defs>
+<symbol id="Fm183-201-0" viewBox="1834.38 35.04 12.87 12.87">
+ <path class="fil0" d="M1847.25 41.47c0,3.56 -2.89,6.44 -6.44,6.44 -3.55,0 -6.43,-2.88 -6.43,-6.44 0,-3.55 2.88,-6.43 6.43,-6.43 3.55,0 6.44,2.88 6.44,6.43z"/>
+</symbol>
+<symbol id="Fm195-214-0" viewBox="1866.97 81.87 4.37 4.37">
+ <path class="fil1" d="M1871.35 84.05c0,1.21 -0.98,2.19 -2.19,2.19 -1.21,0 -2.19,-0.98 -2.19,-2.19 0,-1.21 0.98,-2.18 2.19,-2.18 1.21,0 2.19,0.97 2.19,2.18z"/>
+</symbol>
+<symbol id="Fm59-419-0" viewBox="1976.09 -120.28 4.89 4.9">
+ <path class="fil2" d="M1980.98 -117.83c0,1.35 -1.09,2.45 -2.44,2.45 -1.35,0 -2.45,-1.1 -2.45,-2.45 0,-1.35 1.1,-2.45 2.45,-2.45 1.35,0 2.44,1.1 2.44,2.45z"/>
+</symbol>
+<symbol id="Fm5-409-0" viewBox="869.93 -1175.4 1065.26 1065.26">
+ <path class="fil3" d="M1935.2 -642.77c0,294.17 -238.47,532.64 -532.63,532.64 -294.17,0 -532.64,-238.47 -532.64,-532.64 0,-294.16 238.47,-532.63 532.64,-532.63 294.16,0 532.63,238.47 532.63,532.63z"/>
+</symbol>
+<symbol id="Fm52-412-0" viewBox="1959.88 187.2 6.14 6.14">
+ <path class="fil4" d="M1966.02 190.27c0,1.7 -1.38,3.07 -3.07,3.07 -1.7,0 -3.07,-1.37 -3.07,-3.07 0,-1.69 1.37,-3.07 3.07,-3.07 1.69,0 3.07,1.38 3.07,3.07z"/>
+</symbol>
+<symbol id="Fm51-411-0" viewBox="2166.12 -91.48 4.95 4.95">
+ <path class="fil5" d="M2171.06 -89.01c0,1.37 -1.11,2.48 -2.47,2.48 -1.36,0 -2.47,-1.11 -2.47,-2.48 0,-1.37 1.11,-2.47 2.47,-2.47 1.36,0 2.47,1.1 2.47,2.47z"/>
+</symbol>
+<symbol id="Fm53-413-0" viewBox="1904.14 104.59 6.7 6.7">
+ <path class="fil6" d="M1910.84 107.94c0,1.86 -1.5,3.36 -3.35,3.36 -1.85,0 -3.35,-1.5 -3.35,-3.36 0,-1.85 1.5,-3.35 3.35,-3.35 1.85,0 3.35,1.5 3.35,3.35z"/>
+</symbol>
+<symbol id="Fm50-410-0" viewBox="1941.88 16.87 5.81 5.81">
+ <path class="fil7" d="M1947.7 19.78c0,1.6 -1.3,2.9 -2.91,2.9 -1.6,0 -2.91,-1.3 -2.91,-2.9 0,-1.61 1.31,-2.91 2.91,-2.91 1.61,0 2.91,1.3 2.91,2.91z"/>
+</symbol>
+<symbol id="Fm54-414-0" viewBox="1986.28 131.72 7.07 7.07">
+ <path class="fil8" d="M1993.35 135.26c0,1.95 -1.59,3.53 -3.54,3.53 -1.95,0 -3.53,-1.58 -3.53,-3.53 0,-1.96 1.58,-3.54 3.53,-3.54 1.95,0 3.54,1.58 3.54,3.54z"/>
+</symbol>
+<symbol id="Fm58-418-0" viewBox="2032.91 -121.75 14.32 14.32">
+ <path class="fil9" d="M2047.23 -114.59c0,3.96 -3.21,7.16 -7.16,7.16 -3.96,0 -7.16,-3.2 -7.16,-7.16 0,-3.95 3.2,-7.16 7.16,-7.16 3.95,0 7.16,3.21 7.16,7.16z"/>
+</symbol>
+<symbol id="Fm57-417-0" viewBox="2067.03 9.42 10.99 11">
+ <path class="fil10" d="M2078.02 14.91c0,3.04 -2.46,5.5 -5.5,5.5 -3.03,0 -5.49,-2.46 -5.49,-5.5 0,-3.03 2.46,-5.49 5.49,-5.49 3.04,0 5.5,2.46 5.5,5.49z"/>
+</symbol>
+<symbol id="Fm55-415-0" viewBox="2100.14 122.04 14.55 14.56">
+ <path class="fil11" d="M2114.7 129.32c0,4.02 -3.26,7.27 -7.28,7.27 -4.02,0 -7.28,-3.25 -7.28,-7.27 0,-4.03 3.26,-7.28 7.28,-7.28 4.02,0 7.28,3.25 7.28,7.28z"/>
+</symbol>
+<symbol id="Fm56-416-0" viewBox="1916.88 -163.76 15.02 15.03">
+ <path class="fil12" d="M1931.9 -156.24c0,4.15 -3.36,7.51 -7.51,7.51 -4.15,0 -7.51,-3.36 -7.51,-7.51 0,-4.15 3.36,-7.52 7.51,-7.52 4.15,0 7.51,3.37 7.51,7.52z"/>
+</symbol>
+<symbol id="Fm252-278-0" viewBox="1959.42 -43.61 5.56 5.56">
+ <path class="fil13" d="M1964.98 -40.83c0,1.54 -1.24,2.78 -2.78,2.78 -1.53,0 -2.78,-1.24 -2.78,-2.78 0,-1.53 1.25,-2.78 2.78,-2.78 1.54,0 2.78,1.25 2.78,2.78z"/>
+</symbol>
+<symbol id="Fm82-445-0" viewBox="2109.91 98.32 13.69 13.69">
+ <path class="fil14" d="M2123.6 105.16c0,3.78 -3.07,6.85 -6.85,6.85 -3.78,0 -6.84,-3.07 -6.84,-6.85 0,-3.78 3.06,-6.84 6.84,-6.84 3.78,0 6.85,3.06 6.85,6.84z"/>
+</symbol>
+<symbol id="Fm84-447-0" viewBox="2166.07 -14.3 4.32 4.32">
+ <path class="fil15" d="M2170.39 -12.14c0,1.19 -0.96,2.16 -2.16,2.16 -1.19,0 -2.16,-0.97 -2.16,-2.16 0,-1.19 0.97,-2.16 2.16,-2.16 1.2,0 2.16,0.97 2.16,2.16z"/>
+</symbol>
+<symbol id="Fm83-446-0" viewBox="1926.28 4.39 6.86 6.86">
+ <path class="fil16" d="M1933.14 7.83c0,1.89 -1.54,3.43 -3.43,3.43 -1.89,0 -3.43,-1.54 -3.43,-3.43 0,-1.9 1.54,-3.44 3.43,-3.44 1.89,0 3.43,1.54 3.43,3.44z"/>
+</symbol>
+<symbol id="Fm86-449-0" viewBox="1904.96 74.35 15.5 15.5">
+ <path class="fil17" d="M1920.46 82.1c0,4.28 -3.47,7.75 -7.76,7.75 -4.27,0 -7.74,-3.47 -7.74,-7.75 0,-4.28 3.47,-7.75 7.74,-7.75 4.29,0 7.76,3.47 7.76,7.75z"/>
+</symbol>
+<symbol id="Fm85-448-0" viewBox="1901.8 49.75 5.08 5.08">
+ <path class="fil18" d="M1906.88 52.29c0,1.41 -1.13,2.55 -2.54,2.55 -1.4,0 -2.54,-1.14 -2.54,-2.55 0,-1.4 1.14,-2.54 2.54,-2.54 1.41,0 2.54,1.14 2.54,2.54z"/>
+</symbol>
+<symbol id="Fm87-450-0" viewBox="1986.89 137.72 14.42 14.42">
+ <path class="fil19" d="M2001.31 144.93c0,3.98 -3.23,7.21 -7.21,7.21 -3.98,0 -7.21,-3.23 -7.21,-7.21 0,-3.98 3.23,-7.21 7.21,-7.21 3.98,0 7.21,3.23 7.21,7.21z"/>
+</symbol>
+<symbol id="Fm89-452-0" viewBox="1885.9 -139.93 16.38 16.38">
+ <path class="fil20" d="M1902.28 -131.74c0,4.52 -3.67,8.19 -8.19,8.19 -4.52,0 -8.19,-3.67 -8.19,-8.19 0,-4.53 3.67,-8.19 8.19,-8.19 4.52,0 8.19,3.66 8.19,8.19z"/>
+</symbol>
+<symbol id="Fm88-451-0" viewBox="1911.73 16.42 14.27 14.27">
+ <path class="fil21" d="M1926 23.55c0,3.95 -3.2,7.14 -7.14,7.14 -3.94,0 -7.13,-3.19 -7.13,-7.14 0,-3.93 3.19,-7.13 7.13,-7.13 3.94,0 7.14,3.2 7.14,7.13z"/>
+</symbol>
+<symbol id="Fm90-454-0" viewBox="2060.08 113.94 16.42 16.42">
+ <path class="fil22" d="M2076.5 122.15c0,4.54 -3.67,8.22 -8.21,8.22 -4.54,0 -8.21,-3.68 -8.21,-8.22 0,-4.53 3.67,-8.21 8.21,-8.21 4.54,0 8.21,3.68 8.21,8.21z"/>
+</symbol>
+<symbol id="Fm9-453-0" viewBox="1651.33 -1505.12 404 739">
+ <image x="1651.33" y="-1505.33" width="404.11" height="739.21" xlink:href="partap-logo_Images\partap-logo_ImgID1.png"/>
+</symbol>
+<symbol id="Fm91-455-0" viewBox="2101.91 -112.38 14.71 14.71">
+ <path class="fil23" d="M2116.61 -105.02c0,4.06 -3.29,7.36 -7.35,7.36 -4.06,0 -7.35,-3.3 -7.35,-7.36 0,-4.06 3.29,-7.36 7.35,-7.36 4.06,0 7.35,3.3 7.35,7.36z"/>
+</symbol>
+<symbol id="Fm92-456-0" viewBox="2054.51 -154.5 4.88 4.88">
+ <path class="fil24" d="M2059.38 -152.06c0,1.34 -1.09,2.44 -2.44,2.44 -1.34,0 -2.43,-1.1 -2.43,-2.44 0,-1.35 1.09,-2.44 2.43,-2.44 1.35,0 2.44,1.09 2.44,2.44z"/>
+</symbol>
+<symbol id="Fm93-457-0" viewBox="2144.54 80.7 10.4 10.4">
+ <path class="fil25" d="M2154.94 85.9c0,2.87 -2.33,5.2 -5.2,5.2 -2.87,0 -5.2,-2.33 -5.2,-5.2 0,-2.87 2.33,-5.2 5.2,-5.2 2.87,0 5.2,2.33 5.2,5.2z"/>
+</symbol>
+<symbol id="Fm96-460-0" viewBox="2090.23 38.5 16.49 16.49">
+ <path class="fil26" d="M2106.72 46.74c0,4.56 -3.69,8.25 -8.24,8.25 -4.56,0 -8.25,-3.69 -8.25,-8.25 0,-4.55 3.69,-8.24 8.25,-8.24 4.55,0 8.24,3.69 8.24,8.24z"/>
+</symbol>
+<symbol id="Fm95-459-0" viewBox="1928.43 -174.28 8.01 8">
+ <path class="fil27" d="M1936.43 -170.28c0,2.21 -1.79,4 -4,4 -2.21,0 -4,-1.79 -4,-4 0,-2.2 1.79,-4 4,-4 2.21,0 4,1.8 4,4z"/>
+</symbol>
+<symbol id="Fm94-458-0" viewBox="2009.18 91.94 14.75 14.75">
+ <path class="fil28" d="M2023.92 99.32c0,4.07 -3.3,7.37 -7.37,7.37 -4.07,0 -7.37,-3.3 -7.37,-7.37 0,-4.08 3.3,-7.38 7.37,-7.38 4.07,0 7.37,3.3 7.37,7.38z"/>
+</symbol>
+<symbol id="Fm97-461-0" viewBox="2189.53 -14.57 7.68 7.68">
+ <path class="fil29" d="M2197.21 -10.73c0,2.12 -1.72,3.84 -3.84,3.84 -2.12,0 -3.84,-1.72 -3.84,-3.84 0,-2.13 1.72,-3.84 3.84,-3.84 2.12,0 3.84,1.71 3.84,3.84z"/>
+</symbol>
+<symbol id="Fm0-35-0" viewBox="1173.24 258.86 559.58 90.26">
+ <polygon class="fil30" points="1173.24,260.14 1173.24,278.22 1453.03,349.13 1732.82,279.45 1732.82,258.86 1453.03,330.59 "/>
+</symbol>
+<symbol id="Fm98-462-0" viewBox="1896.66 -65.31 12.08 12.08">
+ <path class="fil31" d="M1908.75 -59.27c0,3.34 -2.71,6.05 -6.04,6.05 -3.34,0 -6.05,-2.71 -6.05,-6.05 0,-3.33 2.71,-6.04 6.05,-6.04 3.33,0 6.04,2.71 6.04,6.04z"/>
+</symbol>
+<symbol id="Fm99-463-0" viewBox="2010.86 -124.75 5.7 5.7">
+ <path class="fil32" d="M2016.56 -121.91c0,1.58 -1.27,2.86 -2.85,2.86 -1.57,0 -2.85,-1.28 -2.85,-2.86 0,-1.57 1.28,-2.84 2.85,-2.84 1.58,0 2.85,1.27 2.85,2.84z"/>
+</symbol>
+<symbol id="Fm1-36-0" viewBox="2410.88 258.86 559.58 90.26">
+ <polygon class="fil30" points="2410.88,260.14 2410.88,278.22 2690.67,349.13 2970.46,279.45 2970.46,258.86 2690.67,330.59 "/>
+</symbol>
+<symbol id="Fm61-422-0" viewBox="2091.8 -34.08 10.82 10.82">
+ <path class="fil33" d="M2102.61 -28.67c0,2.99 -2.42,5.41 -5.41,5.41 -2.98,0 -5.4,-2.42 -5.4,-5.41 0,-2.99 2.42,-5.41 5.4,-5.41 2.99,0 5.41,2.42 5.41,5.41z"/>
+</symbol>
+<symbol id="Fm62-423-0" viewBox="2182.48 -57.13 9.85 9.85">
+ <path class="fil34" d="M2192.33 -52.21c0,2.72 -2.2,4.92 -4.92,4.92 -2.72,0 -4.93,-2.2 -4.93,-4.92 0,-2.72 2.21,-4.92 4.93,-4.92 2.72,0 4.92,2.2 4.92,4.92z"/>
+</symbol>
+<symbol id="Fm63-424-0" viewBox="2105.35 177.71 14.22 14.23">
+ <path class="fil35" d="M2119.57 184.82c0,3.93 -3.18,7.11 -7.11,7.11 -3.93,0 -7.11,-3.18 -7.11,-7.11 0,-3.93 3.18,-7.11 7.11,-7.11 3.93,0 7.11,3.18 7.11,7.11z"/>
+</symbol>
+<symbol id="Fm64-425-0" viewBox="2063.59 -120.36 5.21 5.21">
+ <path class="fil36" d="M2068.8 -117.76c0,1.44 -1.17,2.6 -2.6,2.6 -1.44,0 -2.61,-1.16 -2.61,-2.6 0,-1.44 1.17,-2.6 2.61,-2.6 1.43,0 2.6,1.16 2.6,2.6z"/>
+</symbol>
+<symbol id="Fm67-428-0" viewBox="2094.41 -47.71 6.45 6.45">
+ <path class="fil37" d="M2100.86 -44.49c0,1.78 -1.45,3.23 -3.23,3.23 -1.78,0 -3.22,-1.45 -3.22,-3.23 0,-1.78 1.44,-3.22 3.22,-3.22 1.78,0 3.23,1.44 3.23,3.22z"/>
+</symbol>
+<symbol id="Fm68-429-0" viewBox="2077.71 52.12 6.62 6.62">
+ <path class="fil38" d="M2084.33 55.43c0,1.82 -1.48,3.31 -3.31,3.31 -1.82,0 -3.31,-1.49 -3.31,-3.31 0,-1.83 1.49,-3.31 3.31,-3.31 1.83,0 3.31,1.48 3.31,3.31z"/>
+</symbol>
+<symbol id="Fm66-427-0" viewBox="2043.07 217.87 4.63 4.63">
+ <path class="fil39" d="M2047.7 220.18c0,1.27 -1.04,2.32 -2.32,2.32 -1.27,0 -2.31,-1.05 -2.31,-2.32 0,-1.28 1.04,-2.31 2.31,-2.31 1.28,0 2.32,1.03 2.32,2.31z"/>
+</symbol>
+<symbol id="Fm65-426-0" viewBox="2140.93 76.98 10.75 10.75">
+ <path class="fil40" d="M2151.69 82.35c0,2.97 -2.41,5.38 -5.38,5.38 -2.97,0 -5.38,-2.41 -5.38,-5.38 0,-2.97 2.41,-5.37 5.38,-5.37 2.97,0 5.38,2.4 5.38,5.37z"/>
+</symbol>
+<symbol id="Fm69-430-0" viewBox="2124.53 59.99 6.8 6.8">
+ <path class="fil41" d="M2131.33 63.39c0,1.88 -1.52,3.4 -3.4,3.4 -1.88,0 -3.4,-1.52 -3.4,-3.4 0,-1.88 1.52,-3.4 3.4,-3.4 1.88,0 3.4,1.52 3.4,3.4z"/>
+</symbol>
+<symbol id="Fm7-431-0" viewBox="892.66 363.4 943.23 1188.55">
+ <path class="fil42" d="M1822.34 1044.8c-61.75,324.62 -316.89,548.77 -569.87,500.65 -252.97,-48.12 -408,-350.29 -346.25,-674.9 61.74,-324.62 316.88,-548.76 569.86,-500.65 252.98,48.12 408,350.29 346.26,674.9z"/>
+</symbol>
+<symbol id="Fm70-432-0" viewBox="1935.73 -56.49 9.1 9.1">
+ <path class="fil43" d="M1944.83 -51.94c0,2.51 -2.04,4.55 -4.55,4.55 -2.52,0 -4.55,-2.04 -4.55,-4.55 0,-2.51 2.03,-4.55 4.55,-4.55 2.51,0 4.55,2.04 4.55,4.55z"/>
+</symbol>
+<symbol id="Fm72-434-0" viewBox="1839.35 70.5 8.85 8.85">
+ <path class="fil44" d="M1848.2 74.93c0,2.44 -1.98,4.42 -4.43,4.42 -2.44,0 -4.42,-1.98 -4.42,-4.42 0,-2.45 1.98,-4.43 4.42,-4.43 2.45,0 4.43,1.98 4.43,4.43z"/>
+</symbol>
+<symbol id="Fm71-433-0" viewBox="2152.24 -39.13 5.37 5.36">
+ <path class="fil45" d="M2157.61 -36.45c0,1.48 -1.2,2.68 -2.69,2.68 -1.48,0 -2.68,-1.2 -2.68,-2.68 0,-1.48 1.2,-2.68 2.68,-2.68 1.49,0 2.69,1.2 2.69,2.68z"/>
+</symbol>
+<symbol id="Fm73-435-0" viewBox="2104.84 -80.57 4.72 4.72">
+ <path class="fil46" d="M2109.56 -78.21c0,1.31 -1.06,2.36 -2.36,2.36 -1.31,0 -2.36,-1.05 -2.36,-2.36 0,-1.3 1.05,-2.36 2.36,-2.36 1.3,0 2.36,1.06 2.36,2.36z"/>
+</symbol>
+<symbol id="Fm76-438-0" viewBox="2099.94 -165.63 6.38 6.37">
+ <path class="fil47" d="M2106.31 -162.44c0,1.76 -1.43,3.18 -3.18,3.18 -1.76,0 -3.19,-1.42 -3.19,-3.18 0,-1.76 1.43,-3.19 3.19,-3.19 1.75,0 3.18,1.43 3.18,3.19z"/>
+</symbol>
+<symbol id="Fm74-436-0" viewBox="2159.88 21.82 13.93 13.93">
+ <path class="fil48" d="M2173.81 28.79c0,3.85 -3.11,6.96 -6.96,6.96 -3.84,0 -6.97,-3.11 -6.97,-6.96 0,-3.85 3.13,-6.97 6.97,-6.97 3.85,0 6.96,3.12 6.96,6.97z"/>
+</symbol>
+<symbol id="Fm75-437-0" viewBox="1993.69 -166.22 11.68 11.67">
+ <path class="fil49" d="M2005.36 -160.38c0,3.22 -2.61,5.83 -5.83,5.83 -3.23,0 -5.84,-2.61 -5.84,-5.83 0,-3.23 2.61,-5.84 5.84,-5.84 3.22,0 5.83,2.61 5.83,5.84z"/>
+</symbol>
+<symbol id="Fm78-440-0" viewBox="1862.44 -54.78 7.74 7.73">
+ <path class="fil50" d="M1870.18 -50.91c0,2.14 -1.73,3.87 -3.87,3.87 -2.14,0 -3.87,-1.73 -3.87,-3.87 0,-2.14 1.73,-3.87 3.87,-3.87 2.14,0 3.87,1.73 3.87,3.87z"/>
+</symbol>
+<symbol id="Fm77-439-0" viewBox="2169.83 -52.46 15.24 15.24">
+ <path class="fil51" d="M2185.06 -44.83c0,4.2 -3.41,7.61 -7.61,7.61 -4.21,0 -7.62,-3.41 -7.62,-7.61 0,-4.21 3.41,-7.63 7.62,-7.63 4.2,0 7.61,3.42 7.61,7.63z"/>
+</symbol>
+<symbol id="Fm79-441-0" viewBox="1971.3 -7.76 12.44 12.43">
+ <path class="fil52" d="M1983.73 -1.54c0,3.43 -2.78,6.22 -6.22,6.22 -3.43,0 -6.21,-2.79 -6.21,-6.22 0,-3.43 2.78,-6.22 6.21,-6.22 3.44,0 6.22,2.79 6.22,6.22z"/>
+</symbol>
+<symbol id="Fm8-442-0" viewBox="1133.33 -911.12 667 465">
+ <image x="1133.33" y="-911.25" width="667.19" height="465.13" xlink:href="partap-logo_Images\partap-logo_ImgID2.png"/>
+</symbol>
+<symbol id="Fm80-443-0" viewBox="1967.29 197.19 12.63 12.63">
+ <path class="fil53" d="M1979.92 203.51c0,3.49 -2.83,6.31 -6.32,6.31 -3.48,0 -6.31,-2.82 -6.31,-6.31 0,-3.49 2.83,-6.32 6.31,-6.32 3.49,0 6.32,2.83 6.32,6.32z"/>
+</symbol>
+<symbol id="Fm81-444-0" viewBox="2176.97 -134.4 14.78 14.77">
+ <path class="fil54" d="M2191.74 -127.01c0,4.08 -3.3,7.39 -7.39,7.39 -4.07,0 -7.38,-3.31 -7.38,-7.39 0,-4.08 3.31,-7.39 7.38,-7.39 4.09,0 7.39,3.31 7.39,7.39z"/>
+</symbol>
+<symbol id="Fm244-269-0" viewBox="2113.17 9.46 4.53 4.53">
+ <path class="fil55" d="M2117.7 11.72c0,1.25 -1.02,2.27 -2.27,2.27 -1.25,0 -2.26,-1.02 -2.26,-2.27 0,-1.25 1.01,-2.26 2.26,-2.26 1.25,0 2.27,1.01 2.27,2.26z"/>
+</symbol>
+<symbol id="Fm245-270-0" viewBox="1842.64 -39.87 8.67 8.67">
+ <path class="fil56" d="M1851.31 -35.53c0,2.39 -1.94,4.33 -4.33,4.33 -2.4,0 -4.34,-1.94 -4.34,-4.33 0,-2.4 1.94,-4.34 4.34,-4.34 2.39,0 4.33,1.94 4.33,4.34z"/>
+</symbol>
+<symbol id="Fm246-271-0" viewBox="2085.65 -141.36 7.37 7.38">
+ <path class="fil57" d="M2093.02 -137.68c0,2.04 -1.65,3.69 -3.69,3.69 -2.03,0 -3.68,-1.65 -3.68,-3.69 0,-2.03 1.65,-3.68 3.68,-3.68 2.04,0 3.69,1.65 3.69,3.68z"/>
+</symbol>
+<symbol id="Fm247-272-0" viewBox="2095.64 -158.1 5.1 5.1">
+ <path class="fil58" d="M2100.74 -155.55c0,1.42 -1.14,2.55 -2.55,2.55 -1.41,0 -2.55,-1.13 -2.55,-2.55 0,-1.41 1.14,-2.55 2.55,-2.55 1.41,0 2.55,1.14 2.55,2.55z"/>
+</symbol>
+<symbol id="Fm248-273-0" viewBox="2112.04 43.07 15.77 15.77">
+ <path class="fil59" d="M2127.8 50.95c0,4.36 -3.52,7.89 -7.88,7.89 -4.35,0 -7.88,-3.53 -7.88,-7.89 0,-4.35 3.53,-7.88 7.88,-7.88 4.36,0 7.88,3.53 7.88,7.88z"/>
+</symbol>
+<symbol id="Fm249-274-0" viewBox="1942.91 -9.27 15.44 15.45">
+ <path class="fil60" d="M1958.35 -1.55c0,4.27 -3.45,7.73 -7.72,7.73 -4.26,0 -7.72,-3.46 -7.72,-7.73 0,-4.26 3.46,-7.72 7.72,-7.72 4.27,0 7.72,3.46 7.72,7.72z"/>
+</symbol>
+<symbol id="Fm25-275-0" viewBox="2104.87 -139.74 10.94 10.94">
+ <path class="fil61" d="M2115.81 -134.27c0,3.02 -2.45,5.47 -5.47,5.47 -3.02,0 -5.47,-2.45 -5.47,-5.47 0,-3.02 2.45,-5.47 5.47,-5.47 3.02,0 5.47,2.45 5.47,5.47z"/>
+</symbol>
+<symbol id="Fm250-276-0" viewBox="2035.34 206.82 8.35 8.35">
+ <path class="fil62" d="M2043.69 211c0,2.31 -1.87,4.18 -4.18,4.18 -2.3,0 -4.17,-1.87 -4.17,-4.18 0,-2.31 1.87,-4.18 4.17,-4.18 2.31,0 4.18,1.87 4.18,4.18z"/>
+</symbol>
+<symbol id="Fm251-277-0" viewBox="2158.98 139.83 8.79 8.78">
+ <path class="fil63" d="M2167.77 144.22c0,2.42 -1.97,4.39 -4.39,4.39 -2.43,0 -4.4,-1.97 -4.4,-4.39 0,-2.43 1.97,-4.39 4.4,-4.39 2.42,0 4.39,1.96 4.39,4.39z"/>
+</symbol>
+<symbol id="Fm239-263-0" viewBox="2149.18 -65.01 4.53 4.53">
+ <path class="fil64" d="M2153.71 -62.74c0,1.25 -1.02,2.26 -2.27,2.26 -1.25,0 -2.26,-1.01 -2.26,-2.26 0,-1.25 1.01,-2.27 2.26,-2.27 1.25,0 2.27,1.02 2.27,2.27z"/>
+</symbol>
+<symbol id="Fm238-262-0" viewBox="2037.68 -104.86 4.95 4.95">
+ <path class="fil65" d="M2042.62 -102.38c0,1.36 -1.11,2.47 -2.47,2.47 -1.37,0 -2.47,-1.11 -2.47,-2.47 0,-1.37 1.1,-2.48 2.47,-2.48 1.36,0 2.47,1.11 2.47,2.48z"/>
+</symbol>
+<symbol id="Fm24-264-0" viewBox="1773.86 -250.77 511.74 511.73">
+ <image x="1773.86" y="-250.77" width="511.74" height="511.73" xlink:href="partap-logo_Images\partap-logo_ImgID3.png"/>
+</symbol>
+<symbol id="Fm240-265-0" viewBox="1953.14 -14.16 14.43 14.43">
+ <path class="fil66" d="M1967.57 -6.94c0,3.98 -3.23,7.21 -7.21,7.21 -3.99,0 -7.22,-3.23 -7.22,-7.21 0,-3.99 3.23,-7.22 7.22,-7.22 3.98,0 7.21,3.23 7.21,7.22z"/>
+</symbol>
+<symbol id="Fm241-266-0" viewBox="2120.28 -121.95 7.37 7.37">
+ <path class="fil67" d="M2127.65 -118.26c0,2.04 -1.65,3.68 -3.69,3.68 -2.03,0 -3.68,-1.64 -3.68,-3.68 0,-2.04 1.65,-3.69 3.68,-3.69 2.04,0 3.69,1.65 3.69,3.69z"/>
+</symbol>
+<symbol id="Fm242-267-0" viewBox="1966.36 24.95 15.97 15.97">
+ <path class="fil68" d="M1982.33 32.93c0,4.42 -3.57,7.99 -7.98,7.99 -4.42,0 -7.99,-3.57 -7.99,-7.99 0,-4.4 3.57,-7.98 7.99,-7.98 4.41,0 7.98,3.58 7.98,7.98z"/>
+</symbol>
+<symbol id="Fm243-268-0" viewBox="1868.14 -4.93 13.25 13.25">
+ <path class="fil69" d="M1881.39 1.69c0,3.66 -2.96,6.63 -6.62,6.63 -3.67,0 -6.63,-2.97 -6.63,-6.63 0,-3.66 2.96,-6.62 6.63,-6.62 3.66,0 6.62,2.96 6.62,6.62z"/>
+</symbol>
+<symbol id="Fm29-319-0" viewBox="1902.61 125.7 15.18 15.18">
+ <path class="fil70" d="M1917.79 133.29c0,4.19 -3.4,7.59 -7.58,7.59 -4.2,0 -7.6,-3.4 -7.6,-7.59 0,-4.19 3.4,-7.59 7.6,-7.59 4.18,0 7.58,3.4 7.58,7.59z"/>
+</symbol>
+<symbol id="Fm289-318-0" viewBox="2040.44 179.44 16.49 16.49">
+ <path class="fil71" d="M2056.93 187.69c0,4.55 -3.68,8.24 -8.24,8.24 -4.55,0 -8.25,-3.69 -8.25,-8.24 0,-4.56 3.7,-8.25 8.25,-8.25 4.56,0 8.24,3.69 8.24,8.25z"/>
+</symbol>
+<symbol id="Fm290-320-0" viewBox="2224.74 59.58 15.75 15.75">
+ <path class="fil72" d="M2240.5 67.46c0,4.35 -3.53,7.88 -7.88,7.88 -4.35,0 -7.88,-3.53 -7.88,-7.88 0,-4.35 3.53,-7.88 7.88,-7.88 4.35,0 7.88,3.53 7.88,7.88z"/>
+</symbol>
+<symbol id="Fm284-313-0" viewBox="2185.62 37.1 16.69 16.69">
+ <path class="fil73" d="M2202.32 45.45c0,4.61 -3.74,8.34 -8.35,8.34 -4.61,0 -8.35,-3.73 -8.35,-8.34 0,-4.61 3.74,-8.35 8.35,-8.35 4.61,0 8.35,3.74 8.35,8.35z"/>
+</symbol>
+<symbol id="Fm286-315-0" viewBox="2057.37 145.04 4.47 4.48">
+ <path class="fil74" d="M2061.85 147.27c0,1.24 -1.01,2.24 -2.24,2.24 -1.24,0 -2.24,-1 -2.24,-2.24 0,-1.23 1,-2.23 2.24,-2.23 1.23,0 2.24,1 2.24,2.23z"/>
+</symbol>
+<symbol id="Fm285-314-0" viewBox="2003.91 -48.09 9.11 9.11">
+ <path class="fil75" d="M2013.02 -43.53c0,2.51 -2.04,4.55 -4.56,4.55 -2.51,0 -4.55,-2.04 -4.55,-4.55 0,-2.52 2.04,-4.56 4.55,-4.56 2.52,0 4.56,2.04 4.56,4.56z"/>
+</symbol>
+<symbol id="Fm288-317-0" viewBox="2192.57 3.02 6.44 6.43">
+ <path class="fil76" d="M2199.01 6.23c0,1.78 -1.45,3.22 -3.23,3.22 -1.77,0 -3.21,-1.44 -3.21,-3.22 0,-1.77 1.44,-3.21 3.21,-3.21 1.78,0 3.23,1.44 3.23,3.21z"/>
+</symbol>
+<symbol id="Fm287-316-0" viewBox="2120.51 197.93 14.26 14.26">
+ <path class="fil77" d="M2134.77 205.06c0,3.94 -3.19,7.13 -7.13,7.13 -3.94,0 -7.13,-3.19 -7.13,-7.13 0,-3.94 3.19,-7.13 7.13,-7.13 3.94,0 7.13,3.19 7.13,7.13z"/>
+</symbol>
+<symbol id="Fm190-209-0" viewBox="2226.31 43.53 13.1 13.1">
+ <path class="fil78" d="M2239.42 50.09c0,3.61 -2.94,6.55 -6.55,6.55 -3.62,0 -6.56,-2.94 -6.56,-6.55 0,-3.63 2.94,-6.56 6.56,-6.56 3.61,0 6.55,2.93 6.55,6.56z"/>
+</symbol>
+<symbol id="Fm188-206-0" viewBox="1815.61 -12.89 7.56 7.57">
+ <path class="fil79" d="M1823.17 -9.1c0,2.09 -1.69,3.78 -3.78,3.78 -2.09,0 -3.78,-1.69 -3.78,-3.78 0,-2.09 1.69,-3.79 3.78,-3.79 2.09,0 3.78,1.7 3.78,3.79z"/>
+</symbol>
+<symbol id="Fm189-207-0" viewBox="2181.16 -39.9 5.4 5.4">
+ <path class="fil80" d="M2186.55 -37.21c0,1.49 -1.21,2.7 -2.7,2.7 -1.49,0 -2.69,-1.21 -2.69,-2.7 0,-1.49 1.2,-2.69 2.69,-2.69 1.49,0 2.7,1.2 2.7,2.69z"/>
+</symbol>
+<symbol id="Fm187-205-0" viewBox="1963.57 112.29 15.29 15.29">
+ <path class="fil81" d="M1978.86 119.94c0,4.22 -3.43,7.64 -7.65,7.64 -4.22,0 -7.64,-3.42 -7.64,-7.64 0,-4.22 3.42,-7.65 7.64,-7.65 4.22,0 7.65,3.43 7.65,7.65z"/>
+</symbol>
+<symbol id="Fm19-208-0" viewBox="1443.15 -1419.41 438.48 438.48">
+ <path class="fil82" d="M1874.37 -1255.89c30.78,117.07 -39.19,236.93 -156.26,267.7 -117.08,30.78 -236.93,-39.19 -267.71,-156.26 -30.77,-117.08 39.19,-236.93 156.27,-267.71 117.07,-30.77 236.93,39.19 267.7,156.27z"/>
+</symbol>
+<symbol id="Fm0-107-0" viewBox="976.64 -3515 4594.72 4578">
+ <polygon class="fil83" points="5571.36,1063 5571.36,-3515 976.64,-3515 976.64,1063 "/>
+</symbol>
+<symbol id="Fm299-329-0" viewBox="1967.27 58.48 8.29 8.29">
+ <path class="fil84" d="M1975.56 62.62c0,2.29 -1.85,4.15 -4.14,4.15 -2.29,0 -4.15,-1.86 -4.15,-4.15 0,-2.28 1.86,-4.14 4.15,-4.14 2.29,0 4.14,1.86 4.14,4.14z"/>
+</symbol>
+<symbol id="Fm298-328-0" viewBox="1985.92 -136.65 5.29 5.29">
+ <path class="fil85" d="M1991.21 -134c0,1.46 -1.19,2.64 -2.65,2.64 -1.46,0 -2.64,-1.18 -2.64,-2.64 0,-1.46 1.18,-2.65 2.64,-2.65 1.46,0 2.65,1.19 2.65,2.65z"/>
+</symbol>
+<symbol id="Fm3-330-0" viewBox="1240.42 -168.17 765.42 1053.51">
+ <path class="fil86" d="M1968.77 468.72c-90.64,284.43 -318.87,465.69 -509.76,404.86 -190.89,-60.83 -272.16,-340.72 -181.52,-625.14 90.64,-284.43 318.86,-465.69 509.75,-404.86 190.89,60.84 272.16,340.72 181.53,625.14z"/>
+</symbol>
+<symbol id="Fm30-331-0" viewBox="1949.23 118.14 6.39 6.38">
+ <path class="fil87" d="M1955.62 121.34c0,1.76 -1.43,3.19 -3.19,3.19 -1.77,0 -3.2,-1.43 -3.2,-3.19 0,-1.77 1.43,-3.2 3.2,-3.2 1.76,0 3.19,1.43 3.19,3.2z"/>
+</symbol>
+<symbol id="Fm304-336-0" viewBox="1937.68 -37.34 6.28 6.29">
+ <path class="fil88" d="M1943.96 -34.19c0,1.73 -1.4,3.14 -3.14,3.14 -1.73,0 -3.14,-1.41 -3.14,-3.14 0,-1.74 1.41,-3.15 3.14,-3.15 1.74,0 3.14,1.41 3.14,3.15z"/>
+</symbol>
+<symbol id="Fm296-326-0" viewBox="1893.33 -18.37 5.89 5.89">
+ <path class="fil89" d="M1899.23 -15.43c0,1.63 -1.32,2.95 -2.95,2.95 -1.62,0 -2.95,-1.32 -2.95,-2.95 0,-1.62 1.33,-2.94 2.95,-2.94 1.63,0 2.95,1.32 2.95,2.94z"/>
+</symbol>
+<symbol id="Fm297-327-0" viewBox="1977.42 -114.96 14.48 14.48">
+ <path class="fil90" d="M1991.9 -107.71c0,3.99 -3.24,7.24 -7.24,7.24 -4,0 -7.24,-3.25 -7.24,-7.24 0,-4 3.24,-7.25 7.24,-7.25 4,0 7.24,3.25 7.24,7.25z"/>
+</symbol>
+<symbol id="Fm336-371-0" viewBox="5217.34 -1460.12 629 441">
+ <image x="5217.34" y="-1460.24" width="629.18" height="441.12" xlink:href="partap-logo_Images\partap-logo_ImgID4.png"/>
+</symbol>
+<symbol id="Fm337-372-0" viewBox="5014.86 -1731.64 652.19 797.6">
+ <path class="fil91" d="M5642.37 -1429.64c68.6,213.61 -10.73,430.11 -177.2,483.58 -166.47,53.46 -357.03,-76.37 -425.63,-289.98 -68.61,-213.6 10.73,-430.11 177.2,-483.57 166.47,-53.46 357.03,76.36 425.63,289.97z"/>
+</symbol>
+<symbol id="Fm338-373-0" viewBox="5327.34 -2774.12 703 468">
+ <image x="5327.34" y="-2774.25" width="703.2" height="468.13" xlink:href="partap-logo_Images\partap-logo_ImgID5.png"/>
+</symbol>
+<symbol id="Fm339-374-0" viewBox="5492.34 -3517.12 596 681">
+ <image x="5492.34" y="-3517.31" width="596.17" height="681.19" xlink:href="partap-logo_Images\partap-logo_ImgID6.png"/>
+</symbol>
+<symbol id="Fm34-375-0" viewBox="1914.5 149.99 7.07 7.07">
+ <path class="fil92" d="M1921.57 153.52c0,1.96 -1.58,3.54 -3.53,3.54 -1.96,0 -3.54,-1.58 -3.54,-3.54 0,-1.95 1.58,-3.53 3.54,-3.53 1.95,0 3.53,1.58 3.53,3.53z"/>
+</symbol>
+<symbol id="Fm332-367-0" viewBox="4850.34 -1956.12 694 423">
+ <image x="4850.34" y="-1956.24" width="694.2" height="423.12" xlink:href="partap-logo_Images\partap-logo_ImgID7.png"/>
+</symbol>
+<symbol id="Fm333-368-0" viewBox="5231.34 -2675.12 475 728">
+ <image x="5231.34" y="-2675.33" width="475.13" height="728.21" xlink:href="partap-logo_Images\partap-logo_ImgID8.png"/>
+</symbol>
+<symbol id="Fm334-369-0" viewBox="4420.34 -3037.12 724 431">
+ <image x="4420.34" y="-3037.24" width="724.2" height="431.12" xlink:href="partap-logo_Images\partap-logo_ImgID9.png"/>
+</symbol>
+<symbol id="Fm335-370-0" viewBox="4830.34 -3811.12 489 760">
+ <image x="4830.34" y="-3811.34" width="489.14" height="760.21" xlink:href="partap-logo_Images\partap-logo_ImgID10.png"/>
+</symbol>
+<symbol id="Fm19-919-0" viewBox="4601.54 -2763.14 84.34 260.15">
+ <image x="4601.54" y="-2763.14" width="84.34" height="260.15" xlink:href="partap-logo_Images\partap-logo_ImgID11.png"/>
+</symbol>
+<symbol id="Fm40-399-0" viewBox="1933.66 111.6 4.68 4.68">
+ <path class="fil93" d="M1938.34 113.94c0,1.28 -1.05,2.33 -2.34,2.33 -1.29,0 -2.34,-1.05 -2.34,-2.33 0,-1.3 1.05,-2.34 2.34,-2.34 1.29,0 2.34,1.04 2.34,2.34z"/>
+</symbol>
+<symbol id="Fm41-400-0" viewBox="1925.3 102.99 6.38 6.38">
+ <path class="fil94" d="M1931.68 106.18c0,1.76 -1.43,3.19 -3.19,3.19 -1.76,0 -3.19,-1.43 -3.19,-3.19 0,-1.76 1.43,-3.19 3.19,-3.19 1.76,0 3.19,1.43 3.19,3.19z"/>
+</symbol>
+<symbol id="Fm42-401-0" viewBox="1905.07 -88.92 12.32 12.32">
+ <path class="fil95" d="M1917.38 -82.76c0,3.4 -2.75,6.16 -6.15,6.16 -3.41,0 -6.16,-2.76 -6.16,-6.16 0,-3.4 2.75,-6.16 6.16,-6.16 3.4,0 6.15,2.76 6.15,6.16z"/>
+</symbol>
+<symbol id="Fm43-402-0" viewBox="2032.81 -160.77 14.07 14.07">
+ <path class="fil96" d="M2046.88 -153.73c0,3.88 -3.15,7.03 -7.04,7.03 -3.88,0 -7.03,-3.15 -7.03,-7.03 0,-3.89 3.15,-7.04 7.03,-7.04 3.89,0 7.04,3.15 7.04,7.04z"/>
+</symbol>
+<symbol id="Fm44-403-0" viewBox="1956.06 -119.25 16.35 16.35">
+ <path class="fil97" d="M1972.4 -111.08c0,4.52 -3.65,8.18 -8.17,8.18 -4.51,0 -8.17,-3.66 -8.17,-8.18 0,-4.51 3.66,-8.17 8.17,-8.17 4.52,0 8.17,3.66 8.17,8.17z"/>
+</symbol>
+<symbol id="Fm45-404-0" viewBox="2106.69 71.58 4.78 4.78">
+ <path class="fil98" d="M2111.47 73.97c0,1.31 -1.07,2.38 -2.39,2.38 -1.32,0 -2.39,-1.07 -2.39,-2.38 0,-1.32 1.07,-2.39 2.39,-2.39 1.32,0 2.39,1.07 2.39,2.39z"/>
+</symbol>
+<symbol id="Fm46-405-0" viewBox="1872.92 147.92 14.51 14.51">
+ <path class="fil99" d="M1887.43 155.18c0,4 -3.25,7.25 -7.26,7.25 -4.01,0 -7.25,-3.25 -7.25,-7.25 0,-4.01 3.24,-7.26 7.25,-7.26 4.01,0 7.26,3.25 7.26,7.26z"/>
+</symbol>
+<symbol id="Fm47-406-0" viewBox="2091.14 145.47 13.88 13.88">
+ <path class="fil100" d="M2105.02 152.41c0,3.83 -3.11,6.94 -6.94,6.94 -3.83,0 -6.94,-3.11 -6.94,-6.94 0,-3.84 3.11,-6.94 6.94,-6.94 3.83,0 6.94,3.1 6.94,6.94z"/>
+</symbol>
+<symbol id="Fm49-408-0" viewBox="1995.17 106.12 9.79 9.79">
+ <path class="fil101" d="M2004.95 111.01c0,2.7 -2.19,4.89 -4.89,4.89 -2.7,0 -4.89,-2.19 -4.89,-4.89 0,-2.7 2.19,-4.89 4.89,-4.89 2.7,0 4.89,2.19 4.89,4.89z"/>
+</symbol>
+<symbol id="Fm48-407-0" viewBox="2204.75 -13.03 6.67 6.67">
+ <path class="fil102" d="M2211.41 -9.69c0,1.84 -1.49,3.33 -3.33,3.33 -1.84,0 -3.33,-1.49 -3.33,-3.33 0,-1.84 1.49,-3.34 3.33,-3.34 1.84,0 3.33,1.5 3.33,3.34z"/>
+</symbol>
+<symbol id="Fm6-420-0" viewBox="819.28 -115.41 1065.26 1065.26">
+ <path class="fil103" d="M1884.55 417.22c0,294.17 -238.47,532.64 -532.63,532.64 -294.17,0 -532.64,-238.47 -532.64,-532.64 0,-294.16 238.47,-532.63 532.64,-532.63 294.16,0 532.63,238.47 532.63,532.63z"/>
+</symbol>
+<symbol id="Fm44-947-0" viewBox="4556.44 -2748.64 133.29 244.19">
+ <image x="4556.44" y="-2748.64" width="133.29" height="244.19" xlink:href="partap-logo_Images\partap-logo_ImgID12.png"/>
+</symbol>
+<symbol id="Fm43-946-0" viewBox="4615.39 -2765.53 69.33 262.82">
+ <image x="4615.39" y="-2765.53" width="69.33" height="262.82" xlink:href="partap-logo_Images\partap-logo_ImgID13.png"/>
+</symbol>
+<symbol id="Fm46-949-0" viewBox="4467.36 -2670.85 230.21 159.43">
+ <image x="4467.36" y="-2670.85" width="230.21" height="159.43" xlink:href="partap-logo_Images\partap-logo_ImgID14.png"/>
+</symbol>
+<symbol id="Fm45-948-0" viewBox="4505.94 -2716.35 188.16 208.93">
+ <image x="4505.94" y="-2716.35" width="188.16" height="208.93" xlink:href="partap-logo_Images\partap-logo_ImgID15.png"/>
+</symbol>
+<symbol id="Fm47-950-0" viewBox="4443.31 -2615.25 256.57 99.07">
+ <image x="4443.31" y="-2615.25" width="256.57" height="99.07" xlink:href="partap-logo_Images\partap-logo_ImgID16.png"/>
+</symbol>
+<symbol id="Fm5-951-0" viewBox="4601.54 -2542.17 84.34 260.15">
+ <image x="4601.54" y="-2542.17" width="84.34" height="260.15" xlink:href="partap-logo_Images\partap-logo_ImgID17.png"/>
+</symbol>
+<symbol id="Fm6-952-0" viewBox="4664.31 -2542.86 32.65 264.95">
+ <image x="4664.31" y="-2542.86" width="32.65" height="264.95" xlink:href="partap-logo_Images\partap-logo_ImgID18.png"/>
+</symbol>
+<symbol id="Fm7-953-0" viewBox="4675.39 -2542.17 84.34 260.15">
+ <image x="4675.39" y="-2542.17" width="84.34" height="260.15" xlink:href="partap-logo_Images\partap-logo_ImgID19.png"/>
+</symbol>
+<symbol id="Fm8-954-0" viewBox="4670.5 -2540.14 146.62 237.62">
+ <image x="4670.5" y="-2540.14" width="146.62" height="237.62" xlink:href="partap-logo_Images\partap-logo_ImgID20.png"/>
+</symbol>
+<symbol id="Fm36-394-0" viewBox="2085.66 27.61 7.33 7.33">
+ <path class="fil104" d="M2092.98 31.27c0,2.03 -1.63,3.67 -3.66,3.67 -2.02,0 -3.66,-1.64 -3.66,-3.67 0,-2.02 1.64,-3.66 3.66,-3.66 2.03,0 3.66,1.64 3.66,3.66z"/>
+</symbol>
+<symbol id="Fm9-955-0" viewBox="4666.3 -2536.92 198.89 198.89">
+ <image x="4666.3" y="-2536.92" width="198.89" height="198.89" xlink:href="partap-logo_Images\partap-logo_ImgID21.png"/>
+</symbol>
+<symbol id="Fm37-395-0" viewBox="2132.68 -184.09 14.03 14.03">
+ <path class="fil105" d="M2146.71 -177.08c0,3.88 -3.14,7.02 -7.01,7.02 -3.88,0 -7.02,-3.14 -7.02,-7.02 0,-3.87 3.14,-7.01 7.02,-7.01 3.87,0 7.01,3.14 7.01,7.01z"/>
+</symbol>
+<symbol id="Fm38-396-0" viewBox="2089.21 -182.39 6.95 6.95">
+ <path class="fil106" d="M2096.16 -178.92c0,1.92 -1.55,3.48 -3.47,3.48 -1.92,0 -3.48,-1.56 -3.48,-3.48 0,-1.92 1.56,-3.47 3.48,-3.47 1.92,0 3.47,1.55 3.47,3.47z"/>
+</symbol>
+<symbol id="Fm39-397-0" viewBox="1918.83 131.34 7.72 7.72">
+ <path class="fil107" d="M1926.54 135.2c0,2.13 -1.73,3.86 -3.86,3.86 -2.12,0 -3.85,-1.73 -3.85,-3.86 0,-2.13 1.73,-3.86 3.85,-3.86 2.13,0 3.86,1.73 3.86,3.86z"/>
+</symbol>
+<symbol id="Fm4-398-0" viewBox="764.3 -1066.26 1065.26 1065.27">
+ <path class="fil108" d="M1829.56 -533.62c0,294.16 -238.47,532.63 -532.63,532.63 -294.17,0 -532.63,-238.47 -532.63,-532.63 0,-294.17 238.46,-532.64 532.63,-532.64 294.16,0 532.63,238.47 532.63,532.64z"/>
+</symbol>
+<symbol id="Fm291-321-0" viewBox="2143.02 -83.39 6.7 6.71">
+ <path class="fil109" d="M2149.72 -80.04c0,1.85 -1.5,3.35 -3.35,3.35 -1.86,0 -3.35,-1.5 -3.35,-3.35 0,-1.85 1.49,-3.35 3.35,-3.35 1.85,0 3.35,1.5 3.35,3.35z"/>
+</symbol>
+<symbol id="Fm253-279-0" viewBox="1941.95 41.37 8.98 8.98">
+ <path class="fil110" d="M1950.93 45.87c0,2.47 -2.01,4.48 -4.49,4.48 -2.48,0 -4.49,-2.01 -4.49,-4.48 0,-2.49 2.01,-4.5 4.49,-4.5 2.48,0 4.49,2.01 4.49,4.5z"/>
+</symbol>
+<symbol id="Fm254-280-0" viewBox="2082.07 -32.9 12.43 12.43">
+ <path class="fil111" d="M2094.5 -26.68c0,3.43 -2.78,6.21 -6.21,6.21 -3.43,0 -6.22,-2.78 -6.22,-6.21 0,-3.43 2.79,-6.22 6.22,-6.22 3.43,0 6.21,2.79 6.21,6.22z"/>
+</symbol>
+<symbol id="Fm255-281-0" viewBox="1978.23 127.34 10.28 10.28">
+ <path class="fil112" d="M1988.51 132.48c0,2.84 -2.31,5.14 -5.14,5.14 -2.84,0 -5.14,-2.3 -5.14,-5.14 0,-2.84 2.3,-5.14 5.14,-5.14 2.83,0 5.14,2.3 5.14,5.14z"/>
+</symbol>
+<symbol id="Fm256-282-0" viewBox="2109 88.81 15.22 15.23">
+ <path class="fil113" d="M2124.22 96.42c0,4.2 -3.41,7.61 -7.61,7.61 -4.21,0 -7.61,-3.41 -7.61,-7.61 0,-4.2 3.4,-7.61 7.61,-7.61 4.2,0 7.61,3.41 7.61,7.61z"/>
+</symbol>
+<symbol id="Fm318-351-0" viewBox="1972.53 -78.73 12.94 12.94">
+ <path class="fil114" d="M1985.47 -72.26c0,3.58 -2.9,6.47 -6.47,6.47 -3.58,0 -6.47,-2.89 -6.47,-6.47 0,-3.57 2.89,-6.47 6.47,-6.47 3.57,0 6.47,2.9 6.47,6.47z"/>
+</symbol>
+<symbol id="Fm319-352-0" viewBox="2120.22 -134.74 13.37 13.36">
+ <path class="fil115" d="M2133.58 -128.06c0,3.69 -2.99,6.68 -6.68,6.68 -3.69,0 -6.68,-2.99 -6.68,-6.68 0,-3.69 2.99,-6.68 6.68,-6.68 3.69,0 6.68,2.99 6.68,6.68z"/>
+</symbol>
+<symbol id="Fm32-353-0" viewBox="2038.93 -39.67 9.5 9.5">
+ <path class="fil116" d="M2048.43 -34.92c0,2.62 -2.12,4.75 -4.75,4.75 -2.62,0 -4.75,-2.13 -4.75,-4.75 0,-2.63 2.13,-4.75 4.75,-4.75 2.63,0 4.75,2.12 4.75,4.75z"/>
+</symbol>
+<symbol id="Fm320-354-0" viewBox="1919.04 -13.95 5.38 5.38">
+ <path class="fil117" d="M1924.42 -11.26c0,1.48 -1.2,2.69 -2.69,2.69 -1.48,0 -2.69,-1.21 -2.69,-2.69 0,-1.48 1.21,-2.69 2.69,-2.69 1.49,0 2.69,1.21 2.69,2.69z"/>
+</symbol>
+<symbol id="Fm321-355-0" viewBox="1882.38 -11.96 6.75 6.75">
+ <path class="fil118" d="M1889.13 -8.58c0,1.86 -1.51,3.37 -3.37,3.37 -1.87,0 -3.38,-1.51 -3.38,-3.37 0,-1.87 1.51,-3.38 3.38,-3.38 1.86,0 3.37,1.51 3.37,3.38z"/>
+</symbol>
+<symbol id="Fm322-356-0" viewBox="2035.26 119.91 9.84 9.84">
+ <path class="fil119" d="M2045.1 124.83c0,2.71 -2.2,4.92 -4.92,4.92 -2.71,0 -4.92,-2.21 -4.92,-4.92 0,-2.72 2.21,-4.92 4.92,-4.92 2.72,0 4.92,2.2 4.92,4.92z"/>
+</symbol>
+<symbol id="Fm323-357-0" viewBox="2076.64 186.59 4.33 4.33">
+ <path class="fil120" d="M2080.97 188.76c0,1.19 -0.96,2.16 -2.16,2.16 -1.2,0 -2.17,-0.97 -2.17,-2.16 0,-1.2 0.97,-2.17 2.17,-2.17 1.2,0 2.16,0.97 2.16,2.17z"/>
+</symbol>
+<symbol id="Fm324-358-0" viewBox="2002.15 178.65 10.52 10.52">
+ <path class="fil121" d="M2012.67 183.91c0,2.9 -2.36,5.26 -5.26,5.26 -2.91,0 -5.26,-2.36 -5.26,-5.26 0,-2.91 2.35,-5.26 5.26,-5.26 2.9,0 5.26,2.35 5.26,5.26z"/>
+</symbol>
+<symbol id="Fm325-359-0" viewBox="4249.71 -3494.16 986.17 986.17">
+ <path class="fil122" d="M5235.88 -3001.08c0,272.33 -220.76,493.09 -493.09,493.09 -272.32,0 -493.08,-220.76 -493.08,-493.09 0,-272.32 220.76,-493.08 493.08,-493.08 272.33,0 493.09,220.76 493.09,493.08z"/>
+</symbol>
+<symbol id="Fm313-346-0" viewBox="1956.83 -76.42 4.59 4.59">
+ <path class="fil123" d="M1961.42 -74.13c0,1.27 -1.03,2.3 -2.29,2.3 -1.27,0 -2.3,-1.03 -2.3,-2.3 0,-1.26 1.03,-2.29 2.3,-2.29 1.26,0 2.29,1.03 2.29,2.29z"/>
+</symbol>
+<symbol id="Fm314-347-0" viewBox="2151.59 160.93 4.82 4.82">
+ <path class="fil124" d="M2156.42 163.34c0,1.34 -1.08,2.41 -2.41,2.41 -1.34,0 -2.42,-1.07 -2.42,-2.41 0,-1.33 1.08,-2.41 2.42,-2.41 1.33,0 2.41,1.08 2.41,2.41z"/>
+</symbol>
+<symbol id="Fm315-348-0" viewBox="2172.68 6.11 10.15 10.14">
+ <path class="fil125" d="M2182.82 11.18c0,2.8 -2.27,5.07 -5.07,5.07 -2.8,0 -5.07,-2.27 -5.07,-5.07 0,-2.8 2.27,-5.07 5.07,-5.07 2.8,0 5.07,2.27 5.07,5.07z"/>
+</symbol>
+<symbol id="Fm316-349-0" viewBox="2131.26 -51.75 14.86 14.87">
+ <path class="fil126" d="M2146.13 -44.31c0,4.1 -3.33,7.43 -7.43,7.43 -4.11,0 -7.44,-3.33 -7.44,-7.43 0,-4.11 3.33,-7.44 7.44,-7.44 4.1,0 7.43,3.33 7.43,7.44z"/>
+</symbol>
+<symbol id="Fm317-350-0" viewBox="1928.2 -5.89 13.19 13.2">
+ <path class="fil127" d="M1941.39 0.7c0,3.65 -2.95,6.6 -6.6,6.6 -3.64,0 -6.59,-2.95 -6.59,-6.6 0,-3.64 2.95,-6.59 6.59,-6.59 3.65,0 6.6,2.95 6.6,6.59z"/>
+</symbol>
+<symbol id="Fm20-921-0" viewBox="4544.16 -2742.64 146.61 237.62">
+ <image x="4544.16" y="-2742.64" width="146.61" height="237.62" xlink:href="partap-logo_Images\partap-logo_ImgID22.png"/>
+</symbol>
+<symbol id="Fm42-945-0" viewBox="4678.79 -2767.79 32.59 265.45">
+ <image x="4678.79" y="-2767.79" width="32.59" height="265.45" xlink:href="partap-logo_Images\partap-logo_ImgID23.png"/>
+</symbol>
+<symbol id="Fm196-215-0" viewBox="1994.21 56.94 14.7 14.69">
+ <path class="fil128" d="M2008.9 64.29c0,4.06 -3.29,7.35 -7.35,7.35 -4.05,0 -7.34,-3.29 -7.34,-7.35 0,-4.06 3.29,-7.35 7.34,-7.35 4.06,0 7.35,3.29 7.35,7.35z"/>
+</symbol>
+<symbol id="Fm237-261-0" viewBox="2134.82 -31.07 8.09 8.09">
+ <path class="fil129" d="M2142.91 -27.03c0,2.24 -1.81,4.05 -4.05,4.05 -2.23,0 -4.04,-1.81 -4.04,-4.05 0,-2.23 1.81,-4.04 4.04,-4.04 2.24,0 4.05,1.81 4.05,4.04z"/>
+</symbol>
+<symbol id="Fm344-380-0" viewBox="4507.28 -3664.94 583.13 583.13">
+ <path class="fil130" d="M5080.77 -3447.49c40.92,155.7 -52.12,315.1 -207.82,356.02 -155.7,40.93 -315.09,-52.11 -356.02,-207.8 -40.92,-155.7 52.11,-315.1 207.81,-356.02 155.71,-40.93 315.1,52.11 356.03,207.8z"/>
+</symbol>
+<symbol id="Fm346-382-0" viewBox="5445.22 -1880.86 475.85 475.86">
+ <path class="fil131" d="M5913.2 -1703.4c33.4,127.05 -42.52,257.13 -169.58,290.53 -127.05,33.39 -257.12,-42.53 -290.52,-169.59 -33.4,-127.05 42.52,-257.13 169.58,-290.53 127.05,-33.39 257.13,42.53 290.52,169.59z"/>
+</symbol>
+<symbol id="Fm345-381-0" viewBox="5022.93 -1497.05 410.8 410.8">
+ <path class="fil132" d="M5426.93 -1343.85c28.83,109.68 -36.71,221.97 -146.4,250.8 -109.68,28.83 -221.97,-36.71 -250.8,-146.39 -28.83,-109.69 36.71,-221.98 146.39,-250.81 109.69,-28.84 221.98,36.71 250.81,146.4z"/>
+</symbol>
+<symbol id="Fm347-383-0" viewBox="5111.62 -1993.82 540.68 540.68">
+ <path class="fil133" d="M5643.35 -1792.19c37.95,144.36 -48.32,292.15 -192.68,330.1 -144.37,37.95 -292.16,-48.32 -330.11,-192.68 -37.94,-144.36 48.32,-292.15 192.69,-330.1 144.36,-37.95 292.15,48.32 330.1,192.68z"/>
+</symbol>
+<symbol id="Fm348-384-0" viewBox="5185.28 -3249.35 311.35 540.67">
+ <path class="fil134" d="M5491.47 -3047.72c21.86,144.36 -27.82,292.15 -110.95,330.1 -83.13,37.95 -168.24,-48.32 -190.09,-192.68 -21.85,-144.37 27.83,-292.15 110.96,-330.1 83.13,-37.95 168.23,48.32 190.08,192.68z"/>
+</symbol>
+<symbol id="Fm349-385-0" viewBox="4385.75 -2817.47 589.78 589.78">
+ <path class="fil135" d="M4975.53 -2522.58c0,162.86 -132.03,294.89 -294.89,294.89 -162.87,0 -294.89,-132.03 -294.89,-294.89 0,-162.86 132.02,-294.89 294.89,-294.89 162.86,0 294.89,132.03 294.89,294.89z"/>
+</symbol>
+<symbol id="Fm350-387-0" viewBox="4440.08 -2763.15 481.12 481.12">
+ <image x="4440.08" y="-2763.15" width="481.12" height="481.12" xlink:href="partap-logo_Images\partap-logo_ImgID24.png"/>
+</symbol>
+<symbol id="Fm35-386-0" viewBox="2160.75 -146.91 4.55 4.55">
+ <path class="fil136" d="M2165.3 -144.64c0,1.26 -1.02,2.27 -2.28,2.27 -1.25,0 -2.27,-1.01 -2.27,-2.27 0,-1.26 1.02,-2.27 2.27,-2.27 1.26,0 2.28,1.01 2.28,2.27z"/>
+</symbol>
+<symbol id="Fm351-388-0" viewBox="4370.73 -2832.49 619.81 619.81">
+ <path class="fil137" d="M4990.55 -2522.58c0,171.15 -138.75,309.9 -309.91,309.9 -171.16,0 -309.91,-138.75 -309.91,-309.9 0,-171.16 138.75,-309.91 309.91,-309.91 171.16,0 309.91,138.75 309.91,309.91z"/>
+</symbol>
+<symbol id="Fm352-389-0" viewBox="4664.99 -2978.83 31.3 912.5">
+ <path class="fil138" d="M4696.29 -2522.58c0,251.98 -7.01,456.25 -15.65,456.25 -8.65,0 -15.65,-204.27 -15.65,-456.25 0,-251.98 7,-456.25 15.65,-456.25 8.64,0 15.65,204.27 15.65,456.25z"/>
+</symbol>
+<symbol id="Fm353-390-0" viewBox="4224.39 -2538.24 912.5 31.31">
+ <path class="fil139" d="M4680.64 -2506.93c-251.98,0 -456.25,-7.01 -456.25,-15.65 0,-8.65 204.27,-15.66 456.25,-15.66 251.98,0 456.25,7.01 456.25,15.66 0,8.64 -204.27,15.65 -456.25,15.65z"/>
+</symbol>
+<symbol id="Fm354-391-0" viewBox="4516.57 -2686.64 328.13 328.13">
+ <path class="fil140" d="M4686.27 -2516.96c-90.56,90.56 -166.49,161.45 -169.6,158.35 -3.11,-3.11 67.79,-79.04 158.34,-169.6 90.56,-90.55 166.48,-161.44 169.59,-158.33 3.11,3.1 -67.78,79.03 -158.33,169.58z"/>
+</symbol>
+<symbol id="Fm355-392-0" viewBox="4516.57 -2686.64 328.13 328.13">
+ <path class="fil141" d="M4675.01 -2516.96c-90.55,-90.55 -161.45,-166.48 -158.34,-169.58 3.11,-3.11 79.04,67.78 169.6,158.33 90.55,90.56 161.44,166.49 158.33,169.6 -3.11,3.1 -79.03,-67.79 -169.59,-158.35z"/>
+</symbol>
+<symbol id="Fm356-393-0" viewBox="4435.43 -2767.79 490.42 490.42">
+ <image x="4435.43" y="-2543.74" width="268.86" height="39.83" xlink:href="partap-logo_Images\partap-logo_ImgID25.png"/>
+ <image x="4437.92" y="-2531.3" width="266.37" height="89.62" xlink:href="partap-logo_Images\partap-logo_ImgID26.png"/>
+ <image x="4460.32" y="-2536.27" width="241.47" height="151.85" xlink:href="partap-logo_Images\partap-logo_ImgID27.png"/>
+ <image x="4495.18" y="-2541.25" width="204.13" height="204.13" xlink:href="partap-logo_Images\partap-logo_ImgID28.png"/>
+ <image x="4542.47" y="-2543.74" width="151.85" height="241.47" xlink:href="partap-logo_Images\partap-logo_ImgID29.png"/>
+ <image x="4599.73" y="-2546.23" width="89.62" height="266.37" xlink:href="partap-logo_Images\partap-logo_ImgID30.png"/>
+ <image x="4661.97" y="-2546.23" width="39.83" height="268.86" xlink:href="partap-logo_Images\partap-logo_ImgID31.png"/>
+ <image x="4674.41" y="-2546.23" width="89.62" height="266.37" xlink:href="partap-logo_Images\partap-logo_ImgID32.png"/>
+ <image x="4669" y="-2544" width="152" height="241" xlink:href="partap-logo_Images\partap-logo_ImgID33.png"/>
+ <image x="4664" y="-2541" width="204" height="204" xlink:href="partap-logo_Images\partap-logo_ImgID34.png"/>
+ <image x="4662" y="-2536" width="241" height="152" xlink:href="partap-logo_Images\partap-logo_ImgID35.png"/>
+ <image x="4659" y="-2531" width="266" height="90" xlink:href="partap-logo_Images\partap-logo_ImgID36.png"/>
+ <image x="4659" y="-2544" width="266" height="40" xlink:href="partap-logo_Images\partap-logo_ImgID37.png"/>
+ <image x="4659" y="-2606" width="266" height="90" xlink:href="partap-logo_Images\partap-logo_ImgID38.png"/>
+ <image x="4662" y="-2663" width="241" height="152" xlink:href="partap-logo_Images\partap-logo_ImgID39.png"/>
+ <image x="4664" y="-2711" width="204" height="204" xlink:href="partap-logo_Images\partap-logo_ImgID40.png"/>
+ <image x="4669" y="-2745" width="152" height="241" xlink:href="partap-logo_Images\partap-logo_ImgID41.png"/>
+ <image x="4674" y="-2768" width="90" height="266" xlink:href="partap-logo_Images\partap-logo_ImgID42.png"/>
+ <image x="4662" y="-2768" width="40" height="266" xlink:href="partap-logo_Images\partap-logo_ImgID43.png"/>
+ <image x="4600" y="-2768" width="90" height="266" xlink:href="partap-logo_Images\partap-logo_ImgID44.png"/>
+ <image x="4542" y="-2745" width="152" height="241" xlink:href="partap-logo_Images\partap-logo_ImgID45.png"/>
+ <image x="4495" y="-2711" width="204" height="204" xlink:href="partap-logo_Images\partap-logo_ImgID46.png"/>
+ <image x="4460" y="-2663" width="241" height="152" xlink:href="partap-logo_Images\partap-logo_ImgID47.png"/>
+ <image x="4438" y="-2606" width="266" height="90" xlink:href="partap-logo_Images\partap-logo_ImgID48.png"/>
+ <image x="4435" y="-2556" width="269" height="37" xlink:href="partap-logo_Images\partap-logo_ImgID49.png"/>
+ <image x="4435" y="-2531" width="269" height="75" xlink:href="partap-logo_Images\partap-logo_ImgID50.png"/>
+ <image x="4453" y="-2536" width="249" height="139" xlink:href="partap-logo_Images\partap-logo_ImgID51.png"/>
+ <image x="4485" y="-2539" width="214" height="192" xlink:href="partap-logo_Images\partap-logo_ImgID52.png"/>
+ <image x="4530" y="-2544" width="164" height="236" xlink:href="partap-logo_Images\partap-logo_ImgID53.png"/>
+ <image x="4587" y="-2546" width="105" height="261" xlink:href="partap-logo_Images\partap-logo_ImgID54.png"/>
+ <image x="4650" y="-2546" width="37" height="269" xlink:href="partap-logo_Images\partap-logo_ImgID55.png"/>
+ <image x="4674" y="-2546" width="75" height="269" xlink:href="partap-logo_Images\partap-logo_ImgID56.png"/>
+ <image x="4669" y="-2544" width="139" height="249" xlink:href="partap-logo_Images\partap-logo_ImgID57.png"/>
+ <image x="4667" y="-2541" width="192" height="214" xlink:href="partap-logo_Images\partap-logo_ImgID58.png"/>
+ <image x="4662" y="-2536" width="237" height="164" xlink:href="partap-logo_Images\partap-logo_ImgID59.png"/>
+ <image x="4659" y="-2534" width="261" height="105" xlink:href="partap-logo_Images\partap-logo_ImgID60.png"/>
+ <image x="4659" y="-2529" width="266" height="37" xlink:href="partap-logo_Images\partap-logo_ImgID61.png"/>
+ <image x="4659" y="-2591" width="266" height="75" xlink:href="partap-logo_Images\partap-logo_ImgID62.png"/>
+ <image x="4662" y="-2651" width="249" height="139" xlink:href="partap-logo_Images\partap-logo_ImgID63.png"/>
+ <image x="4664" y="-2701" width="214" height="192" xlink:href="partap-logo_Images\partap-logo_ImgID64.png"/>
+ <image x="4669" y="-2740" width="164" height="237" xlink:href="partap-logo_Images\partap-logo_ImgID65.png"/>
+ <image x="4671.92" y="-2762.81" width="104.55" height="261.39" xlink:href="partap-logo_Images\partap-logo_ImgID66.png"/>
+ <image x="4676.9" y="-2767.79" width="37.34" height="266.37" xlink:href="partap-logo_Images\partap-logo_ImgID67.png"/>
+ <image x="4614.67" y="-2767.79" width="74.68" height="266.37" xlink:href="partap-logo_Images\partap-logo_ImgID68.png"/>
+ <image x="4554.92" y="-2752.86" width="139.41" height="248.94" xlink:href="partap-logo_Images\partap-logo_ImgID69.png"/>
+ <image x="4505.13" y="-2720.49" width="191.68" height="214.09" xlink:href="partap-logo_Images\partap-logo_ImgID70.png"/>
+ <image x="4465.3" y="-2675.68" width="236.49" height="164.3" xlink:href="partap-logo_Images\partap-logo_ImgID71.png"/>
+ <image x="4442.9" y="-2618.43" width="261.39" height="104.55" xlink:href="partap-logo_Images\partap-logo_ImgID72.png"/>
+</symbol>
+<symbol id="Fm15-915-0" viewBox="4666.3 -2707.14 198.89 198.89">
+ <image x="4666.3" y="-2707.14" width="198.89" height="198.89" xlink:href="partap-logo_Images\partap-logo_ImgID73.png"/>
+</symbol>
+<symbol id="Fm341-377-0" viewBox="5219.34 -1567.12 369 653">
+ <image x="5219.34" y="-1567.3" width="369.1" height="653.18" xlink:href="partap-logo_Images\partap-logo_ImgID74.png"/>
+</symbol>
+<symbol id="Fm342-378-0" viewBox="4985.9 -2565.67 583.13 583.13">
+ <path class="fil142" d="M5559.38 -2348.21c40.93,155.7 -52.11,315.1 -207.81,356.03 -155.7,40.92 -315.1,-52.12 -356.03,-207.81 -40.92,-155.7 52.12,-315.1 207.82,-356.03 155.7,-40.92 315.09,52.12 356.02,207.81z"/>
+</symbol>
+<symbol id="Fm343-379-0" viewBox="5368.88 -3372.33 569.86 664.34">
+ <path class="fil143" d="M5876.1 -3212.72c98.43,156.73 78.7,361.03 -44.07,456.33 -122.76,95.3 -302.08,45.5 -400.52,-111.22 -98.43,-156.73 -78.7,-361.04 44.07,-456.33 122.77,-95.3 302.09,-45.51 400.52,111.22z"/>
+</symbol>
+<symbol id="Fm22-923-0" viewBox="4460.58 -2659.06 237.62 146.62">
+ <image x="4460.58" y="-2659.06" width="237.62" height="146.62" xlink:href="partap-logo_Images\partap-logo_ImgID75.png"/>
+</symbol>
+<symbol id="Fm193-212-0" viewBox="2067.48 -27.23 15.31 15.3">
+ <path class="fil144" d="M2082.79 -19.57c0,4.22 -3.43,7.65 -7.66,7.65 -4.22,0 -7.65,-3.43 -7.65,-7.65 0,-4.23 3.43,-7.66 7.65,-7.66 4.23,0 7.66,3.43 7.66,7.66z"/>
+</symbol>
+<symbol id="Fm194-213-0" viewBox="2215.06 36.22 14.02 14.03">
+ <path class="fil145" d="M2229.09 43.24c0,3.88 -3.14,7.01 -7.01,7.01 -3.87,0 -7.02,-3.13 -7.02,-7.01 0,-3.87 3.15,-7.02 7.02,-7.02 3.87,0 7.01,3.15 7.01,7.02z"/>
+</symbol>
+<symbol id="Fm191-210-0" viewBox="2047.31 65.86 5.07 5.07">
+ <path class="fil146" d="M2052.38 68.4c0,1.39 -1.14,2.53 -2.54,2.53 -1.4,0 -2.53,-1.14 -2.53,-2.53 0,-1.41 1.13,-2.54 2.53,-2.54 1.4,0 2.54,1.13 2.54,2.54z"/>
+</symbol>
+<symbol id="Fm192-211-0" viewBox="2057.68 -91.43 4.88 4.88">
+ <path class="fil147" d="M2062.56 -88.99c0,1.34 -1.1,2.44 -2.44,2.44 -1.35,0 -2.44,-1.1 -2.44,-2.44 0,-1.36 1.09,-2.44 2.44,-2.44 1.34,0 2.44,1.08 2.44,2.44z"/>
+</symbol>
+<symbol id="Fm32-934-0" viewBox="4671.55 -2540.71 133.29 244.19">
+ <image x="4671.55" y="-2540.71" width="133.29" height="244.19" xlink:href="partap-logo_Images\partap-logo_ImgID76.png"/>
+</symbol>
+<symbol id="Fm33-935-0" viewBox="4667.17 -2537.74 188.16 208.93">
+ <image x="4667.17" y="-2537.74" width="188.16" height="208.93" xlink:href="partap-logo_Images\partap-logo_ImgID77.png"/>
+</symbol>
+<symbol id="Fm35-937-0" viewBox="4661.39 -2528.97 256.58 99.06">
+ <image x="4661.39" y="-2528.97" width="256.58" height="99.06" xlink:href="partap-logo_Images\partap-logo_ImgID78.png"/>
+</symbol>
+<symbol id="Fm34-936-0" viewBox="4663.71 -2533.74 230.21 159.43">
+ <image x="4663.71" y="-2533.74" width="230.21" height="159.43" xlink:href="partap-logo_Images\partap-logo_ImgID79.png"/>
+</symbol>
+<symbol id="Fm36-938-0" viewBox="4660.39 -2524.43 265.45 32.6">
+ <image x="4660.39" y="-2524.43" width="265.45" height="32.6" xlink:href="partap-logo_Images\partap-logo_ImgID80.png"/>
+</symbol>
+<symbol id="Fm37-939-0" viewBox="4660.77 -2587.83 262.81 69.33">
+ <image x="4660.77" y="-2587.83" width="262.81" height="69.33" xlink:href="partap-logo_Images\partap-logo_ImgID81.png"/>
+</symbol>
+<symbol id="Fm38-940-0" viewBox="4662.51 -2646.79 244.19 133.29">
+ <image x="4662.51" y="-2646.79" width="244.19" height="133.29" xlink:href="partap-logo_Images\partap-logo_ImgID82.png"/>
+</symbol>
+<symbol id="Fm39-941-0" viewBox="4665.48 -2697.27 208.93 188.16">
+ <image x="4665.48" y="-2697.27" width="208.93" height="188.16" xlink:href="partap-logo_Images\partap-logo_ImgID83.png"/>
+</symbol>
+<symbol id="Fm40-943-0" viewBox="4669.48 -2735.86 159.43 230.21">
+ <image x="4669.48" y="-2735.86" width="159.43" height="230.21" xlink:href="partap-logo_Images\partap-logo_ImgID84.png"/>
+</symbol>
+<symbol id="Fm4-942-0" viewBox="4544.16 -2540.14 146.61 237.62">
+ <image x="4544.16" y="-2540.14" width="146.61" height="237.62" xlink:href="partap-logo_Images\partap-logo_ImgID85.png"/>
+</symbol>
+<symbol id="Fm41-944-0" viewBox="4674.24 -2759.92 99.06 256.58">
+ <image x="4674.24" y="-2759.92" width="99.06" height="256.58" xlink:href="partap-logo_Images\partap-logo_ImgID86.png"/>
+</symbol>
+<symbol id="Fm25-926-0" viewBox="4437.69 -2526.66 262.81 69.33">
+ <image x="4437.69" y="-2526.66" width="262.81" height="69.33" xlink:href="partap-logo_Images\partap-logo_ImgID87.png"/>
+</symbol>
+<symbol id="Fm26-927-0" viewBox="4454.57 -2531.66 244.19 133.29">
+ <image x="4454.57" y="-2531.66" width="244.19" height="133.29" xlink:href="partap-logo_Images\partap-logo_ImgID88.png"/>
+</symbol>
+<symbol id="Fm27-928-0" viewBox="4486.87 -2536.05 208.93 188.16">
+ <image x="4486.87" y="-2536.05" width="208.93" height="188.16" xlink:href="partap-logo_Images\partap-logo_ImgID89.png"/>
+</symbol>
+<symbol id="Fm28-929-0" viewBox="4532.37 -2539.51 159.43 230.21">
+ <image x="4532.37" y="-2539.51" width="159.43" height="230.21" xlink:href="partap-logo_Images\partap-logo_ImgID90.png"/>
+</symbol>
+<symbol id="Fm29-930-0" viewBox="4587.97 -2541.82 99.06 256.57">
+ <image x="4587.97" y="-2541.82" width="99.06" height="256.57" xlink:href="partap-logo_Images\partap-logo_ImgID91.png"/>
+</symbol>
+<symbol id="Fm60-421-0" viewBox="2098.53 -17.17 4.47 4.47">
+ <path class="fil148" d="M2103 -14.93c0,1.23 -1,2.23 -2.23,2.23 -1.24,0 -2.24,-1 -2.24,-2.23 0,-1.24 1,-2.24 2.24,-2.24 1.23,0 2.23,1 2.23,2.24z"/>
+</symbol>
+<symbol id="Fm23-924-0" viewBox="4440.08 -2601.67 260.15 84.34">
+ <image x="4440.08" y="-2601.67" width="260.15" height="84.34" xlink:href="partap-logo_Images\partap-logo_ImgID92.png"/>
+</symbol>
+<symbol id="Fm24-925-0" viewBox="4435.43 -2553.33 265.45 32.59">
+ <image x="4435.43" y="-2553.33" width="265.45" height="32.59" xlink:href="partap-logo_Images\partap-logo_ImgID93.png"/>
+</symbol>
+<symbol id="Fm295-325-0" viewBox="1925.15 130.88 16.22 16.22">
+ <path class="fil149" d="M1941.37 138.99c0,4.48 -3.64,8.11 -8.11,8.11 -4.48,0 -8.11,-3.63 -8.11,-8.11 0,-4.48 3.63,-8.11 8.11,-8.11 4.47,0 8.11,3.63 8.11,8.11z"/>
+</symbol>
+<symbol id="Fm184-202-0" viewBox="2113.6 15.31 16.43 16.43">
+ <path class="fil150" d="M2130.03 23.52c0,4.53 -3.68,8.21 -8.22,8.21 -4.53,0 -8.21,-3.68 -8.21,-8.21 0,-4.53 3.68,-8.21 8.21,-8.21 4.54,0 8.22,3.68 8.22,8.21z"/>
+</symbol>
+<symbol id="Fm233-257-0" viewBox="1845.48 8.94 5.53 5.53">
+ <path class="fil151" d="M1851.01 11.7c0,1.53 -1.24,2.77 -2.76,2.77 -1.53,0 -2.77,-1.24 -2.77,-2.77 0,-1.53 1.24,-2.76 2.77,-2.76 1.52,0 2.76,1.23 2.76,2.76z"/>
+</symbol>
+<symbol id="Fm232-256-0" viewBox="2084.53 -133.41 9.88 9.88">
+ <path class="fil152" d="M2094.42 -128.48c0,2.73 -2.21,4.95 -4.94,4.95 -2.73,0 -4.95,-2.22 -4.95,-4.95 0,-2.72 2.22,-4.93 4.95,-4.93 2.73,0 4.94,2.21 4.94,4.93z"/>
+</symbol>
+<symbol id="Fm231-255-0" viewBox="2142.02 2.5 14.08 14.08">
+ <path class="fil153" d="M2156.1 9.54c0,3.89 -3.15,7.05 -7.04,7.05 -3.89,0 -7.04,-3.16 -7.04,-7.05 0,-3.88 3.15,-7.04 7.04,-7.04 3.89,0 7.04,3.16 7.04,7.04z"/>
+</symbol>
+<symbol id="Fm234-258-0" viewBox="1954.24 -137.07 7.66 7.66">
+ <path class="fil154" d="M1961.9 -133.24c0,2.11 -1.72,3.83 -3.83,3.83 -2.12,0 -3.83,-1.72 -3.83,-3.83 0,-2.12 1.71,-3.83 3.83,-3.83 2.11,0 3.83,1.71 3.83,3.83z"/>
+</symbol>
+<symbol id="Fm235-259-0" viewBox="1972.31 -175.69 13.15 13.15">
+ <path class="fil155" d="M1985.46 -169.11c0,3.63 -2.94,6.58 -6.58,6.58 -3.63,0 -6.57,-2.95 -6.57,-6.58 0,-3.63 2.94,-6.58 6.57,-6.58 3.64,0 6.58,2.95 6.58,6.58z"/>
+</symbol>
+<symbol id="Fm236-260-0" viewBox="1867.05 -83.97 12.24 12.24">
+ <path class="fil156" d="M1879.3 -77.85c0,3.38 -2.75,6.12 -6.12,6.12 -3.38,0 -6.13,-2.74 -6.13,-6.12 0,-3.38 2.75,-6.12 6.13,-6.12 3.37,0 6.12,2.74 6.12,6.12z"/>
+</symbol>
+<symbol id="Fm300-332-0" viewBox="1975.99 -48.23 15.39 15.38">
+ <path class="fil157" d="M1991.38 -40.54c0,4.24 -3.45,7.69 -7.7,7.69 -4.24,0 -7.69,-3.45 -7.69,-7.69 0,-4.25 3.45,-7.69 7.69,-7.69 4.25,0 7.7,3.44 7.7,7.69z"/>
+</symbol>
+<symbol id="Fm301-333-0" viewBox="2017.52 -86.1 13.7 13.7">
+ <path class="fil158" d="M2031.22 -79.25c0,3.79 -3.06,6.85 -6.85,6.85 -3.79,0 -6.85,-3.06 -6.85,-6.85 0,-3.78 3.06,-6.85 6.85,-6.85 3.79,0 6.85,3.07 6.85,6.85z"/>
+</symbol>
+<symbol id="Fm302-334-0" viewBox="2020.16 28.98 16.22 16.22">
+ <path class="fil159" d="M2036.38 37.09c0,4.48 -3.63,8.11 -8.11,8.11 -4.48,0 -8.11,-3.63 -8.11,-8.11 0,-4.48 3.63,-8.11 8.11,-8.11 4.48,0 8.11,3.63 8.11,8.11z"/>
+</symbol>
+<symbol id="Fm303-335-0" viewBox="2080.44 116.17 16.18 16.18">
+ <path class="fil160" d="M2096.62 124.26c0,4.47 -3.62,8.09 -8.09,8.09 -4.47,0 -8.09,-3.62 -8.09,-8.09 0,-4.47 3.62,-8.09 8.09,-8.09 4.47,0 8.09,3.62 8.09,8.09z"/>
+</symbol>
+<symbol id="Fm293-323-0" viewBox="2187.13 -85.9 5.42 5.43">
+ <path class="fil161" d="M2192.55 -83.18c0,1.5 -1.21,2.71 -2.71,2.71 -1.5,0 -2.71,-1.21 -2.71,-2.71 0,-1.5 1.21,-2.72 2.71,-2.72 1.5,0 2.71,1.22 2.71,2.72z"/>
+</symbol>
+<symbol id="Fm292-322-0" viewBox="2067.53 -163.56 5.11 5.11">
+ <path class="fil162" d="M2072.64 -161.01c0,1.42 -1.14,2.56 -2.55,2.56 -1.41,0 -2.56,-1.14 -2.56,-2.56 0,-1.4 1.15,-2.55 2.56,-2.55 1.41,0 2.55,1.15 2.55,2.55z"/>
+</symbol>
+<symbol id="Fm294-324-0" viewBox="2133.5 -21.77 5.51 5.51">
+ <path class="fil163" d="M2139.01 -19.01c0,1.52 -1.24,2.75 -2.76,2.75 -1.52,0 -2.75,-1.23 -2.75,-2.75 0,-1.53 1.23,-2.76 2.75,-2.76 1.52,0 2.76,1.23 2.76,2.76z"/>
+</symbol>
+<symbol id="Fm3-931-0" viewBox="4496.08 -2536.92 198.89 198.89">
+ <image x="4496.08" y="-2536.92" width="198.89" height="198.89" xlink:href="partap-logo_Images\partap-logo_ImgID94.png"/>
+</symbol>
+<symbol id="Fm30-932-0" viewBox="4649.89 -2542.83 32.6 265.45">
+ <image x="4649.89" y="-2542.83" width="32.6" height="265.45" xlink:href="partap-logo_Images\partap-logo_ImgID95.png"/>
+</symbol>
+<symbol id="Fm31-933-0" viewBox="4676.56 -2542.45 69.33 262.81">
+ <image x="4676.56" y="-2542.45" width="69.33" height="262.81" xlink:href="partap-logo_Images\partap-logo_ImgID96.png"/>
+</symbol>
+<symbol id="Fm18-918-0" viewBox="4664.31 -2767.25 32.65 264.95">
+ <image x="4664.31" y="-2767.25" width="32.65" height="264.95" xlink:href="partap-logo_Images\partap-logo_ImgID97.png"/>
+</symbol>
+<symbol id="Fm310-343-0" viewBox="2136.44 108.95 5.05 5.05">
+ <path class="fil164" d="M2141.48 111.47c0,1.4 -1.12,2.53 -2.52,2.53 -1.39,0 -2.52,-1.13 -2.52,-2.53 0,-1.39 1.13,-2.52 2.52,-2.52 1.4,0 2.52,1.13 2.52,2.52z"/>
+</symbol>
+<symbol id="Fm311-344-0" viewBox="2140.39 -131.53 6.2 6.2">
+ <path class="fil165" d="M2146.59 -128.43c0,1.71 -1.39,3.1 -3.1,3.1 -1.71,0 -3.1,-1.39 -3.1,-3.1 0,-1.71 1.39,-3.1 3.1,-3.1 1.71,0 3.1,1.39 3.1,3.1z"/>
+</symbol>
+<symbol id="Fm305-337-0" viewBox="2178.83 95.56 4.74 4.73">
+ <path class="fil166" d="M2183.56 97.92c0,1.31 -1.05,2.37 -2.36,2.37 -1.31,0 -2.37,-1.06 -2.37,-2.37 0,-1.3 1.06,-2.36 2.37,-2.36 1.31,0 2.36,1.06 2.36,2.36z"/>
+</symbol>
+<symbol id="Fm306-338-0" viewBox="2024.84 -164.93 4.74 4.74">
+ <path class="fil167" d="M2029.58 -162.56c0,1.31 -1.06,2.37 -2.37,2.37 -1.3,0 -2.37,-1.06 -2.37,-2.37 0,-1.31 1.07,-2.37 2.37,-2.37 1.31,0 2.37,1.06 2.37,2.37z"/>
+</symbol>
+<symbol id="Fm308-340-0" viewBox="1943.12 -58.86 7.32 7.33">
+ <path class="fil168" d="M1950.44 -55.2c0,2.02 -1.64,3.67 -3.66,3.67 -2.02,0 -3.66,-1.65 -3.66,-3.67 0,-2.02 1.64,-3.66 3.66,-3.66 2.02,0 3.66,1.64 3.66,3.66z"/>
+</symbol>
+<symbol id="Fm307-339-0" viewBox="2063.33 54.57 4.42 4.42">
+ <path class="fil169" d="M2067.75 56.77c0,1.22 -0.99,2.22 -2.21,2.22 -1.22,0 -2.21,-1 -2.21,-2.22 0,-1.22 0.99,-2.2 2.21,-2.2 1.22,0 2.21,0.98 2.21,2.2z"/>
+</symbol>
+<symbol id="Fm309-341-0" viewBox="2144.12 33.03 13.96 13.95">
+ <path class="fil170" d="M2158.08 40.01c0,3.85 -3.13,6.97 -6.98,6.97 -3.86,0 -6.98,-3.12 -6.98,-6.97 0,-3.86 3.12,-6.98 6.98,-6.98 3.85,0 6.98,3.12 6.98,6.98z"/>
+</symbol>
+<symbol id="Fm31-342-0" viewBox="2060.84 -181.31 8.92 8.92">
+ <path class="fil171" d="M2069.76 -176.85c0,2.46 -1.99,4.45 -4.45,4.45 -2.47,0 -4.47,-1.99 -4.47,-4.45 0,-2.47 2,-4.46 4.47,-4.46 2.46,0 4.45,1.99 4.45,4.46z"/>
+</symbol>
+<symbol id="Fm13-913-0" viewBox="4661.05 -2601.68 260.15 84.34">
+ <image x="4661.05" y="-2601.68" width="260.15" height="84.34" xlink:href="partap-logo_Images\partap-logo_ImgID98.png"/>
+</symbol>
+<symbol id="Fm185-203-0" viewBox="2140.85 -106.11 13.78 13.78">
+ <path class="fil172" d="M2154.63 -99.22c0,3.81 -3.09,6.89 -6.9,6.89 -3.8,0 -6.88,-3.08 -6.88,-6.89 0,-3.81 3.08,-6.89 6.88,-6.89 3.81,0 6.9,3.08 6.9,6.89z"/>
+</symbol>
+<symbol id="Fm21-922-0" viewBox="4496.08 -2707.14 198.89 198.89">
+ <image x="4496.08" y="-2707.14" width="198.89" height="198.89" xlink:href="partap-logo_Images\partap-logo_ImgID99.png"/>
+</symbol>
+<symbol id="Fm16-916-0" viewBox="4670.5 -2742.64 146.62 237.62">
+ <image x="4670.5" y="-2742.64" width="146.62" height="237.62" xlink:href="partap-logo_Images\partap-logo_ImgID100.png"/>
+</symbol>
+<symbol id="Fm17-917-0" viewBox="4675.39 -2763.14 84.34 260.15">
+ <image x="4675.39" y="-2763.14" width="84.34" height="260.15" xlink:href="partap-logo_Images\partap-logo_ImgID101.png"/>
+</symbol>
+<symbol id="Fm2-920-0" viewBox="4460.58 -2532.72 237.62 146.61">
+ <image x="4460.58" y="-2532.72" width="237.62" height="146.61" xlink:href="partap-logo_Images\partap-logo_ImgID102.png"/>
+</symbol>
+<symbol id="Fm33-364-0" viewBox="2037.98 -201.57 10.91 10.91">
+ <path class="fil173" d="M2048.88 -196.11c0,3 -2.44,5.45 -5.45,5.45 -3.01,0 -5.45,-2.45 -5.45,-5.45 0,-3.02 2.44,-5.46 5.45,-5.46 3.01,0 5.45,2.44 5.45,5.46z"/>
+</symbol>
+<symbol id="Fm330-365-0" viewBox="4982.47 -1960.92 889.25 1087.51">
+ <path class="fil174" d="M5838.07 -1549.15c93.54,291.25 -14.64,586.45 -241.61,659.34 -226.98,72.9 -486.81,-104.11 -580.34,-395.37 -93.54,-291.25 14.63,-586.45 241.61,-659.34 226.98,-72.9 486.81,104.12 580.34,395.37z"/>
+</symbol>
+<symbol id="Fm331-366-0" viewBox="3718.29 -2960.69 985.18 1241.4">
+ <path class="fil175" d="M4689.32 -2248.99c-64.5,339.05 -330.98,573.17 -595.21,522.9 -264.23,-50.25 -426.15,-365.85 -361.65,-704.91 64.49,-339.05 330.97,-573.16 595.2,-522.9 264.23,50.26 426.15,365.86 361.66,704.91z"/>
+</symbol>
+<symbol id="Fm327-361-0" viewBox="4875.08 -3306.18 986.18 986.17">
+ <path class="fil176" d="M5861.26 -2813.1c0,272.33 -220.76,493.09 -493.09,493.09 -272.32,0 -493.09,-220.76 -493.09,-493.09 0,-272.32 220.77,-493.08 493.09,-493.08 272.33,0 493.09,220.76 493.09,493.08z"/>
+</symbol>
+<symbol id="Fm328-362-0" viewBox="4973.24 -3291.84 986.18 986.17">
+ <path class="fil177" d="M5959.42 -2798.76c0,272.32 -220.77,493.09 -493.09,493.09 -272.33,0 -493.09,-220.77 -493.09,-493.09 0,-272.32 220.76,-493.08 493.09,-493.08 272.32,0 493.09,220.76 493.09,493.08z"/>
+</symbol>
+<symbol id="Fm329-363-0" viewBox="4488.88 -2526.29 889.25 1087.51">
+ <path class="fil178" d="M5344.48 -2114.52c93.54,291.25 -14.64,586.45 -241.61,659.34 -226.98,72.89 -486.81,-104.11 -580.35,-395.37 -93.53,-291.25 14.64,-586.45 241.62,-659.34 226.98,-72.9 486.81,104.11 580.34,395.37z"/>
+</symbol>
+<symbol id="Fm186-204-0" viewBox="2113.58 6.28 6.88 6.87">
+ <path class="fil179" d="M2120.45 9.72c0,1.9 -1.54,3.43 -3.44,3.43 -1.9,0 -3.43,-1.53 -3.43,-3.43 0,-1.9 1.53,-3.44 3.43,-3.44 1.9,0 3.44,1.54 3.44,3.44z"/>
+</symbol>
+<symbol id="Fm340-376-0" viewBox="4770.34 -1127.12 586 445">
+ <image x="4770.34" y="-1127.24" width="586.17" height="445.13" xlink:href="partap-logo_Images\partap-logo_ImgID103.png"/>
+</symbol>
+<symbol id="Fm312-345-0" viewBox="2221.54 78.27 16.55 16.56">
+ <path class="fil180" d="M2238.09 86.55c0,4.57 -3.7,8.28 -8.27,8.28 -4.58,0 -8.28,-3.71 -8.28,-8.28 0,-4.57 3.7,-8.28 8.28,-8.28 4.57,0 8.27,3.71 8.27,8.28z"/>
+</symbol>
+<symbol id="Fm326-360-0" viewBox="4139.69 -3408.75 986.17 986.17">
+ <path class="fil181" d="M5125.86 -2915.66c0,272.32 -220.76,493.08 -493.09,493.08 -272.32,0 -493.08,-220.76 -493.08,-493.08 0,-272.33 220.76,-493.09 493.08,-493.09 272.33,0 493.09,220.76 493.09,493.09z"/>
+</symbol>
+<symbol id="Fm133-146-0" viewBox="2121.63 138.47 9.94 9.94">
+ <path class="fil182" d="M2131.57 143.43c0,2.75 -2.23,4.97 -4.97,4.97 -2.75,0 -4.97,-2.22 -4.97,-4.97 0,-2.74 2.22,-4.96 4.97,-4.96 2.74,0 4.97,2.22 4.97,4.96z"/>
+</symbol>
+<symbol id="Fm134-147-0" viewBox="1880.99 64.42 14.8 14.8">
+ <path class="fil183" d="M1895.79 71.81c0,4.09 -3.31,7.4 -7.4,7.4 -4.08,0 -7.4,-3.31 -7.4,-7.4 0,-4.08 3.32,-7.39 7.4,-7.39 4.09,0 7.4,3.31 7.4,7.39z"/>
+</symbol>
+<symbol id="Fm136-149-0" viewBox="2097.08 -93.21 10.47 10.48">
+ <path class="fil184" d="M2107.55 -87.97c0,2.89 -2.34,5.24 -5.24,5.24 -2.89,0 -5.23,-2.35 -5.23,-5.24 0,-2.89 2.34,-5.24 5.23,-5.24 2.9,0 5.24,2.35 5.24,5.24z"/>
+</symbol>
+<symbol id="Fm139-152-0" viewBox="2033.64 -65.48 5.67 5.68">
+ <path class="fil185" d="M2039.31 -62.64c0,1.56 -1.27,2.83 -2.84,2.83 -1.56,0 -2.83,-1.27 -2.83,-2.83 0,-1.57 1.27,-2.84 2.83,-2.84 1.57,0 2.84,1.27 2.84,2.84z"/>
+</symbol>
+<symbol id="Fm137-150-0" viewBox="1910.25 -69.14 6.08 6.07">
+ <path class="fil186" d="M1916.33 -66.1c0,1.68 -1.36,3.04 -3.04,3.04 -1.68,0 -3.04,-1.36 -3.04,-3.04 0,-1.68 1.36,-3.04 3.04,-3.04 1.68,0 3.04,1.36 3.04,3.04z"/>
+</symbol>
+<symbol id="Fm135-148-0" viewBox="2048.86 2.35 14.95 14.94">
+ <path class="fil187" d="M2063.81 9.82c0,4.13 -3.35,7.47 -7.48,7.47 -4.12,0 -7.47,-3.34 -7.47,-7.47 0,-4.13 3.35,-7.47 7.47,-7.47 4.13,0 7.48,3.34 7.48,7.47z"/>
+</symbol>
+<symbol id="Fm138-151-0" viewBox="2068.06 22.25 14.68 14.68">
+ <path class="fil188" d="M2082.74 29.59c0,4.06 -3.28,7.34 -7.33,7.34 -4.06,0 -7.35,-3.28 -7.35,-7.34 0,-4.05 3.29,-7.34 7.35,-7.34 4.05,0 7.33,3.29 7.33,7.34z"/>
+</symbol>
+<symbol id="Fm15-164-0" viewBox="808.49 -91.49 704.5 861.56">
+ <path class="fil189" d="M1486.33 234.72c74.1,230.74 -11.6,464.61 -191.42,522.36 -179.82,57.75 -385.66,-82.49 -459.77,-313.23 -74.1,-230.73 11.6,-464.61 191.42,-522.36 179.82,-57.75 385.67,82.49 459.77,313.23z"/>
+</symbol>
+<symbol id="Fm14-153-0" viewBox="1082.33 215.88 482 747">
+ <image x="1082.33" y="215.67" width="482.14" height="747.21" xlink:href="partap-logo_Images\partap-logo_ImgID104.png"/>
+</symbol>
+<symbol id="Fm147-161-0" viewBox="1896.3 39.59 5.66 5.66">
+ <path class="fil190" d="M1901.96 42.42c0,1.56 -1.27,2.83 -2.83,2.83 -1.57,0 -2.83,-1.27 -2.83,-2.83 0,-1.56 1.26,-2.83 2.83,-2.83 1.56,0 2.83,1.27 2.83,2.83z"/>
+</symbol>
+<symbol id="Fm149-163-0" viewBox="2123.06 79.66 4.3 4.3">
+ <path class="fil191" d="M2127.35 81.81c0,1.18 -0.96,2.15 -2.14,2.15 -1.19,0 -2.15,-0.97 -2.15,-2.15 0,-1.19 0.96,-2.15 2.15,-2.15 1.18,0 2.14,0.96 2.14,2.15z"/>
+</symbol>
+<symbol id="Fm142-156-0" viewBox="2180.06 120.12 16.09 16.1">
+ <path class="fil192" d="M2196.16 128.17c0,4.45 -3.6,8.05 -8.05,8.05 -4.44,0 -8.05,-3.6 -8.05,-8.05 0,-4.44 3.61,-8.05 8.05,-8.05 4.45,0 8.05,3.61 8.05,8.05z"/>
+</symbol>
+<symbol id="Fm144-158-0" viewBox="2072.14 162.43 4.51 4.51">
+ <path class="fil193" d="M2076.65 164.68c0,1.24 -1.01,2.26 -2.26,2.26 -1.24,0 -2.25,-1.02 -2.25,-2.26 0,-1.24 1.01,-2.25 2.25,-2.25 1.25,0 2.26,1.01 2.26,2.25z"/>
+</symbol>
+<symbol id="Fm145-159-0" viewBox="2006.03 80.01 11.98 11.98">
+ <path class="fil194" d="M2018 86c0,3.31 -2.67,5.99 -5.98,5.99 -3.31,0 -5.99,-2.68 -5.99,-5.99 0,-3.31 2.68,-5.99 5.99,-5.99 3.31,0 5.98,2.68 5.98,5.99z"/>
+</symbol>
+<symbol id="Fm141-155-0" viewBox="2007.19 -111.74 9.22 9.22">
+ <path class="fil195" d="M2016.41 -107.13c0,2.54 -2.07,4.61 -4.61,4.61 -2.55,0 -4.61,-2.07 -4.61,-4.61 0,-2.55 2.06,-4.61 4.61,-4.61 2.54,0 4.61,2.06 4.61,4.61z"/>
+</symbol>
+<symbol id="Fm143-157-0" viewBox="1959.12 -20.06 5.35 5.34">
+ <path class="fil196" d="M1964.46 -17.4c0,1.48 -1.19,2.68 -2.67,2.68 -1.48,0 -2.67,-1.2 -2.67,-2.68 0,-1.47 1.19,-2.66 2.67,-2.66 1.48,0 2.67,1.19 2.67,2.66z"/>
+</symbol>
+<symbol id="Fm146-160-0" viewBox="2057.16 -101.41 8.84 8.83">
+ <path class="fil197" d="M2066 -96.99c0,2.43 -1.98,4.41 -4.42,4.41 -2.44,0 -4.42,-1.98 -4.42,-4.41 0,-2.44 1.98,-4.42 4.42,-4.42 2.44,0 4.42,1.98 4.42,4.42z"/>
+</symbol>
+<symbol id="Fm140-154-0" viewBox="2026.11 -101.89 16.79 16.78">
+ <path class="fil198" d="M2042.9 -93.5c0,4.63 -3.76,8.39 -8.39,8.39 -4.64,0 -8.4,-3.76 -8.4,-8.39 0,-4.64 3.76,-8.39 8.4,-8.39 4.63,0 8.39,3.75 8.39,8.39z"/>
+</symbol>
+<symbol id="Fm148-162-0" viewBox="2171.43 -2.57 6.18 6.18">
+ <path class="fil199" d="M2177.6 0.52c0,1.71 -1.38,3.09 -3.08,3.09 -1.71,0 -3.09,-1.38 -3.09,-3.09 0,-1.7 1.38,-3.09 3.09,-3.09 1.7,0 3.08,1.39 3.08,3.09z"/>
+</symbol>
+<symbol id="Fm152-167-0" viewBox="2113.46 113.16 11.71 11.71">
+ <path class="fil200" d="M2125.17 119.02c0,3.23 -2.62,5.85 -5.85,5.85 -3.24,0 -5.86,-2.62 -5.86,-5.85 0,-3.24 2.62,-5.86 5.86,-5.86 3.23,0 5.85,2.62 5.85,5.86z"/>
+</symbol>
+<symbol id="Fm153-168-0" viewBox="1903.08 0.83 6.44 6.44">
+ <path class="fil201" d="M1909.52 4.06c0,1.77 -1.45,3.21 -3.22,3.21 -1.78,0 -3.22,-1.44 -3.22,-3.21 0,-1.78 1.44,-3.23 3.22,-3.23 1.77,0 3.22,1.45 3.22,3.23z"/>
+</symbol>
+<symbol id="Fm151-166-0" viewBox="1993.38 -97.64 4.63 4.63">
+ <path class="fil202" d="M1998.01 -95.33c0,1.28 -1.04,2.31 -2.32,2.31 -1.28,0 -2.31,-1.03 -2.31,-2.31 0,-1.28 1.03,-2.31 2.31,-2.31 1.28,0 2.32,1.03 2.32,2.31z"/>
+</symbol>
+<symbol id="Fm150-165-0" viewBox="1907.14 65.47 8.55 8.55">
+ <path class="fil203" d="M1915.69 69.74c0,2.36 -1.91,4.28 -4.28,4.28 -2.35,0 -4.27,-1.92 -4.27,-4.28 0,-2.36 1.92,-4.27 4.27,-4.27 2.37,0 4.28,1.91 4.28,4.27z"/>
+</symbol>
+<symbol id="Fm155-170-0" viewBox="2123.53 -83.91 5.12 5.13">
+ <path class="fil204" d="M2128.66 -81.34c0,1.41 -1.15,2.56 -2.56,2.56 -1.42,0 -2.57,-1.15 -2.57,-2.56 0,-1.42 1.15,-2.57 2.57,-2.57 1.41,0 2.56,1.15 2.56,2.57z"/>
+</symbol>
+<symbol id="Fm157-172-0" viewBox="2207.01 62.57 4.8 4.8">
+ <path class="fil205" d="M2211.81 64.97c0,1.32 -1.07,2.4 -2.4,2.4 -1.33,0 -2.4,-1.08 -2.4,-2.4 0,-1.33 1.07,-2.4 2.4,-2.4 1.33,0 2.4,1.07 2.4,2.4z"/>
+</symbol>
+<symbol id="Fm163-179-0" viewBox="2187.23 -78.04 4.37 4.37">
+ <path class="fil206" d="M2191.6 -75.86c0,1.2 -0.98,2.18 -2.19,2.18 -1.2,0 -2.18,-0.98 -2.18,-2.18 0,-1.2 0.98,-2.18 2.18,-2.18 1.21,0 2.19,0.98 2.19,2.18z"/>
+</symbol>
+<symbol id="Fm161-177-0" viewBox="1890.3 16.05 5.15 5.15">
+ <path class="fil207" d="M1895.45 18.63c0,1.42 -1.16,2.57 -2.58,2.57 -1.42,0 -2.57,-1.15 -2.57,-2.57 0,-1.43 1.15,-2.58 2.57,-2.58 1.42,0 2.58,1.15 2.58,2.58z"/>
+</symbol>
+<symbol id="Fm164-180-0" viewBox="2154.13 22.16 16.47 16.47">
+ <path class="fil208" d="M2170.6 30.4c0,4.55 -3.69,8.24 -8.24,8.24 -4.54,0 -8.23,-3.69 -8.23,-8.24 0,-4.55 3.69,-8.24 8.23,-8.24 4.55,0 8.24,3.69 8.24,8.24z"/>
+</symbol>
+<symbol id="Fm160-176-0" viewBox="2111.26 -121.96 6.81 6.81">
+ <path class="fil209" d="M2118.07 -118.56c0,1.88 -1.52,3.41 -3.4,3.41 -1.89,0 -3.41,-1.53 -3.41,-3.41 0,-1.87 1.52,-3.4 3.41,-3.4 1.88,0 3.4,1.53 3.4,3.4z"/>
+</symbol>
+<symbol id="Fm159-174-0" viewBox="1953.94 -92.67 17.18 17.17">
+ <path class="fil210" d="M1971.11 -84.08c0,4.74 -3.84,8.59 -8.58,8.59 -4.75,0 -8.59,-3.85 -8.59,-8.59 0,-4.74 3.84,-8.59 8.59,-8.59 4.74,0 8.58,3.85 8.58,8.59z"/>
+</symbol>
+<symbol id="Fm16-175-0" viewBox="958.33 218.88 733 494">
+ <image x="958.33" y="218.74" width="733.21" height="494.14" xlink:href="partap-logo_Images\partap-logo_ImgID105.png"/>
+</symbol>
+<symbol id="Fm154-169-0" viewBox="1920.55 -107.17 9.36 9.36">
+ <path class="fil211" d="M1929.91 -102.49c0,2.59 -2.1,4.69 -4.68,4.69 -2.59,0 -4.68,-2.1 -4.68,-4.69 0,-2.58 2.09,-4.68 4.68,-4.68 2.58,0 4.68,2.1 4.68,4.68z"/>
+</symbol>
+<symbol id="Fm158-173-0" viewBox="1852.27 -67.26 6.15 6.15">
+ <path class="fil212" d="M1858.42 -64.18c0,1.7 -1.38,3.07 -3.07,3.07 -1.7,0 -3.08,-1.37 -3.08,-3.07 0,-1.7 1.38,-3.08 3.08,-3.08 1.69,0 3.07,1.38 3.07,3.08z"/>
+</symbol>
+<symbol id="Fm162-178-0" viewBox="1927.72 -80.08 7.6 7.61">
+ <path class="fil213" d="M1935.32 -76.27c0,2.1 -1.7,3.8 -3.8,3.8 -2.1,0 -3.8,-1.7 -3.8,-3.8 0,-2.1 1.7,-3.81 3.8,-3.81 2.1,0 3.8,1.71 3.8,3.81z"/>
+</symbol>
+<symbol id="Fm156-171-0" viewBox="2057.18 -59.97 5.22 5.22">
+ <path class="fil214" d="M2062.4 -57.36c0,1.44 -1.17,2.61 -2.62,2.61 -1.44,0 -2.6,-1.17 -2.6,-2.61 0,-1.44 1.16,-2.61 2.6,-2.61 1.45,0 2.62,1.17 2.62,2.61z"/>
+</symbol>
+<symbol id="Fm165-181-0" viewBox="1978.31 135.15 10.38 10.38">
+ <path class="fil215" d="M1988.7 140.33c0,2.87 -2.33,5.19 -5.2,5.19 -2.86,0 -5.19,-2.32 -5.19,-5.19 0,-2.86 2.33,-5.18 5.19,-5.18 2.87,0 5.2,2.32 5.2,5.18z"/>
+</symbol>
+<symbol id="Fm17-186-0" viewBox="1568.34 -481.12 423 817">
+ <image x="1568.34" y="-481.35" width="423.12" height="817.23" xlink:href="partap-logo_Images\partap-logo_ImgID106.png"/>
+</symbol>
+<symbol id="Fm168-184-0" viewBox="1991 118.53 12.24 12.24">
+ <path class="fil216" d="M2003.25 124.65c0,3.39 -2.74,6.12 -6.13,6.12 -3.38,0 -6.12,-2.73 -6.12,-6.12 0,-3.38 2.74,-6.12 6.12,-6.12 3.39,0 6.13,2.74 6.13,6.12z"/>
+</symbol>
+<symbol id="Fm167-183-0" viewBox="2116.15 -163.57 9.5 9.5">
+ <path class="fil217" d="M2125.65 -158.82c0,2.62 -2.13,4.75 -4.75,4.75 -2.62,0 -4.75,-2.13 -4.75,-4.75 0,-2.62 2.13,-4.75 4.75,-4.75 2.62,0 4.75,2.13 4.75,4.75z"/>
+</symbol>
+<symbol id="Fm166-182-0" viewBox="2112.91 -39.35 13.72 13.73">
+ <path class="fil218" d="M2126.63 -32.48c0,3.79 -3.07,6.86 -6.86,6.86 -3.79,0 -6.86,-3.07 -6.86,-6.86 0,-3.8 3.07,-6.87 6.86,-6.87 3.79,0 6.86,3.07 6.86,6.87z"/>
+</symbol>
+<symbol id="Fm169-185-0" viewBox="1982.37 54.81 16.16 16.16">
+ <path class="fil219" d="M1998.53 62.89c0,4.46 -3.62,8.08 -8.08,8.08 -4.47,0 -8.08,-3.62 -8.08,-8.08 0,-4.46 3.61,-8.08 8.08,-8.08 4.46,0 8.08,3.62 8.08,8.08z"/>
+</symbol>
+<symbol id="Fm176-193-0" viewBox="2028.46 107.91 6.43 6.43">
+ <path class="fil220" d="M2034.88 111.13c0,1.77 -1.44,3.21 -3.21,3.21 -1.78,0 -3.21,-1.44 -3.21,-3.21 0,-1.78 1.43,-3.22 3.21,-3.22 1.77,0 3.21,1.44 3.21,3.22z"/>
+</symbol>
+<symbol id="Fm173-190-0" viewBox="2112.13 -95.13 4.65 4.65">
+ <path class="fil221" d="M2116.77 -92.81c0,1.28 -1.04,2.33 -2.32,2.33 -1.29,0 -2.32,-1.05 -2.32,-2.33 0,-1.28 1.03,-2.32 2.32,-2.32 1.28,0 2.32,1.04 2.32,2.32z"/>
+</symbol>
+<symbol id="Fm179-196-0" viewBox="2093.91 92.08 4.32 4.32">
+ <path class="fil222" d="M2098.23 94.24c0,1.19 -0.96,2.16 -2.15,2.16 -1.2,0 -2.17,-0.97 -2.17,-2.16 0,-1.2 0.97,-2.16 2.17,-2.16 1.19,0 2.15,0.96 2.15,2.16z"/>
+</symbol>
+<symbol id="Fm18-197-0" viewBox="798.91 318.35 629.9 629.9">
+ <path class="fil223" d="M1418.38 553.25c44.21,168.19 -56.29,340.37 -224.48,384.57 -168.18,44.22 -340.36,-56.29 -384.57,-224.47 -44.21,-168.19 56.29,-340.37 224.48,-384.58 168.18,-44.2 340.37,56.3 384.57,224.48z"/>
+</symbol>
+<symbol id="Fm180-198-0" viewBox="2030.79 168.67 13.16 13.17">
+ <path class="fil224" d="M2043.95 175.26c0,3.63 -2.94,6.58 -6.57,6.58 -3.64,0 -6.59,-2.95 -6.59,-6.58 0,-3.64 2.95,-6.59 6.59,-6.59 3.63,0 6.57,2.95 6.57,6.59z"/>
+</symbol>
+<symbol id="Fm170-187-0" viewBox="1896.31 44.7 5.31 5.3">
+ <path class="fil225" d="M1901.61 47.35c0,1.47 -1.19,2.65 -2.65,2.65 -1.47,0 -2.65,-1.18 -2.65,-2.65 0,-1.46 1.18,-2.65 2.65,-2.65 1.46,0 2.65,1.19 2.65,2.65z"/>
+</symbol>
+<symbol id="Fm171-188-0" viewBox="1908.57 -100.03 8.6 8.6">
+ <path class="fil226" d="M1917.17 -95.73c0,2.37 -1.92,4.3 -4.3,4.3 -2.37,0 -4.3,-1.93 -4.3,-4.3 0,-2.38 1.93,-4.3 4.3,-4.3 2.38,0 4.3,1.92 4.3,4.3z"/>
+</symbol>
+<symbol id="Fm175-192-0" viewBox="1848.81 15.26 15.53 15.53">
+ <path class="fil227" d="M1864.34 23.02c0,4.3 -3.48,7.77 -7.76,7.77 -4.3,0 -7.77,-3.47 -7.77,-7.77 0,-4.28 3.47,-7.76 7.77,-7.76 4.28,0 7.76,3.48 7.76,7.76z"/>
+</symbol>
+<symbol id="Fm172-189-0" viewBox="2235.14 -34.46 14.2 14.2">
+ <path class="fil228" d="M2249.34 -27.36c0,3.92 -3.18,7.1 -7.1,7.1 -3.92,0 -7.1,-3.18 -7.1,-7.1 0,-3.92 3.18,-7.1 7.1,-7.1 3.92,0 7.1,3.18 7.1,7.1z"/>
+</symbol>
+<symbol id="Fm177-194-0" viewBox="2092.99 4.78 5.52 5.52">
+ <path class="fil229" d="M2098.51 7.54c0,1.53 -1.23,2.76 -2.76,2.76 -1.52,0 -2.76,-1.23 -2.76,-2.76 0,-1.52 1.24,-2.76 2.76,-2.76 1.53,0 2.76,1.24 2.76,2.76z"/>
+</symbol>
+<symbol id="Fm178-195-0" viewBox="1893.36 114.28 5.51 5.51">
+ <path class="fil230" d="M1898.87 117.04c0,1.52 -1.23,2.75 -2.75,2.75 -1.52,0 -2.76,-1.23 -2.76,-2.75 0,-1.52 1.24,-2.76 2.76,-2.76 1.52,0 2.75,1.24 2.75,2.76z"/>
+</symbol>
+<symbol id="Fm174-191-0" viewBox="1944.6 -84.68 4.46 4.46">
+ <path class="fil231" d="M1949.06 -82.45c0,1.24 -0.99,2.23 -2.23,2.23 -1.23,0 -2.23,-0.99 -2.23,-2.23 0,-1.23 1,-2.23 2.23,-2.23 1.24,0 2.23,1 2.23,2.23z"/>
+</symbol>
+<symbol id="Fm182-200-0" viewBox="1906.31 117.77 5.37 5.38">
+ <path class="fil232" d="M1911.69 120.45c0,1.49 -1.21,2.69 -2.69,2.69 -1.48,0 -2.69,-1.2 -2.69,-2.69 0,-1.48 1.21,-2.68 2.69,-2.68 1.48,0 2.69,1.2 2.69,2.68z"/>
+</symbol>
+<symbol id="Fm181-199-0" viewBox="1838.36 -24.52 4.67 4.67">
+ <path class="fil233" d="M1843.03 -22.18c0,1.28 -1.05,2.33 -2.34,2.33 -1.29,0 -2.33,-1.05 -2.33,-2.33 0,-1.29 1.04,-2.34 2.33,-2.34 1.29,0 2.34,1.05 2.34,2.34z"/>
+</symbol>
+<symbol id="Fm102-112-0" viewBox="2196.76 94.52 16.3 16.3">
+ <path class="fil234" d="M2213.06 102.67c0,4.5 -3.66,8.15 -8.16,8.15 -4.5,0 -8.14,-3.65 -8.14,-8.15 0,-4.5 3.64,-8.15 8.14,-8.15 4.5,0 8.16,3.65 8.16,8.15z"/>
+</symbol>
+<symbol id="Fm100-110-0" viewBox="2157.95 -94.83 10.01 10.02">
+ <path class="fil235" d="M2167.96 -89.83c0,2.77 -2.24,5.02 -5.01,5.02 -2.76,0 -5,-2.25 -5,-5.02 0,-2.76 2.24,-5 5,-5 2.77,0 5.01,2.24 5.01,5z"/>
+</symbol>
+<symbol id="Fm1-108-0" viewBox="1241.62 -3258.39 4064.77 4064.77">
+ <path class="fil236 str0" d="M5295.97 -3240.03l0 4028.06c0,4.38 -3.56,7.93 -7.94,7.93l-4028.06 0c-4.38,0 -7.93,-3.55 -7.93,-7.93l0 -4028.06c0,-4.39 3.55,-7.94 7.93,-7.94l4028.06 0c4.38,0 7.94,3.55 7.94,7.94z"/>
+</symbol>
+<symbol id="Fm104-114-0" viewBox="2154.84 -84.85 5.63 5.63">
+ <path class="fil237" d="M2160.47 -82.03c0,1.55 -1.26,2.81 -2.82,2.81 -1.55,0 -2.81,-1.26 -2.81,-2.81 0,-1.55 1.26,-2.82 2.81,-2.82 1.56,0 2.82,1.27 2.82,2.82z"/>
+</symbol>
+<symbol id="Fm10-109-0" viewBox="589.33 -460.12 760 490">
+ <image x="589.33" y="-460.26" width="760.21" height="490.14" xlink:href="partap-logo_Images\partap-logo_ImgID107.png"/>
+</symbol>
+<symbol id="Fm105-115-0" viewBox="2086.05 175.08 9.87 9.87">
+ <path class="fil238" d="M2095.91 180.01c0,2.73 -2.2,4.94 -4.93,4.94 -2.72,0 -4.93,-2.21 -4.93,-4.94 0,-2.72 2.21,-4.93 4.93,-4.93 2.73,0 4.93,2.21 4.93,4.93z"/>
+</symbol>
+<symbol id="Fm106-116-0" viewBox="1958.53 -126.86 11.76 11.76">
+ <path class="fil239" d="M1970.29 -120.98c0,3.25 -2.63,5.88 -5.88,5.88 -3.25,0 -5.88,-2.63 -5.88,-5.88 0,-3.25 2.63,-5.88 5.88,-5.88 3.25,0 5.88,2.63 5.88,5.88z"/>
+</symbol>
+<symbol id="Fm101-111-0" viewBox="2009.7 -147.01 9.04 9.04">
+ <path class="fil240" d="M2018.73 -142.49c0,2.49 -2.02,4.52 -4.51,4.52 -2.5,0 -4.52,-2.03 -4.52,-4.52 0,-2.5 2.02,-4.52 4.52,-4.52 2.49,0 4.51,2.02 4.51,4.52z"/>
+</symbol>
+<symbol id="Fm103-113-0" viewBox="2101.37 13.05 4.8 4.8">
+ <path class="fil241" d="M2106.17 15.45c0,1.32 -1.07,2.4 -2.4,2.4 -1.33,0 -2.4,-1.08 -2.4,-2.4 0,-1.33 1.07,-2.4 2.4,-2.4 1.33,0 2.4,1.07 2.4,2.4z"/>
+</symbol>
+<symbol id="Fm11-120-0" viewBox="1190.33 -1229.12 446 839">
+ <image x="1190.33" y="-1229.36" width="446.13" height="839.24" xlink:href="partap-logo_Images\partap-logo_ImgID108.png"/>
+</symbol>
+<symbol id="Fm110-121-0" viewBox="1859.61 -87.86 6.73 6.74">
+ <path class="fil242" d="M1866.34 -84.49c0,1.86 -1.51,3.36 -3.36,3.36 -1.87,0 -3.37,-1.5 -3.37,-3.36 0,-1.87 1.5,-3.37 3.37,-3.37 1.85,0 3.36,1.5 3.36,3.37z"/>
+</symbol>
+<symbol id="Fm107-117-0" viewBox="2029.69 -171.78 9.98 9.99">
+ <path class="fil243" d="M2039.67 -166.78c0,2.76 -2.23,4.99 -4.99,4.99 -2.75,0 -4.99,-2.23 -4.99,-4.99 0,-2.76 2.24,-5 4.99,-5 2.76,0 4.99,2.24 4.99,5z"/>
+</symbol>
+<symbol id="Fm109-119-0" viewBox="2131.34 56.77 15.23 15.23">
+ <path class="fil244" d="M2146.57 64.39c0,4.2 -3.41,7.61 -7.61,7.61 -4.21,0 -7.62,-3.41 -7.62,-7.61 0,-4.21 3.41,-7.62 7.62,-7.62 4.2,0 7.61,3.41 7.61,7.62z"/>
+</symbol>
+<symbol id="Fm111-122-0" viewBox="1929.21 173.44 5.51 5.51">
+ <path class="fil245" d="M1934.72 176.19c0,1.52 -1.23,2.76 -2.76,2.76 -1.51,0 -2.75,-1.24 -2.75,-2.76 0,-1.52 1.24,-2.75 2.75,-2.75 1.53,0 2.76,1.23 2.76,2.75z"/>
+</symbol>
+<symbol id="Fm108-118-0" viewBox="1983.52 155.92 6.42 6.42">
+ <path class="fil246" d="M1989.94 159.13c0,1.77 -1.43,3.21 -3.21,3.21 -1.77,0 -3.21,-1.44 -3.21,-3.21 0,-1.77 1.44,-3.21 3.21,-3.21 1.78,0 3.21,1.44 3.21,3.21z"/>
+</symbol>
+<symbol id="Fm117-128-0" viewBox="1940.94 -142.71 4.89 4.89">
+ <path class="fil247" d="M1945.83 -140.26c0,1.35 -1.1,2.45 -2.45,2.45 -1.35,0 -2.44,-1.1 -2.44,-2.45 0,-1.35 1.09,-2.45 2.44,-2.45 1.35,0 2.45,1.1 2.45,2.45z"/>
+</symbol>
+<symbol id="Fm115-126-0" viewBox="2091.69 121.39 7 7">
+ <path class="fil248" d="M2098.68 124.89c0,1.93 -1.56,3.5 -3.49,3.5 -1.93,0 -3.5,-1.57 -3.5,-3.5 0,-1.93 1.57,-3.5 3.5,-3.5 1.93,0 3.49,1.57 3.49,3.5z"/>
+</symbol>
+<symbol id="Fm118-129-0" viewBox="2039.88 -180.26 10.05 10.05">
+ <path class="fil249" d="M2049.94 -175.23c0,2.78 -2.25,5.03 -5.03,5.03 -2.78,0 -5.03,-2.25 -5.03,-5.03 0,-2.78 2.25,-5.03 5.03,-5.03 2.78,0 5.03,2.25 5.03,5.03z"/>
+</symbol>
+<symbol id="Fm113-124-0" viewBox="2076.01 -75.16 7.87 7.87">
+ <path class="fil250" d="M2083.87 -71.23c0,2.17 -1.76,3.93 -3.93,3.93 -2.18,0 -3.93,-1.76 -3.93,-3.93 0,-2.17 1.75,-3.93 3.93,-3.93 2.17,0 3.93,1.76 3.93,3.93z"/>
+</symbol>
+<symbol id="Fm114-125-0" viewBox="2188.01 10.42 5.55 5.54">
+ <path class="fil251" d="M2193.56 13.19c0,1.53 -1.25,2.77 -2.78,2.77 -1.53,0 -2.77,-1.24 -2.77,-2.77 0,-1.53 1.24,-2.77 2.77,-2.77 1.53,0 2.78,1.24 2.78,2.77z"/>
+</symbol>
+<symbol id="Fm112-123-0" viewBox="2057.12 -153.56 14.61 14.61">
+ <path class="fil252" d="M2071.73 -146.26c0,4.03 -3.27,7.3 -7.3,7.3 -4.04,0 -7.31,-3.27 -7.31,-7.3 0,-4.03 3.27,-7.3 7.31,-7.3 4.03,0 7.3,3.27 7.3,7.3z"/>
+</symbol>
+<symbol id="Fm116-127-0" viewBox="1929.66 -69.17 7.33 7.34">
+ <path class="fil253" d="M1936.99 -65.5c0,2.03 -1.64,3.67 -3.66,3.67 -2.03,0 -3.67,-1.64 -3.67,-3.67 0,-2.02 1.64,-3.67 3.67,-3.67 2.02,0 3.66,1.65 3.66,3.67z"/>
+</symbol>
+<symbol id="Fm122-134-0" viewBox="1903.49 -33.06 12.3 12.3">
+ <path class="fil254" d="M1915.79 -26.91c0,3.4 -2.76,6.15 -6.15,6.15 -3.39,0 -6.15,-2.75 -6.15,-6.15 0,-3.39 2.76,-6.15 6.15,-6.15 3.39,0 6.15,2.76 6.15,6.15z"/>
+</symbol>
+<symbol id="Fm123-135-0" viewBox="2141.12 24.63 15.03 15.03">
+ <path class="fil255" d="M2156.15 32.15c0,4.15 -3.37,7.52 -7.52,7.52 -4.15,0 -7.51,-3.37 -7.51,-7.52 0,-4.15 3.36,-7.52 7.51,-7.52 4.15,0 7.52,3.37 7.52,7.52z"/>
+</symbol>
+<symbol id="Fm120-132-0" viewBox="1929.3 -106.32 7.21 7.21">
+ <path class="fil256" d="M1936.51 -102.71c0,1.98 -1.62,3.6 -3.6,3.6 -2,0 -3.61,-1.62 -3.61,-3.6 0,-1.99 1.61,-3.61 3.61,-3.61 1.98,0 3.6,1.62 3.6,3.61z"/>
+</symbol>
+<symbol id="Fm119-130-0" viewBox="1959.27 -69.73 5.18 5.18">
+ <path class="fil257" d="M1964.45 -67.14c0,1.43 -1.16,2.59 -2.59,2.59 -1.43,0 -2.59,-1.16 -2.59,-2.59 0,-1.44 1.16,-2.59 2.59,-2.59 1.43,0 2.59,1.15 2.59,2.59z"/>
+</symbol>
+<symbol id="Fm12-131-0" viewBox="911.86 -1175.18 629.85 629.85">
+ <path class="fil258" d="M1536.79 -805.16c-30.42,171.22 -193.89,285.35 -365.1,254.92 -171.22,-30.42 -285.35,-193.89 -254.92,-365.11 30.42,-171.21 193.89,-285.34 365.1,-254.92 171.22,30.43 285.35,193.89 254.92,365.11z"/>
+</symbol>
+<symbol id="Fm121-133-0" viewBox="2080.12 108.94 10.41 10.41">
+ <path class="fil259" d="M2090.53 114.15c0,2.87 -2.33,5.2 -5.21,5.2 -2.87,0 -5.2,-2.33 -5.2,-5.2 0,-2.88 2.33,-5.21 5.2,-5.21 2.88,0 5.21,2.33 5.21,5.21z"/>
+</symbol>
+<symbol id="Fm124-136-0" viewBox="1846.32 44.64 8.96 8.95">
+ <path class="fil260" d="M1855.28 49.12c0,2.48 -2,4.47 -4.48,4.47 -2.47,0 -4.48,-1.99 -4.48,-4.47 0,-2.47 2.01,-4.48 4.48,-4.48 2.48,0 4.48,2.01 4.48,4.48z"/>
+</symbol>
+<symbol id="Fm125-137-0" viewBox="2027.7 -108.62 12.8 12.8">
+ <path class="fil261" d="M2040.5 -102.22c0,3.54 -2.87,6.4 -6.4,6.4 -3.54,0 -6.4,-2.86 -6.4,-6.4 0,-3.53 2.86,-6.4 6.4,-6.4 3.53,0 6.4,2.87 6.4,6.4z"/>
+</symbol>
+<symbol id="Fm127-139-0" viewBox="2038.09 88.29 6.46 6.46">
+ <path class="fil262" d="M2044.55 91.53c0,1.79 -1.44,3.23 -3.23,3.23 -1.78,0 -3.23,-1.44 -3.23,-3.23 0,-1.79 1.45,-3.24 3.23,-3.24 1.79,0 3.23,1.45 3.23,3.24z"/>
+</symbol>
+<symbol id="Fm126-138-0" viewBox="1903.96 -10.86 8.39 8.39">
+ <path class="fil263" d="M1912.35 -6.67c0,2.32 -1.87,4.2 -4.19,4.2 -2.32,0 -4.2,-1.88 -4.2,-4.2 0,-2.31 1.88,-4.19 4.2,-4.19 2.32,0 4.19,1.88 4.19,4.19z"/>
+</symbol>
+<symbol id="Fm130-143-0" viewBox="1914.06 -148.8 4.42 4.42">
+ <path class="fil264" d="M1918.48 -146.59c0,1.22 -0.99,2.21 -2.21,2.21 -1.22,0 -2.21,-0.99 -2.21,-2.21 0,-1.22 0.99,-2.21 2.21,-2.21 1.22,0 2.21,0.99 2.21,2.21z"/>
+</symbol>
+<symbol id="Fm129-141-0" viewBox="1888.43 33.19 4.46 4.46">
+ <path class="fil265" d="M1892.88 35.42c0,1.24 -0.99,2.23 -2.23,2.23 -1.22,0 -2.22,-0.99 -2.22,-2.23 0,-1.22 1,-2.23 2.22,-2.23 1.24,0 2.23,1.01 2.23,2.23z"/>
+</symbol>
+<symbol id="Fm131-144-0" viewBox="1842.9 81.24 4.83 4.83">
+ <path class="fil266" d="M1847.73 83.65c0,1.34 -1.08,2.42 -2.41,2.42 -1.33,0 -2.42,-1.08 -2.42,-2.42 0,-1.33 1.09,-2.41 2.42,-2.41 1.33,0 2.41,1.08 2.41,2.41z"/>
+</symbol>
+<symbol id="Fm13-142-0" viewBox="683.33 967.88 712 427">
+ <image x="683.33" y="967.76" width="712.2" height="427.12" xlink:href="partap-logo_Images\partap-logo_ImgID109.png"/>
+</symbol>
+<symbol id="Fm128-140-0" viewBox="2108.06 169.35 15.82 15.82">
+ <path class="fil267" d="M2123.88 177.25c0,4.37 -3.55,7.92 -7.92,7.92 -4.36,0 -7.9,-3.55 -7.9,-7.92 0,-4.37 3.54,-7.9 7.9,-7.9 4.37,0 7.92,3.53 7.92,7.9z"/>
+</symbol>
+<symbol id="Fm132-145-0" viewBox="1961.89 165.39 16.97 16.98">
+ <path class="fil268" d="M1978.86 173.88c0,4.69 -3.8,8.48 -8.48,8.48 -4.69,0 -8.49,-3.79 -8.49,-8.48 0,-4.69 3.8,-8.49 8.49,-8.49 4.68,0 8.48,3.8 8.48,8.49z"/>
+</symbol>
+<symbol id="Fm283-312-0" viewBox="2166.91 23.73 12.7 12.7">
+ <path class="fil269" d="M2179.61 30.09c0,3.5 -2.85,6.34 -6.36,6.34 -3.5,0 -6.34,-2.84 -6.34,-6.34 0,-3.51 2.84,-6.36 6.34,-6.36 3.51,0 6.36,2.85 6.36,6.36z"/>
+</symbol>
+<symbol id="Fm258-284-0" viewBox="2016.71 -4.79 10.12 10.12">
+ <path class="fil270" d="M2026.83 0.27c0,2.79 -2.27,5.06 -5.06,5.06 -2.8,0 -5.06,-2.27 -5.06,-5.06 0,-2.8 2.26,-5.06 5.06,-5.06 2.79,0 5.06,2.26 5.06,5.06z"/>
+</symbol>
+<symbol id="Fm257-283-0" viewBox="1905.36 19.12 4.57 4.57">
+ <path class="fil271" d="M1909.93 21.41c0,1.26 -1.02,2.29 -2.28,2.29 -1.26,0 -2.29,-1.03 -2.29,-2.29 0,-1.26 1.03,-2.29 2.29,-2.29 1.26,0 2.28,1.03 2.28,2.29z"/>
+</symbol>
+<symbol id="Fm259-285-0" viewBox="2033.37 -139.4 7.26 7.26">
+ <path class="fil272" d="M2040.63 -135.77c0,2.01 -1.63,3.63 -3.63,3.63 -2,0 -3.63,-1.62 -3.63,-3.63 0,-2 1.63,-3.63 3.63,-3.63 2,0 3.63,1.63 3.63,3.63z"/>
+</symbol>
+<symbol id="Fm26-286-0" viewBox="2018.31 -46.26 5.82 5.82">
+ <path class="fil273" d="M2024.13 -43.35c0,1.61 -1.3,2.91 -2.9,2.91 -1.61,0 -2.92,-1.3 -2.92,-2.91 0,-1.61 1.31,-2.91 2.92,-2.91 1.6,0 2.9,1.3 2.9,2.91z"/>
+</symbol>
+<symbol id="Fm260-287-0" viewBox="2005.44 147.33 5.9 5.89">
+ <path class="fil274" d="M2011.33 150.28c0,1.63 -1.32,2.95 -2.95,2.95 -1.63,0 -2.94,-1.32 -2.94,-2.95 0,-1.63 1.31,-2.95 2.94,-2.95 1.63,0 2.95,1.32 2.95,2.95z"/>
+</symbol>
+<symbol id="Fm261-288-0" viewBox="1948.31 178.72 7.09 7.09">
+ <path class="fil275" d="M1955.39 182.27c0,1.95 -1.59,3.55 -3.54,3.55 -1.96,0 -3.54,-1.6 -3.54,-3.55 0,-1.96 1.58,-3.55 3.54,-3.55 1.95,0 3.54,1.59 3.54,3.55z"/>
+</symbol>
+<symbol id="Fm262-289-0" viewBox="2162.54 105.89 10.09 10.09">
+ <path class="fil276" d="M2172.63 110.93c0,2.79 -2.25,5.05 -5.04,5.05 -2.79,0 -5.05,-2.26 -5.05,-5.05 0,-2.78 2.26,-5.04 5.05,-5.04 2.79,0 5.04,2.26 5.04,5.04z"/>
+</symbol>
+<symbol id="Fm263-290-0" viewBox="1952.53 -104.06 10.42 10.41">
+ <path class="fil277" d="M1962.94 -98.85c0,2.87 -2.33,5.2 -5.21,5.2 -2.87,0 -5.2,-2.33 -5.2,-5.2 0,-2.88 2.33,-5.21 5.2,-5.21 2.88,0 5.21,2.33 5.21,5.21z"/>
+</symbol>
+<symbol id="Fm264-291-0" viewBox="1968.95 -148.51 8.97 8.97">
+ <path class="fil278" d="M1977.92 -144.03c0,2.48 -2.01,4.49 -4.49,4.49 -2.47,0 -4.48,-2.01 -4.48,-4.49 0,-2.47 2.01,-4.48 4.48,-4.48 2.48,0 4.49,2.01 4.49,4.48z"/>
+</symbol>
+<symbol id="Fm265-292-0" viewBox="2076.07 213.63 5.23 5.23">
+ <path class="fil279" d="M2081.3 216.24c0,1.46 -1.17,2.63 -2.61,2.63 -1.45,0 -2.62,-1.17 -2.62,-2.63 0,-1.44 1.17,-2.61 2.62,-2.61 1.44,0 2.61,1.17 2.61,2.61z"/>
+</symbol>
+<symbol id="Fm267-294-0" viewBox="2150.36 -128.25 12.52 12.52">
+ <path class="fil280" d="M2162.88 -122c0,3.46 -2.81,6.26 -6.26,6.26 -3.46,0 -6.26,-2.8 -6.26,-6.26 0,-3.45 2.8,-6.25 6.26,-6.25 3.45,0 6.26,2.8 6.26,6.25z"/>
+</symbol>
+<symbol id="Fm266-293-0" viewBox="1908.25 -127.1 10.58 10.57">
+ <path class="fil281" d="M1918.82 -121.81c0,2.92 -2.37,5.28 -5.29,5.28 -2.92,0 -5.28,-2.36 -5.28,-5.28 0,-2.92 2.36,-5.29 5.28,-5.29 2.92,0 5.29,2.37 5.29,5.29z"/>
+</symbol>
+<symbol id="Fm269-296-0" viewBox="2079.23 128.01 4.9 4.9">
+ <path class="fil282" d="M2084.12 130.46c0,1.35 -1.09,2.44 -2.45,2.44 -1.35,0 -2.44,-1.09 -2.44,-2.44 0,-1.36 1.09,-2.45 2.44,-2.45 1.36,0 2.45,1.09 2.45,2.45z"/>
+</symbol>
+<symbol id="Fm268-295-0" viewBox="2151.38 52.75 8.69 8.69">
+ <path class="fil283" d="M2160.06 57.09c0,2.4 -1.94,4.35 -4.34,4.35 -2.4,0 -4.34,-1.95 -4.34,-4.35 0,-2.4 1.94,-4.34 4.34,-4.34 2.4,0 4.34,1.94 4.34,4.34z"/>
+</symbol>
+<symbol id="Fm27-297-0" viewBox="2058.38 -186.92 5.54 5.54">
+ <path class="fil284" d="M2063.93 -184.15c0,1.53 -1.25,2.77 -2.77,2.77 -1.54,0 -2.78,-1.24 -2.78,-2.77 0,-1.53 1.24,-2.77 2.78,-2.77 1.52,0 2.77,1.24 2.77,2.77z"/>
+</symbol>
+<symbol id="Fm271-299-0" viewBox="1994.1 -98.29 6.95 6.94">
+ <path class="fil285" d="M2001.05 -94.81c0,1.91 -1.56,3.47 -3.48,3.47 -1.92,0 -3.47,-1.56 -3.47,-3.47 0,-1.92 1.55,-3.48 3.47,-3.48 1.92,0 3.48,1.56 3.48,3.48z"/>
+</symbol>
+<symbol id="Fm270-298-0" viewBox="1961.33 80.49 8.87 8.86">
+ <path class="fil286" d="M1970.2 84.93c0,2.44 -1.99,4.43 -4.44,4.43 -2.45,0 -4.43,-1.99 -4.43,-4.43 0,-2.45 1.98,-4.44 4.43,-4.44 2.45,0 4.44,1.99 4.44,4.44z"/>
+</symbol>
+<symbol id="Fm272-300-0" viewBox="2198.84 -98.36 5.2 5.2">
+ <path class="fil287" d="M2204.05 -95.76c0,1.43 -1.17,2.6 -2.6,2.6 -1.44,0 -2.61,-1.17 -2.61,-2.6 0,-1.44 1.17,-2.6 2.61,-2.6 1.43,0 2.6,1.16 2.6,2.6z"/>
+</symbol>
+<symbol id="Fm273-301-0" viewBox="1881.88 47.3 4.7 4.7">
+ <path class="fil288" d="M1886.58 49.65c0,1.3 -1.05,2.36 -2.35,2.36 -1.3,0 -2.35,-1.06 -2.35,-2.36 0,-1.29 1.05,-2.35 2.35,-2.35 1.3,0 2.35,1.06 2.35,2.35z"/>
+</symbol>
+<symbol id="Fm274-302-0" viewBox="1960 126.49 14.55 14.56">
+ <path class="fil289" d="M1974.56 133.77c0,4.02 -3.26,7.28 -7.28,7.28 -4.02,0 -7.28,-3.26 -7.28,-7.28 0,-4.02 3.26,-7.28 7.28,-7.28 4.02,0 7.28,3.26 7.28,7.28z"/>
+</symbol>
+<symbol id="Fm276-304-0" viewBox="2005.1 -196.69 6.19 6.19">
+ <path class="fil290" d="M2011.29 -193.6c0,1.72 -1.38,3.1 -3.09,3.1 -1.71,0 -3.1,-1.38 -3.1,-3.1 0,-1.7 1.39,-3.09 3.1,-3.09 1.71,0 3.09,1.39 3.09,3.09z"/>
+</symbol>
+<symbol id="Fm275-303-0" viewBox="2044.82 89.61 4.54 4.54">
+ <path class="fil291" d="M2049.36 91.88c0,1.26 -1.02,2.27 -2.27,2.27 -1.25,0 -2.27,-1.01 -2.27,-2.27 0,-1.25 1.02,-2.27 2.27,-2.27 1.25,0 2.27,1.02 2.27,2.27z"/>
+</symbol>
+<symbol id="Fm277-305-0" viewBox="1957.68 -98.4 12.5 12.5">
+ <path class="fil292" d="M1970.19 -92.15c0,3.45 -2.8,6.25 -6.25,6.25 -3.46,0 -6.26,-2.8 -6.26,-6.25 0,-3.45 2.8,-6.25 6.26,-6.25 3.45,0 6.25,2.8 6.25,6.25z"/>
+</symbol>
+<symbol id="Fm278-306-0" viewBox="2170.19 -158.93 4.75 4.75">
+ <path class="fil293" d="M2174.95 -156.56c0,1.31 -1.07,2.38 -2.38,2.38 -1.31,0 -2.38,-1.07 -2.38,-2.38 0,-1.31 1.07,-2.37 2.38,-2.37 1.31,0 2.38,1.06 2.38,2.37z"/>
+</symbol>
+<symbol id="Fm279-307-0" viewBox="1972.92 66.87 16.39 16.39">
+ <path class="fil294" d="M1989.31 75.06c0,4.53 -3.67,8.2 -8.19,8.2 -4.53,0 -8.2,-3.67 -8.2,-8.2 0,-4.53 3.67,-8.19 8.2,-8.19 4.52,0 8.19,3.66 8.19,8.19z"/>
+</symbol>
+<symbol id="Fm28-308-0" viewBox="2238.95 -73.8 12.9 12.91">
+ <path class="fil295" d="M2251.85 -67.34c0,3.56 -2.89,6.45 -6.45,6.45 -3.56,0 -6.45,-2.89 -6.45,-6.45 0,-3.57 2.89,-6.46 6.45,-6.46 3.56,0 6.45,2.89 6.45,6.46z"/>
+</symbol>
+<symbol id="Fm280-309-0" viewBox="2191.2 64.23 11.38 11.38">
+ <path class="fil296" d="M2202.58 69.92c0,3.14 -2.55,5.69 -5.7,5.69 -3.14,0 -5.68,-2.55 -5.68,-5.69 0,-3.15 2.54,-5.69 5.68,-5.69 3.15,0 5.7,2.54 5.7,5.69z"/>
+</symbol>
+<symbol id="Fm281-310-0" viewBox="2149.06 107.29 12.05 12.05">
+ <path class="fil297" d="M2161.11 113.32c0,3.32 -2.7,6.02 -6.03,6.02 -3.32,0 -6.02,-2.7 -6.02,-6.02 0,-3.33 2.7,-6.03 6.02,-6.03 3.33,0 6.03,2.7 6.03,6.03z"/>
+</symbol>
+<symbol id="Fm282-311-0" viewBox="1989.57 -29.61 10.25 10.26">
+ <path class="fil298" d="M1999.82 -24.48c0,2.84 -2.29,5.13 -5.13,5.13 -2.83,0 -5.12,-2.29 -5.12,-5.13 0,-2.83 2.29,-5.13 5.12,-5.13 2.84,0 5.13,2.3 5.13,5.13z"/>
+</symbol>
+<symbol id="Fm0-908-0" viewBox="4435.97 -2538.91 264.95 32.65">
+ <image x="4435.97" y="-2538.91" width="264.95" height="32.65" xlink:href="partap-logo_Images\partap-logo_ImgID110.png"/>
+</symbol>
+<symbol id="Fm1-909-0" viewBox="4440.08 -2527.83 260.15 84.34">
+ <image x="4440.08" y="-2527.83" width="260.15" height="84.34" xlink:href="partap-logo_Images\partap-logo_ImgID111.png"/>
+</symbol>
+<symbol id="Fm10-910-0" viewBox="4663.08 -2532.72 237.61 146.61">
+ <image x="4663.08" y="-2532.72" width="237.61" height="146.61" xlink:href="partap-logo_Images\partap-logo_ImgID112.png"/>
+</symbol>
+<symbol id="Fm12-912-0" viewBox="4660.36 -2538.91 264.95 32.65">
+ <image x="4660.36" y="-2538.91" width="264.95" height="32.65" xlink:href="partap-logo_Images\partap-logo_ImgID113.png"/>
+</symbol>
+<symbol id="Fm11-911-0" viewBox="4661.05 -2527.83 260.15 84.34">
+ <image x="4661.05" y="-2527.83" width="260.15" height="84.34" xlink:href="partap-logo_Images\partap-logo_ImgID114.png"/>
+</symbol>
+<symbol id="Fm14-914-0" viewBox="4663.08 -2659.06 237.61 146.62">
+ <image x="4663.08" y="-2659.06" width="237.61" height="146.62" xlink:href="partap-logo_Images\partap-logo_ImgID115.png"/>
+</symbol>
+<symbol id="Fm203-224-0" viewBox="1913.98 92.7 6.17 6.17">
+ <path class="fil299" d="M1920.15 95.78c0,1.71 -1.38,3.09 -3.09,3.09 -1.7,0 -3.08,-1.38 -3.08,-3.09 0,-1.7 1.38,-3.08 3.08,-3.08 1.71,0 3.09,1.38 3.09,3.08z"/>
+</symbol>
+<symbol id="Fm208-229-0" viewBox="2249.11 46.35 5.01 5.01">
+ <path class="fil300" d="M2254.11 48.85c0,1.38 -1.12,2.5 -2.5,2.5 -1.38,0 -2.5,-1.12 -2.5,-2.5 0,-1.38 1.12,-2.5 2.5,-2.5 1.38,0 2.5,1.12 2.5,2.5z"/>
+</symbol>
+<symbol id="Fm209-230-0" viewBox="1949.04 80.1 16.35 16.35">
+ <path class="fil301" d="M1965.39 88.27c0,4.52 -3.66,8.18 -8.18,8.18 -4.51,0 -8.17,-3.66 -8.17,-8.18 0,-4.51 3.66,-8.17 8.17,-8.17 4.52,0 8.18,3.66 8.18,8.17z"/>
+</symbol>
+<symbol id="Fm204-225-0" viewBox="1939.61 -17.09 8.16 8.16">
+ <path class="fil302" d="M1947.77 -13.01c0,2.26 -1.83,4.08 -4.08,4.08 -2.26,0 -4.08,-1.82 -4.08,-4.08 0,-2.25 1.82,-4.08 4.08,-4.08 2.25,0 4.08,1.83 4.08,4.08z"/>
+</symbol>
+<symbol id="Fm206-227-0" viewBox="2217.68 7.13 4.46 4.46">
+ <path class="fil303" d="M2222.14 9.36c0,1.23 -1,2.23 -2.23,2.23 -1.23,0 -2.23,-1 -2.23,-2.23 0,-1.23 1,-2.23 2.23,-2.23 1.23,0 2.23,1 2.23,2.23z"/>
+</symbol>
+<symbol id="Fm205-226-0" viewBox="1929.2 76.56 6.92 6.92">
+ <path class="fil304" d="M1936.12 80.02c0,1.91 -1.55,3.45 -3.46,3.45 -1.91,0 -3.46,-1.54 -3.46,-3.45 0,-1.91 1.55,-3.46 3.46,-3.46 1.91,0 3.46,1.55 3.46,3.46z"/>
+</symbol>
+<symbol id="Fm207-228-0" viewBox="2101.59 -102.23 8.61 8.61">
+ <path class="fil305" d="M2110.21 -97.92c0,2.38 -1.93,4.31 -4.31,4.31 -2.38,0 -4.31,-1.93 -4.31,-4.31 0,-2.38 1.93,-4.31 4.31,-4.31 2.38,0 4.31,1.93 4.31,4.31z"/>
+</symbol>
+<symbol id="Fm215-237-0" viewBox="2155.06 -58.49 14.3 14.3">
+ <path class="fil306" d="M2169.36 -51.34c0,3.95 -3.2,7.15 -7.15,7.15 -3.95,0 -7.15,-3.2 -7.15,-7.15 0,-3.94 3.2,-7.15 7.15,-7.15 3.95,0 7.15,3.21 7.15,7.15z"/>
+</symbol>
+<symbol id="Fm216-238-0" viewBox="2074.37 -50.94 4.73 4.73">
+ <path class="fil307" d="M2079.1 -48.57c0,1.31 -1.06,2.37 -2.37,2.37 -1.3,0 -2.36,-1.06 -2.36,-2.37 0,-1.31 1.06,-2.37 2.36,-2.37 1.31,0 2.37,1.06 2.37,2.37z"/>
+</symbol>
+<symbol id="Fm210-232-0" viewBox="2173.69 72.4 15.52 15.52">
+ <path class="fil308" d="M2189.21 80.16c0,4.29 -3.48,7.76 -7.76,7.76 -4.29,0 -7.76,-3.47 -7.76,-7.76 0,-4.29 3.47,-7.76 7.76,-7.76 4.28,0 7.76,3.47 7.76,7.76z"/>
+</symbol>
+<symbol id="Fm21-231-0" viewBox="1777.82 -311.69 503.81 633.57">
+ <path class="fil309" d="M1778.32 321.63c-8.68,-6.9 96.84,-154.2 235.69,-329.02 138.84,-174.82 258.44,-310.94 267.12,-304.05 8.68,6.89 -96.84,154.2 -235.69,329.02 -138.85,174.81 -258.44,310.94 -267.12,304.05z"/>
+</symbol>
+<symbol id="Fm211-233-0" viewBox="2119.38 160.68 4.52 4.51">
+ <path class="fil310" d="M2123.9 162.94c0,1.24 -1.01,2.26 -2.26,2.26 -1.24,0 -2.26,-1.02 -2.26,-2.26 0,-1.25 1.02,-2.26 2.26,-2.26 1.25,0 2.26,1.01 2.26,2.26z"/>
+</symbol>
+<symbol id="Fm212-234-0" viewBox="2124.78 -104.59 5.1 5.09">
+ <path class="fil311" d="M2129.88 -102.05c0,1.41 -1.14,2.55 -2.55,2.55 -1.4,0 -2.55,-1.14 -2.55,-2.55 0,-1.41 1.15,-2.54 2.55,-2.54 1.41,0 2.55,1.13 2.55,2.54z"/>
+</symbol>
+<symbol id="Fm213-235-0" viewBox="1887.11 -52.16 8.27 8.27">
+ <path class="fil312" d="M1895.38 -48.03c0,2.29 -1.85,4.14 -4.13,4.14 -2.29,0 -4.14,-1.85 -4.14,-4.14 0,-2.28 1.85,-4.13 4.14,-4.13 2.28,0 4.13,1.85 4.13,4.13z"/>
+</symbol>
+<symbol id="Fm214-236-0" viewBox="1841.97 -84.66 14.57 14.57">
+ <path class="fil313" d="M1856.54 -77.38c0,4.03 -3.26,7.29 -7.29,7.29 -4.02,0 -7.28,-3.26 -7.28,-7.29 0,-4.03 3.26,-7.28 7.28,-7.28 4.03,0 7.29,3.25 7.29,7.28z"/>
+</symbol>
+<symbol id="Fm217-239-0" viewBox="1904 0.31 13.14 13.14">
+ <path class="fil314" d="M1917.14 6.87c0,3.64 -2.94,6.57 -6.57,6.57 -3.63,0 -6.57,-2.93 -6.57,-6.57 0,-3.62 2.94,-6.56 6.57,-6.56 3.63,0 6.57,2.94 6.57,6.56z"/>
+</symbol>
+<symbol id="Fm22-242-0" viewBox="1936.36 -172.43 186.74 355.05">
+ <path class="fil315" d="M2122.68 182.56c-4.83,2.53 -50.36,-74.88 -101.69,-172.89 -51.34,-98.01 -89.04,-179.52 -84.22,-182.04 4.83,-2.53 50.36,74.88 101.69,172.89 51.34,98.01 89.04,179.51 84.22,182.04z"/>
+</symbol>
+<symbol id="Fm218-240-0" viewBox="1846.16 -6.84 4.78 4.78">
+ <path class="fil316" d="M1850.94 -4.46c0,1.33 -1.06,2.4 -2.38,2.4 -1.33,0 -2.4,-1.07 -2.4,-2.4 0,-1.32 1.07,-2.38 2.4,-2.38 1.32,0 2.38,1.06 2.38,2.38z"/>
+</symbol>
+<symbol id="Fm219-241-0" viewBox="1936.82 -19.95 5.9 5.9">
+ <path class="fil317" d="M1942.72 -17c0,1.63 -1.32,2.94 -2.95,2.94 -1.63,0 -2.95,-1.31 -2.95,-2.94 0,-1.63 1.32,-2.95 2.95,-2.95 1.63,0 2.95,1.32 2.95,2.95z"/>
+</symbol>
+<symbol id="Fm221-244-0" viewBox="2106.06 -174.33 9.13 9.14">
+ <path class="fil318" d="M2115.19 -169.76c0,2.52 -2.04,4.57 -4.56,4.57 -2.52,0 -4.57,-2.05 -4.57,-4.57 0,-2.52 2.05,-4.57 4.57,-4.57 2.52,0 4.56,2.05 4.56,4.57z"/>
+</symbol>
+<symbol id="Fm220-243-0" viewBox="1907.08 -35.93 4.55 4.55">
+ <path class="fil319" d="M1911.63 -33.66c0,1.26 -1.02,2.28 -2.27,2.28 -1.26,0 -2.28,-1.02 -2.28,-2.28 0,-1.25 1.02,-2.27 2.28,-2.27 1.25,0 2.27,1.02 2.27,2.27z"/>
+</symbol>
+<symbol id="Fm222-245-0" viewBox="2168.27 76.59 8.13 8.13">
+ <path class="fil320" d="M2176.4 80.66c0,2.25 -1.82,4.06 -4.06,4.06 -2.25,0 -4.07,-1.81 -4.07,-4.06 0,-2.25 1.82,-4.07 4.07,-4.07 2.24,0 4.06,1.82 4.06,4.07z"/>
+</symbol>
+<symbol id="Fm223-246-0" viewBox="2090.42 -55.78 9.89 9.89">
+ <path class="fil321" d="M2100.31 -50.84c0,2.73 -2.22,4.94 -4.95,4.94 -2.73,0 -4.94,-2.21 -4.94,-4.94 0,-2.73 2.21,-4.94 4.94,-4.94 2.73,0 4.95,2.21 4.95,4.94z"/>
+</symbol>
+<symbol id="Fm230-254-0" viewBox="1879.99 -66.99 7.62 7.62">
+ <path class="fil322" d="M1887.6 -63.18c0,2.1 -1.7,3.81 -3.8,3.81 -2.11,0 -3.81,-1.71 -3.81,-3.81 0,-2.1 1.7,-3.81 3.81,-3.81 2.1,0 3.8,1.71 3.8,3.81z"/>
+</symbol>
+<symbol id="Fm23-253-0" viewBox="1834.9 -189.73 389.65 389.65">
+ <path class="fil323" d="M2224.55 5.1c0,107.59 -87.23,194.82 -194.82,194.82 -107.6,0 -194.83,-87.23 -194.83,-194.82 0,-107.61 87.23,-194.83 194.83,-194.83 107.59,0 194.82,87.22 194.82,194.83z"/>
+</symbol>
+<symbol id="Fm228-251-0" viewBox="1945.2 108.29 11.44 11.44">
+ <path class="fil324" d="M1956.63 114.01c0,3.16 -2.56,5.72 -5.72,5.72 -3.15,0 -5.71,-2.56 -5.71,-5.72 0,-3.16 2.56,-5.72 5.71,-5.72 3.16,0 5.72,2.56 5.72,5.72z"/>
+</symbol>
+<symbol id="Fm229-252-0" viewBox="2044.82 119.36 4.65 4.65">
+ <path class="fil325" d="M2049.47 121.68c0,1.29 -1.04,2.33 -2.32,2.33 -1.29,0 -2.33,-1.04 -2.33,-2.33 0,-1.28 1.04,-2.32 2.33,-2.32 1.28,0 2.32,1.04 2.32,2.32z"/>
+</symbol>
+<symbol id="Fm225-248-0" viewBox="2089.83 98.97 13.57 13.58">
+ <path class="fil326" d="M2103.4 105.75c0,3.75 -3.04,6.79 -6.79,6.79 -3.74,0 -6.78,-3.04 -6.78,-6.79 0,-3.74 3.04,-6.78 6.78,-6.78 3.75,0 6.79,3.04 6.79,6.78z"/>
+</symbol>
+<symbol id="Fm226-249-0" viewBox="1956.11 34.41 8.28 8.28">
+ <path class="fil327" d="M1964.4 38.55c0,2.29 -1.86,4.14 -4.15,4.14 -2.28,0 -4.14,-1.85 -4.14,-4.14 0,-2.28 1.86,-4.14 4.14,-4.14 2.29,0 4.15,1.86 4.15,4.14z"/>
+</symbol>
+<symbol id="Fm224-247-0" viewBox="2078.43 76 10.6 10.6">
+ <path class="fil328" d="M2089.04 81.31c0,2.93 -2.38,5.3 -5.31,5.3 -2.92,0 -5.3,-2.37 -5.3,-5.3 0,-2.93 2.38,-5.31 5.3,-5.31 2.93,0 5.31,2.38 5.31,5.31z"/>
+</symbol>
+<symbol id="Fm227-250-0" viewBox="2160.53 -45.08 4.87 4.86">
+ <path class="fil329" d="M2165.39 -42.65c0,1.34 -1.08,2.43 -2.43,2.43 -1.35,0 -2.43,-1.09 -2.43,-2.43 0,-1.35 1.08,-2.43 2.43,-2.43 1.35,0 2.43,1.08 2.43,2.43z"/>
+</symbol>
+<symbol id="Fm200-221-0" viewBox="2124.2 11.73 14.03 14.03">
+ <path class="fil330" d="M2138.23 18.74c0,3.88 -3.14,7.02 -7.01,7.02 -3.88,0 -7.02,-3.14 -7.02,-7.02 0,-3.87 3.14,-7.01 7.02,-7.01 3.87,0 7.01,3.14 7.01,7.01z"/>
+</symbol>
+<symbol id="Fm201-222-0" viewBox="2022.17 74.31 9.82 9.82">
+ <path class="fil331" d="M2031.99 79.22c0,2.7 -2.2,4.9 -4.91,4.9 -2.71,0 -4.91,-2.2 -4.91,-4.9 0,-2.72 2.2,-4.91 4.91,-4.91 2.71,0 4.91,2.19 4.91,4.91z"/>
+</symbol>
+<symbol id="Fm2-219-0" viewBox="1594.38 -651.95 943.23 1188.54">
+ <path class="fil332" d="M2524.05 29.45c-61.74,324.62 -316.88,548.76 -569.86,500.64 -252.98,-48.12 -408.01,-350.28 -346.26,-674.9 61.75,-324.62 316.88,-548.76 569.86,-500.64 252.99,48.12 408.01,350.28 346.26,674.9z"/>
+</symbol>
+<symbol id="Fm202-223-0" viewBox="1862.2 129.51 4.76 4.76">
+ <path class="fil333" d="M1866.96 131.89c0,1.32 -1.07,2.38 -2.38,2.38 -1.32,0 -2.38,-1.06 -2.38,-2.38 0,-1.31 1.06,-2.38 2.38,-2.38 1.31,0 2.38,1.07 2.38,2.38z"/>
+</symbol>
+<symbol id="Fm198-217-0" viewBox="1936.9 144.82 5.28 5.28">
+ <path class="fil334" d="M1942.18 147.47c0,1.45 -1.18,2.64 -2.64,2.64 -1.46,0 -2.64,-1.19 -2.64,-2.64 0,-1.46 1.18,-2.65 2.64,-2.65 1.46,0 2.64,1.19 2.64,2.65z"/>
+</symbol>
+<symbol id="Fm197-216-0" viewBox="1964.61 100.28 5.18 5.19">
+ <path class="fil335" d="M1969.79 102.88c0,1.43 -1.16,2.59 -2.59,2.59 -1.43,0 -2.59,-1.16 -2.59,-2.59 0,-1.44 1.16,-2.6 2.59,-2.6 1.43,0 2.59,1.16 2.59,2.6z"/>
+</symbol>
+<symbol id="Fm199-218-0" viewBox="1891.91 98.97 8.32 8.31">
+ <path class="fil336" d="M1900.23 103.12c0,2.3 -1.86,4.16 -4.16,4.16 -2.29,0 -4.16,-1.86 -4.16,-4.16 0,-2.29 1.87,-4.15 4.16,-4.15 2.3,0 4.16,1.86 4.16,4.15z"/>
+</symbol>
+<symbol id="Fm20-220-0" viewBox="1625.5 -14.98 808.45 40.15">
+ <path class="fil337" d="M2433.95 5.1c0,11.08 -180.98,20.07 -404.22,20.07 -223.25,0 -404.23,-8.99 -404.23,-20.07 0,-11.09 180.98,-20.08 404.23,-20.08 223.24,0 404.22,8.99 404.22,20.08z"/>
+</symbol>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-1280.58" y="548.18" width="151.59" height="41.58" xlink:href="partap-logo_Images\partap-logo_ImgID116.png"/>
+  </g>
+  <g style="clip-path:url(#id2)">
+  </g>
+  <path class="fil338" d="M-1131.89 550.23c-29.55,41.52 -93.01,3.82 -127.28,38.81 33.81,-27.01 89.1,15.1 127.28,-38.81z"/>
+  <polygon class="fil339" points="-1133.5,559.65 -1204.22,578.57 -1274.94,559.65 -1274.94,521.81 -1204.22,502.89 -1133.5,521.81 "/>
+  <polygon class="fil340" style="mask:url(#id3)" points="-1141.85,554.24 -1204.22,568 -1266.59,554.24 -1266.59,526.72 -1204.22,512.96 -1141.85,526.72 "/>
+  <polygon class="fil341" style="mask:url(#id5)" points="-1141.85,555.08 -1204.22,569.12 -1266.59,555.08 -1266.59,527 -1204.22,512.96 -1141.85,527 "/>
+  <path class="fil342" d="M-1204.22 579.27l-71.59 -19.16 0 -38.76 71.59 -19.16 71.6 19.16 0 38.76 -71.6 19.16zm-69.85 -20.09l0 0 69.85 18.69 69.85 -18.69 0 -36.9 -69.85 -18.69 -69.85 18.69 0 36.9z"/>
+  <path class="fil343" d="M-1204.22 572.62l-67.6 -16.45 0 -30.76 67.6 -16.45 67.6 16.45 0 30.76 -67.6 16.45zm-64.04 -18.18l0 0 64.04 15.59 64.04 -15.59 0 -27.31 -64.04 -15.58 -64.04 15.58 0 27.31z"/>
+  <path class="fil344" d="M-1204.22 575.08l-66.36 -17.75 0 -33.2 66.36 -17.75 66.36 17.75 0 33.2 -66.36 17.75zm-62.87 -19.61l0 0 62.87 16.81 62.87 -16.81 0 -29.48 -62.87 -16.81 -62.87 16.81 0 29.48z"/>
+  <path class="fil345" d="M-1162.15 569.55c-31.56,7.09 -72.04,-6.01 -97.02,19.49 25.61,-20.46 63.54,-1.27 97.02,-14.18l0 -5.31z"/>
+  <path class="fil346" d="M-1154.59 526.3c1.27,0 2.31,1.15 2.31,2.56 0,1.4 -1.04,2.55 -2.31,2.55 -1.27,0 -2.31,-1.15 -2.31,-2.55 0,-1.41 1.04,-2.56 2.31,-2.56zm0 0.41c1.07,0 1.94,0.96 1.94,2.15 0,1.18 -0.87,2.14 -1.94,2.14 -1.07,0 -1.94,-0.96 -1.94,-2.14 0,-1.19 0.87,-2.15 1.94,-2.15z"/>
+  <path class="fil347" d="M-1154.59 526.71c1.07,0 1.94,0.96 1.94,2.15 0,1.18 -0.87,2.14 -1.94,2.14 -1.07,0 -1.94,-0.96 -1.94,-2.14 0,-1.19 0.87,-2.15 1.94,-2.15z"/>
+  <path class="fil348" d="M-1154.87 528.82l0.12 0c0.2,0 0.36,-0.05 0.47,-0.13 0.11,-0.08 0.16,-0.21 0.16,-0.37 0,-0.15 -0.04,-0.27 -0.13,-0.34 -0.09,-0.07 -0.23,-0.11 -0.43,-0.11l-0.19 0 0 0.95zm0 1.5l-0.52 0 0 -2.92 0.63 0c0.2,0 0.35,0 0.45,0.02 0.09,0.01 0.18,0.04 0.25,0.07 0.15,0.08 0.26,0.19 0.34,0.33 0.08,0.14 0.12,0.3 0.12,0.49 0,0.22 -0.06,0.42 -0.17,0.57 -0.11,0.16 -0.27,0.26 -0.46,0.3l0.66 1.14 -0.62 0 -0.68 -1.36 0 1.36z"/>
+  <path class="fil349" d="M-1208.32 544.19l0 8.12c-2.06,-1.55 -3.84,-3.14 -4.94,-4.51 -1.61,-1.99 -1.78,-3.48 0.73,-3.56l4.21 -0.05zm34.08 -6.64l4.38 0 0 3.12c-0.77,0.69 -1.99,1.51 -2.95,1.91 -1.13,0.49 -1.43,0.32 -1.43,-0.84l0 -4.19zm-51.01 -0.03l0 19.77 -9.74 -4.59 0 -0.97 -7.8 4.68 -8.54 -5.49 6.62 -2.74c-2.28,-1.24 -3.72,-3.39 -3.72,-6.13l0 -4.53 -2.77 0 -6.61 -8.43 99.24 0 6.82 8.43 -8.8 0 0 19.71 -9.33 -4.53 0 -2.56c-4.52,0.47 -13.69,-0.95 -13.69,-8.04l0 -4.58 -3.63 0 0 19.71 -9.16 -4.53 0 -15.18 -2.65 0 0 19.71 -9.19 -4.53 -5.9 3.49c-9.21,-8.14 -12.72,-15.64 -5.55,-18.67l-5.6 0zm-9.53 0.03l0 3.34c-0.88,0.83 -2.14,1.54 -3.11,1.87 -0.85,0.28 -1.36,0.46 -1.36,-0.57l0 -4.64 4.47 0z"/>
+  <path class="fil347" d="M-1175.13 536.48l6.09 0 0 4.49c-0.7,0.88 -6.09,4.8 -6.09,2.04l0 -6.53zm16.23 -6.15l-97.13 -0.05 5.07 6.2 3.45 0 0 6.25c-0.04,2.19 1.56,3.89 4.68,5.41l-7.08 3.42 7.15 4.03 8.66 -5.39 0 1.51 7.99 4.26 0 -19.49 18.55 0 0 0.55 -6.58 0c-2,0.06 -4.05,0.39 -5.65,1.28 -3.05,1.68 -3.49,4.71 -2.02,7.8 1.5,3.19 4.63,6.05 7.74,9.12l4.44 -2.77c-1.8,-1.6 -3.46,-2.82 -4.66,-4.51 -0.74,-1.02 -1.51,-2.45 -0.81,-3.76 0.41,-0.78 1.37,-1.14 2.87,-1.06l4.71 0 0 8.43 7.57 4.03 0 -19.1 4.42 0 0 15.31 7.51 3.79 0 -19.11 5.26 0.01 0 6.1c0.06,5.03 9.11,8.28 13.67,6.28l0.04 2.69 7.66 4.03 0 -19.11 7.56 0 -5.07 -6.15zm-81.19 6.16l6.18 -0.01 0 5.01c-1.14,0.85 -2.74,1.72 -4.04,2.13 -1,0.32 -2.16,0.63 -2.16,-0.8l0.02 -6.33z"/>
+  <path class="fil350" d="M-1176.47 534.95l8.76 0 0 6.84c-1.32,1.46 -8.76,6.28 -8.76,1.13l0 -7.97zm-76.52 -3.38l2.64 3.38 3.79 0 0.17 7.46c0,3.2 4.98,5.03 7.07,5.66l-7.45 3.52 4.16 2.12 9.97 -6.04 0 3.61 5.07 2.43 0 -18.76 21.31 0 0 3.59 -7.45 0c-3.36,-0.13 -9.67,1.55 -6.89,6.88 1.5,2.88 4.81,5.81 6.74,8.04l1.82 -1.27c-1.42,-1.35 -2.78,-2.64 -3.64,-3.96 -0.96,-1.49 -1.4,-3.51 -0.13,-5 0.7,-0.83 1.81,-1.32 3.08,-1.3l6.47 0 0 9.35 5.15 2.43 0 -18.76 6.84 0 0 16.33 5.07 2.43 0 -18.76 7.6 0 0 6.87c0,5.03 10.09,8.19 13.9,4.81l0 4.65 4.96 2.43 0 -18.76 6.34 0 -3.25 -3.3 -93.34 -0.08zm11.79 3.38l8.43 0 0 6.91c-0.39,0.51 -2.28,1.84 -4.17,2.71 -2.15,0.99 -4.3,1.38 -4.3,-0.69l0.04 -8.93z"/>
+ </g>
+</svg>
