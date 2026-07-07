@@ -310,8 +310,8 @@ p { margin: 0 0 1.1em; }
 }
 .tagline-band .hindi { font-family: var(--font-hindi); text-transform: none; letter-spacing: .06em; font-size: .95rem; }
 .tagline-band span.dot { color: var(--gold-500); margin: 0 1.1rem; }
-/* the spans are: hindi(1) dot(2) dot(3) band-opt(4) - hide the 2nd dot + optional text */
-@media (max-width: 700px) { .tagline-band span.dot:nth-of-type(3), .tagline-band .band-opt { display: none; } }
+/* on small screens keep only "Trusted for over six decades"; dot + trailing text share .band-opt */
+@media (max-width: 700px) { .tagline-band .band-opt { display: none; } }
 
 /* ---------- Sections ---------- */
 .section { padding-block: var(--section-pad); position: relative; }
